@@ -4,6 +4,7 @@ import type { LucideIcon } from "lucide-react";
 import { ArrowDown, ArrowRight, Bell, ChevronDown, LogOut } from "lucide-react";
 import { totalCourses } from "@/data/content";
 import { Logo } from "./ui-fun";
+import useAuthStore from "@/stores/useAuthStore";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuLabel, DropdownMenuSeparator, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
 
 export type NavItem = { to: string; label: string; icon: LucideIcon; exact?: boolean };
@@ -15,7 +16,7 @@ const notes = [
   "🎯 Daily Challenge is ready",
 ];
 
-export function AppShell({ nav, role, user, children }: { nav: NavItem[]; role: string; user: string; children: ReactNode }) {
+export function AppShell({ nav, role, username, children }: { nav: NavItem[]; role: string; username: string; children: ReactNode }) {
   const [unread, setUnread] = useState(notes.length);
   const [isOpen, setIsOpen] = useState<number>(-1);
   const [isTrue, setIsTrue] = useState(false);
@@ -23,6 +24,9 @@ export function AppShell({ nav, role, user, children }: { nav: NavItem[]; role: 
   const handleClick = (idx: number) => {
     setIsOpen((prev) => (prev === idx ? -1 : idx));
   }
+
+  const { user, isAuthenticated } = useAuthStore();
+  console.log(user)
 
   return (
     <div className="flex min-h-screen">
@@ -97,9 +101,10 @@ export function AppShell({ nav, role, user, children }: { nav: NavItem[]; role: 
         <Link to="/" className="flex items-center gap-2 rounded-xl px-3 py-2 text-sm font-semibold text-muted-foreground hover:bg-secondary"><LogOut className="h-4 w-4" /> Log out</Link>
       </aside>
       <div className="flex min-w-0 flex-1 flex-col">
+        {/* dashboard header */}
         <header className="glass sticky top-0 z-30 flex items-center justify-between border-b px-4 py-3 md:px-8">
           <div className="md:hidden"><Logo to={nav[0].to} /></div>
-          <div className="hidden text-sm font-semibold text-muted-foreground md:block">{role}</div>
+          <div className="hidden text-sm font-semibold text-muted-foreground md:block">Welcome, {user?.fullName}</div>
           <div className="flex items-center gap-3">
             <DropdownMenu onOpenChange={(o) => o && setUnread(0)}>
               <DropdownMenuTrigger className="relative rounded-xl p-2 hover:bg-secondary" aria-label="Notifications">
@@ -112,9 +117,10 @@ export function AppShell({ nav, role, user, children }: { nav: NavItem[]; role: 
                 {notes.map((n) => <DropdownMenuItem key={n} className="rounded-xl py-2">{n}</DropdownMenuItem>)}
               </DropdownMenuContent>
             </DropdownMenu>
-            <div className="grid h-9 w-9 place-items-center rounded-full bg-gradient-candy font-bold text-on-fun">{user[0]}</div>
+            <div className="grid h-9 w-9 place-items-center rounded-full bg-gradient-candy font-bold text-on-fun">{user?.fullName[0]}</div>
           </div>
         </header>
+
         <main className="flex-1 px-4 pb-28 pt-6 md:px-8 md:pb-10">{children}</main>
       </div>
       <nav className="glass fixed inset-x-0 bottom-0 z-40 flex justify-around border-t py-2 md:hidden">

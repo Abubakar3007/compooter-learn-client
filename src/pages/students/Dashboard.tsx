@@ -5,6 +5,7 @@ import { useProgress } from "@/lib/progress";
 import { badges, careers, type Fun } from "@/data/content";
 import { cn } from "@/lib/utils";
 import { totalCourses } from "@/data/content";
+import useAuthStore from "@/stores/useAuthStore";
 
 const challenges: { e: string; t: string; c: Fun; to: string }[] = [
   { e: "🧠", t: "Logic Challenge", c: "purple", to: "/student/quiz" },
@@ -15,15 +16,22 @@ const challenges: { e: string; t: string; c: Fun; to: string }[] = [
 const journey = [["Computer Basics", 1], ["Hardware & Software", 1], ["Binary Numbers", 1], ["Algorithms", 1], ["Flowcharts", 0.5], ["Programming Basics", 0]] as const;
 
 export default function Dashboard() {
+
   const { progress } = useProgress();
   const hour = new Date().getHours();
   const greet = hour < 12 ? "Good Morning" : hour < 17 ? "Good Afternoon" : "Good Evening";
+
+  const { isAuthenticated, user } = useAuthStore();
+  console.log(user);
+
   return (
     <div className="space-y-8">
+
       <div className="animate-pop">
-        <h1 className="text-3xl md:text-4xl">{greet}, {progress.name}! 👋</h1>
+        <h1 className="text-3xl md:text-4xl">{greet}, {user?.fullName}! 👋</h1>
         <p className="text-muted-foreground">Ready for today's coding adventure?</p>
       </div>
+
       <div className="grid grid-cols-2 gap-4 lg:grid-cols-4">
         <Stat emoji="🔥" label="Day Streak" value={7} color="orange" />
         <Stat emoji="⭐" label="XP" value={progress.xp.toLocaleString()} color="yellow" />
@@ -41,16 +49,34 @@ export default function Dashboard() {
             <div className="mt-3 h-3 overflow-hidden rounded-full bg-card/30"><div className="h-full w-[68%] rounded-full bg-card" /></div>
             <div className="mt-1 text-sm font-bold">68% complete</div>
           </div>
-          <Link to="/learn/$courseId" params={{ courseId: "computer-fundamentals" }} className="inline-flex items-center gap-2 rounded-2xl bg-card px-5 py-3 font-display font-extrabold text-primary">Continue Learning <ArrowRight className="h-4 w-4" /></Link>
+          <Link
+            to="/learn/$courseId"
+            // params={{ courseId: "computer-fundamentals" }}
+            className="inline-flex items-center gap-2 rounded-2xl bg-card px-5 py-3 font-display font-extrabold text-primary"
+          >
+            Continue Learning
+            <ArrowRight className="h-4 w-4" />
+          </Link>
         </div>
-        
+
       </section>
 
       <section>
         <h2 className="mb-3 text-2xl">Today's Challenges</h2>
         <div className="grid grid-cols-2 gap-4 lg:grid-cols-4">
           {challenges.map((c) => (
-            <Link key={c.t} to={c.to as never}><FunCard className="text-center"><div className="mx-auto w-fit"><EmojiTile emoji={c.e} color={c.c} size="lg" /></div><div className="mt-3 font-display font-extrabold">{c.t}</div><div className="text-xs font-bold text-primary">+30 XP</div></FunCard></Link>
+            <Link
+              key={c.t}
+              to={c.to as never}
+            >
+              <FunCard className="text-center">
+                <div className="mx-auto w-fit">
+                  <EmojiTile emoji={c.e} color={c.c} size="lg" />
+                </div>
+                <div className="mt-3 font-display font-extrabold">{c.t}</div>
+                <div className="text-xs font-bold text-primary">+30 XP</div>
+              </FunCard>
+            </Link>
           ))}
         </div>
       </section>
@@ -71,11 +97,17 @@ export default function Dashboard() {
             </ol>
           </FunCard>
         </section>
+
         <section>
           <h2 className="mb-3 text-2xl">Recent Achievements</h2>
           <FunCard className="grid grid-cols-4 gap-3">
             {badges.filter((b) => b.earned).map((b) => (
-              <div key={b.id} className="text-center"><div className="mx-auto w-fit animate-float" ><EmojiTile emoji={b.emoji} color={b.color} /></div><div className="mt-1 text-[11px] font-bold">{b.title}</div></div>
+              <div key={b.id} className="text-center">
+                <div className="mx-auto w-fit animate-float" >
+                  <EmojiTile emoji={b.emoji} color={b.color} />
+                </div>
+                <div className="mt-1 text-[11px] font-bold">{b.title}</div>
+              </div>
             ))}
           </FunCard>
         </section>
@@ -87,8 +119,8 @@ export default function Dashboard() {
           <Link to="/career-explorer" className="text-sm font-bold text-primary">See all →</Link>
         </div>
 
-        <div className="grid gap-5 pt-4 md:grid-cols-2">
-          {totalCourses.slice(0,4).map((data, i) => (
+        {/* <div className="grid gap-5 pt-4 md:grid-cols-2">
+          {totalCourses.slice(0, 4).map((data, i) => (
             <FunCard key={data.id} className="p-6">
               <div className="flex items-center gap-4">
                 <EmojiTile emoji={data.emoji} color={data?.color} size="lg" />
@@ -109,7 +141,7 @@ export default function Dashboard() {
               </div>
             </FunCard>
           ))}
-        </div>
+        </div> */}
       </div>
 
       <section>

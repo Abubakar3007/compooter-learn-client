@@ -36355,11 +36355,11 @@ Microsoft Edge और Google Chrome दोनों वेब ब्राउज
         slug: "computer-networks",
         heading: "Computer Networks",
         qa: [
-{
-  id: 1,
-  question: "Computer Networks",
+          {
+            id: 1,
+            question: "Computer Networks",
 
-  answer: `A computer network is a group of two or more computers and other devices connected together so that they can communicate, exchange information, and share resources. These devices may include computers, laptops, printers, servers, smartphones, and other network-enabled devices.
+            answer: `A computer network is a group of two or more computers and other devices connected together so that they can communicate, exchange information, and share resources. These devices may include computers, laptops, printers, servers, smartphones, and other network-enabled devices.
 
 The main purpose of a computer network is to make communication and information sharing easier, faster, and more convenient. Connected devices can share files, documents, pictures, videos, printers, software, and internet connections.
 
@@ -36445,7 +36445,7 @@ Important Network Terms:
 
 In conclusion, computer networks are an important part of modern life. They help people communicate, exchange information, share resources, and access online services. Networks are used in homes, schools, hospitals, offices, banks, and businesses around the world.`,
 
-  answerHi: `कंप्यूटर नेटवर्क दो या दो से अधिक कंप्यूटरों और अन्य उपकरणों का एक समूह होता है, जो आपस में जुड़े रहते हैं ताकि वे एक-दूसरे से बातचीत कर सकें, जानकारी का आदान-प्रदान कर सकें और संसाधनों को साझा कर सकें। इन उपकरणों में डेस्कटॉप कंप्यूटर, लैपटॉप, प्रिंटर, सर्वर, स्मार्टफोन और अन्य नेटवर्क से जुड़ने वाले उपकरण शामिल हो सकते हैं।
+            answerHi: `कंप्यूटर नेटवर्क दो या दो से अधिक कंप्यूटरों और अन्य उपकरणों का एक समूह होता है, जो आपस में जुड़े रहते हैं ताकि वे एक-दूसरे से बातचीत कर सकें, जानकारी का आदान-प्रदान कर सकें और संसाधनों को साझा कर सकें। इन उपकरणों में डेस्कटॉप कंप्यूटर, लैपटॉप, प्रिंटर, सर्वर, स्मार्टफोन और अन्य नेटवर्क से जुड़ने वाले उपकरण शामिल हो सकते हैं।
 
 कंप्यूटर नेटवर्क का मुख्य उद्देश्य जानकारी साझा करना और संचार को आसान, तेज़ तथा सुविधाजनक बनाना है। नेटवर्क से जुड़े उपकरण फाइलें, दस्तावेज़, तस्वीरें, वीडियो, प्रिंटर, सॉफ्टवेयर और इंटरनेट कनेक्शन साझा कर सकते हैं।
 
@@ -36531,7 +36531,7 @@ In conclusion, computer networks are an important part of modern life. They help
 
 निष्कर्ष: कंप्यूटर नेटवर्क हमारे आधुनिक जीवन का एक महत्वपूर्ण हिस्सा है। यह लोगों को संचार करने, जानकारी साझा करने, संसाधनों का उपयोग करने और ऑनलाइन सेवाओं तक पहुँचने में मदद करता है। कंप्यूटर नेटवर्क का उपयोग घरों, स्कूलों, अस्पतालों, कार्यालयों, बैंकों और दुनिया भर के व्यवसायों में किया जाता है।`,
 
-  example: `Imagine a school computer laboratory with 20 computers connected to the same network. Each student can use a computer to complete schoolwork. When students need to share a document, they can send it to another computer through the network instead of using a pen drive.
+            example: `Imagine a school computer laboratory with 20 computers connected to the same network. Each student can use a computer to complete schoolwork. When students need to share a document, they can send it to another computer through the network instead of using a pen drive.
 
 The teacher can store lesson notes and worksheets on a school server. Students can access these files from their computers whenever they need them. All 20 computers can also use one shared network printer to print assignments.
 
@@ -36539,7 +36539,7 @@ If the school network is connected to the internet, students can visit education
 
 This example shows how a computer network saves time, makes sharing information easier, and allows many users to share resources.`,
 
-  exampleHi: `मान लीजिए कि एक स्कूल की कंप्यूटर लैब में 20 कंप्यूटर एक ही नेटवर्क से जुड़े हुए हैं। प्रत्येक विद्यार्थी अपने स्कूल का काम पूरा करने के लिए एक कंप्यूटर का उपयोग करता है। जब विद्यार्थियों को कोई दस्तावेज़ साझा करना होता है, तो वे पेन ड्राइव का उपयोग करने के बजाय नेटवर्क के माध्यम से उसे दूसरे कंप्यूटर पर भेज सकते हैं।
+            exampleHi: `मान लीजिए कि एक स्कूल की कंप्यूटर लैब में 20 कंप्यूटर एक ही नेटवर्क से जुड़े हुए हैं। प्रत्येक विद्यार्थी अपने स्कूल का काम पूरा करने के लिए एक कंप्यूटर का उपयोग करता है। जब विद्यार्थियों को कोई दस्तावेज़ साझा करना होता है, तो वे पेन ड्राइव का उपयोग करने के बजाय नेटवर्क के माध्यम से उसे दूसरे कंप्यूटर पर भेज सकते हैं।
 
 शिक्षक पढ़ाई के नोट्स और वर्कशीट स्कूल के सर्वर पर रख सकते हैं। विद्यार्थी आवश्यकता पड़ने पर अपने कंप्यूटर से इन फाइलों को खोल सकते हैं। सभी 20 कंप्यूटर असाइनमेंट प्रिंट करने के लिए एक ही नेटवर्क प्रिंटर का उपयोग भी कर सकते हैं।
 
@@ -36547,10 +36547,10 @@ This example shows how a computer network saves time, makes sharing information 
 
 इस उदाहरण से पता चलता है कि कंप्यूटर नेटवर्क समय बचाता है, जानकारी साझा करना आसान बनाता है और कई लोगों को एक ही संसाधन का उपयोग करने की सुविधा देता है।`,
 
-  image: "",
-  video: "",
-  example_image: ""
-},
+            image: "",
+            video: "",
+            example_image: ""
+          },
           {
             id: 2,
             question: "What is a Network?",
@@ -40331,6 +40331,6153 @@ This is an example of typing because you use a keyboard to enter words and sente
   },
   {
     id: 4,
+    topic: "Information Technology",
+    slug: "information-technology",
+    emoji: "🌐",
+    color: "yellow",
+    level: "Level 5",
+    classes: "Class 9+",
+    decription: "",
+    topics: [
+      {
+        id: 1,
+        heading: "Introduction to Information Technology",
+        slug: "information-technlogy",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Information Technology?",
+            answer: "Information Technology (IT) is the use of computers, software, networks, and other digital technologies to create, store, process, protect, and share information. IT helps people and organizations perform tasks faster, communicate easily, and manage information efficiently.",
+            example: "When you use a computer to type a school project, save it, and send it to your teacher through email, you are using Information Technology.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "IT vs Computer Science",
+            answer: "Information Technology (IT) focuses on using, managing, maintaining, and securing computer systems and networks. Computer Science focuses more on understanding how computers work, designing algorithms, and developing software and programming languages. Both fields are connected and often work together.",
+            example: "An IT professional may set up a school's computer network, while a Computer Science professional may develop the software used to manage student records.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "IT vs Information Systems",
+            answer: "Information Technology (IT) refers to the technology used to manage and process information, including computers, software, networks, and servers. Information Systems (IS) combine technology with people, processes, and data to help organizations manage information and make decisions. IT provides many of the tools that information systems use.",
+            example: "A bank's computers, network, and servers are part of its IT infrastructure. The banking system that combines customer records, transactions, employees, and procedures to manage accounts is an Information System.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "How Businesses Use IT",
+            answer: "Businesses use Information Technology to manage their daily activities, communicate with customers, store records, process payments, track sales, manage employees, and promote their products online. IT helps businesses save time, reduce manual work, improve accuracy, and make better decisions.",
+            example: "An online clothing store uses a website to display products, a database to store customer information, payment software to accept orders, and inventory software to track available clothes.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "IT in Schools, Hospitals and Banks",
+            answer: "Information Technology plays an important role in schools, hospitals, and banks. Schools use IT for online classes, digital learning materials, attendance, and student records. Hospitals use it to manage patient records, appointments, medical reports, and diagnostic equipment. Banks use it for online banking, ATM services, digital payments, and secure transaction records.",
+            example: "A school uses a computer to record student marks, a hospital stores patient reports in a digital system, and a bank allows customers to transfer money using a mobile banking application.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Are the Types of IT Services?",
+            answer: "IT services are the different kinds of technical support and solutions that help people and organizations use technology. Common types include technical support, network management, cloud computing, cybersecurity, software development, data backup and recovery, database management, and IT consulting.",
+            example: "When a technician fixes a computer problem, a company stores files in cloud storage, or a cybersecurity specialist protects a website from hackers, they are providing IT services.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Are IT Departments and Their Roles?",
+            answer: "An IT department is a team in an organization responsible for managing and supporting its technology. Its roles may include installing software, maintaining computers and networks, protecting data, managing user accounts, solving technical problems, backing up important files, and keeping systems running securely.",
+            example: "In a school, the IT department may repair computer lab systems, maintain Wi-Fi, create staff accounts, and help teachers use smart boards and educational software.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are the Basics of IT Infrastructure?",
+            answer: "IT infrastructure is the collection of physical and digital resources required to operate an organization's technology systems. It includes computers, servers, storage devices, networking equipment, internet connections, software, cloud services, and security tools. These components work together to store, process, and exchange information.",
+            example: "A school's IT infrastructure may include desktop computers, a Wi-Fi router, an internet connection, a server for student records, printers, and software used by teachers.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are Everyday Examples of Information Technology?",
+            answer: "Information Technology is part of everyday life. People use it when sending messages, attending online classes, making digital payments, searching for information, watching educational videos, booking tickets, using GPS navigation, and storing photos online. IT makes many everyday activities faster and more convenient.",
+            example: "When you use a smartphone to send a WhatsApp message, pay through UPI, search for a place on Google Maps, or attend an online class, you are using Information Technology.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Are the Careers in Information Technology?",
+            answer: "Information Technology offers many career opportunities for people interested in computers and technology. Common careers include IT support technician, computer network administrator, system administrator, cybersecurity analyst, cloud engineer, database administrator, IT consultant, web developer, software developer, and IT project manager. Different careers require different combinations of technical knowledge, practical skills, and communication abilities.",
+            example: "A student who enjoys solving computer problems may become an IT support technician. Someone interested in protecting websites may become a cybersecurity analyst, while someone who enjoys creating websites may become a web developer.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 2,
+        heading: "Computer Hardware and Maintenance",
+        slug: "computer-hardware-maintenance",
+        qa: [
+          {
+            id: 1,
+            question: "How to Identify Computer Components?",
+            answer: "Computer components are the physical parts of a computer that we can see and touch. These components include the CPU, RAM, storage devices, motherboard, power supply, monitor, keyboard, mouse, and other connected devices. Each component performs a specific job to help the computer work properly.",
+            example: "A desktop computer has a monitor to display information, a keyboard to type text, a mouse to select items, and a system unit containing internal components such as the motherboard, CPU, RAM, and storage drive.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are CPU, RAM and Storage?",
+            answer: "The CPU (Central Processing Unit) executes instructions and performs calculations. RAM (Random Access Memory) temporarily holds data and programs that are currently being used. Storage devices, such as SSDs and hard drives, keep files, applications, and the operating system even when the computer is turned off. These components work together to make a computer function.",
+            example: "When you open a drawing application, the CPU processes its instructions, RAM holds the information needed while the application is running, and storage keeps the application and your saved drawings.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are the Motherboard and Power Supply?",
+            answer: "The motherboard is the main circuit board of a computer. It connects components such as the CPU, RAM, storage devices, and expansion cards so they can communicate. The power supply unit (PSU) converts electricity from a wall outlet into the appropriate power required by the computer's components.",
+            example: "Think of the motherboard as a road system connecting different places in a city. The power supply is like the source that provides the energy needed to keep everything working.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are a Monitor, Keyboard and Mouse?",
+            answer: "A monitor is an output device that displays text, pictures, videos, and other information. A keyboard is an input device used to enter letters, numbers, and commands. A mouse is a pointing device used to move the pointer, select items, click buttons, and open files. Together, these devices help people interact with a computer.",
+            example: "When you type your name using a keyboard, move the pointer with a mouse, and see your name on the monitor, all three devices are working together.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are Printers and Scanners?",
+            answer: "A printer is an output device that produces a physical copy of digital information on paper. A scanner is an input device that converts physical documents or pictures into digital files. These devices are commonly used in schools, offices, homes, and businesses.",
+            example: "A teacher can print a question paper using a printer and scan a student's completed worksheet to save it as a digital file on a computer.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "How Do You Connect External Devices to a Computer?",
+            answer: "External devices are hardware components connected to a computer to add features or perform specific tasks. Examples include USB drives, printers, webcams, speakers, headphones, external hard drives, and game controllers. They may connect through USB, HDMI, audio ports, Bluetooth, or Wi-Fi, depending on the device. Always use compatible connections and follow the manufacturer's instructions.",
+            example: "You can connect a USB pen drive to a computer to transfer files, plug headphones into an audio port to listen to sound, or connect a wireless mouse through Bluetooth.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How Do You Clean and Maintain a Computer?",
+            answer: "Computer cleaning and maintenance help keep a computer safe, reliable, and in good working condition. Keep the computer in a clean, dry, and well-ventilated place. Turn it off and unplug it before cleaning external surfaces. Use a soft microfiber cloth and appropriate electronics-safe cleaning products. Keep food and liquids away, ensure ventilation openings are not blocked, update software, and back up important files. Internal cleaning should be performed only by someone who understands the necessary safety precautions.",
+            example: "A student can gently clean a monitor with a suitable microfiber cloth, keep the keyboard free of dust, avoid blocking the computer's air vents, and regularly back up school projects.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "How Do You Install and Replace Computer Components?",
+            answer: "Installing or replacing computer components means adding new hardware or changing an existing part. Examples include installing RAM, replacing an SSD, adding a compatible graphics card, or replacing a faulty keyboard. Before working inside a computer, shut it down, unplug the power cable, follow the manufacturer's instructions, and use appropriate electrostatic discharge precautions. Components must be compatible with the motherboard, power supply, and computer case. Children should perform internal hardware work only with qualified adult supervision.",
+            example: "If a compatible desktop computer supports additional RAM, a trained technician can install a suitable memory module to improve its ability to handle multiple applications. The computer must be powered off and unplugged before the installation.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is Hardware Compatibility?",
+            answer: "Hardware compatibility means that different computer components and devices can work correctly together. Compatibility depends on factors such as the motherboard's supported CPU and RAM types, storage interfaces, available ports, physical size, power requirements, and operating system support. Checking compatibility before purchasing or installing a component helps prevent problems and unnecessary expenses.",
+            example: "Before buying RAM for a computer, you should check the motherboard or computer manufacturer's specifications to confirm the supported memory type, capacity, speed, and module configuration.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Create a Computer Maintenance Checklist?",
+            answer: "A computer maintenance checklist is a list of tasks used to keep a computer clean, secure, organized, and working properly. A good checklist includes cleaning external surfaces, checking cables, keeping ventilation openings clear, installing software updates, scanning for security threats, checking available storage, backing up important files, and reporting hardware problems. Tasks involving internal components or electrical connections should be handled by a trained adult or technician.",
+            example: "Create a checklist for your school computer with these tasks: (1) Check that the monitor, keyboard, and mouse work. (2) Make sure cables are safely arranged. (3) Keep food and liquids away. (4) Check for software updates with permission. (5) Back up important schoolwork. (6) Report unusual noises, overheating, or damaged cables to a teacher or technician.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 3,
+        heading: "IT Support and Troubleshooting",
+        slug: "it-support-troubleshooting",
+        qa: [
+          {
+            id: 1,
+            question: "What Is an IT Help Desk?",
+            answer: "An IT help desk is a service that helps people solve computer, software, network, and other technology-related problems. Help desk staff answer questions, diagnose technical issues, guide users through solutions, and escalate complex problems to specialized IT professionals. They may provide support in person, over the phone, through email, or using online support tools.",
+            example: "If a student cannot log in to a school computer, they can contact the school's IT help desk. A support technician may check the account, identify the problem, and help the student log in successfully.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "How Do You Identify Common Computer Problems?",
+            answer: "Identifying computer problems means observing symptoms to understand what might be wrong. Common problems include a computer that will not turn on, a slow system, frozen applications, a blank screen, keyboard or mouse failures, audio problems, and error messages. A good troubleshooting process begins by asking questions, checking visible symptoms, and identifying when the problem started before attempting a solution.",
+            example: "If a computer does not produce sound, check whether the speakers are connected, the volume is turned up, the correct audio output is selected, and the application is not muted.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "How Do You Troubleshoot a Slow Computer?",
+            answer: "A slow computer may be caused by too many running applications, insufficient memory, low storage space, background processes, outdated software, overheating, or unwanted programs. To troubleshoot it, close unnecessary applications, restart the computer if appropriate, check available storage, review startup applications, install trusted updates, and run a security scan. Avoid deleting unfamiliar system files or installing unknown performance-boosting tools.",
+            example: "If a computer becomes slow when many browser tabs are open, close tabs you do not need and exit unused applications. If the problem continues, check memory usage and available storage.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "How Do You Diagnose Computer Startup Problems?",
+            answer: "Computer startup problems occur when a computer cannot turn on, complete its startup process, or load its operating system. Possible causes include power supply issues, loose external connections, hardware faults, damaged system files, or boot configuration problems. Start by checking the power source, power cable, monitor connection, and any displayed error messages. If the computer repeatedly fails to start, use the manufacturer's recommended recovery options or contact a qualified technician. Do not open power supplies or attempt electrical repairs.",
+            example: "If a desktop computer does not turn on, first check whether its power cable is securely connected and the wall outlet works. If the computer turns on but shows a startup error, record the error message before seeking further help.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "How Do You Fix Basic Printer Issues?",
+            answer: "Common printer problems include paper jams, low ink or toner, poor print quality, offline status, and failed print jobs. To troubleshoot these problems, check the power supply, paper tray, ink or toner levels, printer connection, selected printer, and print queue. Make sure the correct printer driver is installed and follow the manufacturer's instructions when clearing a paper jam. Never pull paper forcefully or touch hot internal printer parts.",
+            example: "If a document does not print, check that the printer is turned on, has paper, is connected to the computer or network, and is selected as the active printer. Then check whether the document is stuck in the print queue.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "How Do You Troubleshoot Internet Connectivity Problems?",
+            answer: "Internet connectivity problems occur when a device cannot connect to the internet or when the connection is slow or unstable. Possible causes include weak Wi-Fi signals, disconnected cables, router problems, incorrect network settings, or an internet service outage. Check whether other devices can connect, verify Wi-Fi is enabled, inspect network cables where applicable, and restart the router only when appropriate and permitted. If the issue continues, contact the network administrator or internet service provider.",
+            example: "If a laptop cannot access a website, check whether the phone connected to the same Wi-Fi can access the internet. If neither device works, the problem may involve the router or internet service rather than the laptop alone.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How Do You Install and Update Software?",
+            answer: "Installing software means adding a program to a computer so it can perform a particular task. Updating software means installing newer versions that may fix errors, improve performance, add features, or address security vulnerabilities. Download programs only from official websites, trusted app stores, or approved organizational sources. Check system requirements, obtain permission when necessary, and save important work before updates that may require a restart.",
+            example: "A student can install a code editor from its official website with a teacher's permission. When an update becomes available, the student can use the application's built-in updater or another trusted installation method.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are the Fundamentals of Remote IT Support?",
+            answer: "Remote IT support is a way for a technician to help someone solve a technology problem from another location using communication tools or approved remote-access software. It can be used to diagnose software errors, guide users through settings, and perform authorized maintenance. Remote support requires appropriate permission, identity verification, secure connections, and protection of private information. Users should never grant remote access to unknown or unverified callers.",
+            example: "A teacher has trouble using a school application. With permission, an authorized IT technician connects through the school's approved remote-support tool, checks the application settings, and helps resolve the problem.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "How Do You Create and Track IT Support Tickets?",
+            answer: "An IT support ticket is a record of a technical problem or service request. It usually includes the user's details, a description of the issue, the affected device or application, the date reported, priority, current status, troubleshooting steps, and resolution. Tickets help IT teams organize requests, assign responsibility, monitor progress, and maintain a history of completed work. Sensitive passwords should never be included in tickets.",
+            example: "A teacher reports that a classroom printer is not working. The help desk creates a ticket with the printer's location, the error message, and the time reported. The ticket is assigned to a technician and marked resolved after the printer works again.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Build an IT Troubleshooting Guide?",
+            answer: "An IT troubleshooting guide is a document that explains how to identify and resolve common technology problems through clear, step-by-step instructions. To create one, choose common problems, describe their symptoms, list safe checks, provide possible solutions, explain when to contact a technician, and include a way to record the outcome. Organize the guide with headings, numbered steps, and simple diagrams so beginners can follow it easily.",
+            example: "Create a troubleshooting guide for five problems: a computer that will not turn on, a slow computer, a printer that will not print, a missing internet connection, and an application that will not open. For each problem, write the symptoms, possible causes, safe steps to try, and the point at which the user should ask an IT technician for help.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 4,
+        heading: "Operating Systems and Software Administration",
+        slug: "operating-systems-software-administration",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Installing an Operating System?",
+            answer: "Installing an operating system (OS) means setting up the main software that manages a computer's hardware and allows applications to run. The process may involve creating installation media, selecting a suitable OS, preparing a storage drive, choosing installation settings, and configuring the computer after installation. Before installing an OS, important files should be backed up and hardware compatibility should be checked.",
+            example: "A technician installs Windows on a new laptop so the user can run applications, browse the internet, manage files, and use connected devices.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are the Basics of Windows and Linux?",
+            answer: "Windows and Linux are operating systems that manage computer hardware, files, applications, memory, and user accounts. Windows is widely used on personal and business computers and provides a graphical interface for everyday tasks. Linux is a family of open-source operating systems available in distributions such as Ubuntu and Fedora. Linux is commonly used on servers, development computers, cloud systems, and personal computers.",
+            example: "A student may use Windows to prepare school assignments and Ubuntu Linux to learn programming and practice using terminal commands.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are User Accounts and Permissions?",
+            answer: "User accounts allow different people to access a computer with their own settings and files. Permissions determine which actions a user can perform, such as opening files, installing software, or changing system settings. Standard accounts usually have limited privileges, while administrator accounts can make important system changes. Using separate accounts and the principle of least privilege helps improve security.",
+            example: "On a school computer, students may use standard accounts to open educational applications, while an authorized IT administrator manages software installations and system settings.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "How Do You Install and Remove Applications?",
+            answer: "Installing an application means adding software to a computer so it can perform a particular task. Removing an application means uninstalling software that is no longer needed. Applications can be installed through official app stores, trusted websites, or approved organizational tools. Before installation, check system requirements and permissions. When uninstalling software, use the operating system's recommended method rather than deleting random program files.",
+            example: "A student installs a code editor from its official website to practice programming. Later, the student removes an unused application through the computer's application settings.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are Software Updates and Patches?",
+            answer: "Software updates introduce improvements, new features, bug fixes, and security enhancements. A patch is an update designed to fix a particular issue, such as a software error or security vulnerability. Keeping operating systems and applications updated helps protect computers and improve reliability. Updates should come from trusted sources, and important work should be saved before restarting a computer.",
+            example: "When an operating system offers a security update, a user installs it through the official update settings to help protect the computer from known security problems.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Are Drivers and Device Management?",
+            answer: "A device driver is software that allows an operating system to communicate with a hardware device. Drivers may be required for printers, graphics cards, audio devices, network adapters, and other components. Device management involves checking connected hardware, viewing device status, updating drivers, and diagnosing hardware-related problems. Drivers should be obtained from the operating system's update service or the device manufacturer's official website.",
+            example: "If a printer is connected but does not work correctly, a technician may check its connection and device status, then install a compatible printer driver from the manufacturer's website.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Are Disk Management and Partitions?",
+            answer: "Disk management involves organizing and maintaining storage devices such as hard drives and SSDs. A partition is a logical section of a storage device that an operating system can manage separately. Partitions can be used to organize data or support different operating systems. Disk management tools can display storage capacity, create or format partitions, and assign drive letters on supported systems. Changing partitions or formatting a drive can cause data loss, so backups and careful checks are essential.",
+            example: "A computer may have one partition for the operating system and applications and another partition for personal files. Separating them can help organize data, but it does not replace a proper backup.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Command-Line Fundamentals?",
+            answer: "A command-line interface (CLI) allows users to interact with a computer by typing commands instead of relying entirely on graphical menus. Windows provides tools such as Command Prompt and PowerShell, while Linux commonly provides terminal shells such as Bash. Basic commands can display folders, list files, navigate directories, create folders, and inspect network settings. Commands should be understood before execution, especially those that delete files or change system settings.",
+            example: "In a Linux terminal, the command `pwd` displays the current directory, `ls` lists its contents, and `mkdir Projects` creates a folder named Projects. In Windows Command Prompt, `dir` lists files and folders.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are System Restore and Recovery?",
+            answer: "System restore and recovery are methods used to help a computer return to a working state after certain software problems. System Restore on supported Windows systems can roll back selected system settings, drivers, and system files to an earlier restore point. Recovery tools may repair startup problems, restore system images, or reset or reinstall an operating system. Available options vary by operating system. Recovery procedures can affect installed applications or personal data, so important files should be backed up first whenever possible.",
+            example: "If a computer develops problems after a driver update, a technician may use an available restore point or the manufacturer's recommended recovery procedure to help return the system to a working condition.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Set Up a Computer for a New User?",
+            answer: "Setting up a computer for a new user involves preparing the operating system, configuring user accounts, installing approved applications, applying updates, checking device drivers, setting up network access, and verifying security settings. The setup should also include appropriate permissions, accessibility preferences, and a method for backing up important files. Before handing over the computer, test the main functions and document any relevant setup details without recording passwords in plain text.",
+            example: "Prepare a computer for a new student by creating an authorized user account, installing a browser and approved learning applications, checking Wi-Fi and audio, applying updates, enabling appropriate security protections, and testing that the student can save and reopen a school document.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 5,
+        heading: "IT Networking for Support Teams",
+        slug: "it-networking-support-teams",
+        qa: [
+          {
+            id: 1,
+            question: "What Are Ethernet and Wi-Fi?",
+            answer: "Ethernet and Wi-Fi are technologies used to connect devices to a network. Ethernet generally uses cables to provide a wired connection, while Wi-Fi uses radio signals to connect devices wirelessly through a wireless access point or router. Ethernet is often preferred for stable, predictable connections, while Wi-Fi provides mobility and convenient access without network cables.",
+            example: "In a small office, desktop computers may connect to a network using Ethernet cables, while laptops and smartphones connect to the same network through Wi-Fi.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are IP Addresses and Subnet Masks?",
+            answer: "An IP address is a numerical address used to identify an interface on an IP network and help deliver data to the correct destination. IPv4 addresses are commonly written as four numbers separated by dots, while IPv6 addresses use hexadecimal groups separated by colons. A subnet mask, used with IPv4, identifies which part of an address represents the network and which part identifies a host. IPv4 subnet prefixes such as /24 express the same network boundary in another notation.",
+            example: "A computer might have the private IPv4 address 192.168.1.25 with the subnet mask 255.255.255.0, also written /24. This indicates that the computer belongs to the 192.168.1.0/24 subnet.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are Routers, Switches, and Access Points?",
+            answer: "A router forwards data between different IP networks, such as a home network and the internet. A network switch connects devices within a local area network and forwards Ethernet frames to the appropriate ports. A wireless access point allows Wi-Fi devices to connect to a wired network. Some home networking devices combine router, switch, and wireless access point functions in one unit.",
+            example: "In an office, computers connect to a switch, wireless laptops connect through an access point, and a router forwards traffic between the office network and the internet.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are DNS and DHCP?",
+            answer: "DNS (Domain Name System) translates domain names, such as example.com, into the information computers need to locate internet services, including IP addresses. DHCP (Dynamic Host Configuration Protocol) automatically provides network configuration information, such as an IP address, subnet mask, default gateway, and DNS server addresses. These services make network access easier to manage.",
+            example: "When a laptop joins a home Wi-Fi network, DHCP may assign it an IP address. When the user opens a website by its domain name, DNS helps the computer find the associated server address.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "How Do Shared Folders and Network Printers Work?",
+            answer: "A shared folder allows authorized users on a network to access files stored on another computer or server. A network printer allows multiple authorized devices to send print jobs to the same printer over a network. Access is controlled through sharing settings, user permissions, and, where appropriate, authentication. Proper configuration helps users collaborate while protecting confidential files.",
+            example: "Teachers in a school may access a shared folder containing lesson materials, while several office computers send documents to a network printer connected to the school's local network.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "How Do You Troubleshoot Internet Connectivity?",
+            answer: "Troubleshooting internet connectivity means identifying why a device or network cannot reach online services or is experiencing slow or unreliable access. Start by checking Wi-Fi or Ethernet connections, testing other websites, and determining whether other devices are affected. Support staff may inspect IP configuration, test the default gateway, check DNS resolution, and examine router or service-provider status. Make one change at a time and record results to help identify the cause.",
+            example: "If a computer connects to Wi-Fi but cannot open websites, a technician may check its IP configuration, test whether the default gateway is reachable, and verify DNS resolution. These checks help distinguish a local connection problem from a DNS or internet service issue.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Are VPN and Remote Access Basics?",
+            answer: "A Virtual Private Network (VPN) creates an encrypted connection over another network, such as the internet, to help protect traffic between a device and a VPN endpoint. Organizations often use VPNs to let authorized employees access internal resources remotely. Remote access can also refer to approved tools that allow a technician to manage a computer from another location. Secure remote access requires authorization, strong authentication, updated software, and careful handling of sensitive information.",
+            example: "An employee working from home may connect to the company's approved VPN before accessing internal work resources that are not available directly from the public internet.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Network Shares and Permissions?",
+            answer: "A network share is a resource, such as a folder or printer, made available to other devices over a network. Permissions determine which users can view, open, modify, or manage the shared resource. Depending on the system, access may be controlled by share permissions, file-system permissions, user groups, and authentication settings. Following the principle of least privilege helps ensure that users receive only the access they need.",
+            example: "In an office, the finance team may have permission to edit files in a finance folder, while other employees can access only general company documents.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is Basic Network Security?",
+            answer: "Network security involves protecting connected devices, communications, and data against unauthorized access, misuse, and disruption. Basic practices include using strong unique passwords, enabling multifactor authentication where available, updating router firmware, using modern Wi-Fi security such as WPA2-AES or WPA3, maintaining firewalls, limiting unnecessary services, and backing up important information. Guest networks and access controls can help separate visitors from sensitive business systems.",
+            example: "A small office can protect its Wi-Fi by using WPA2-AES or WPA3, changing default administrator credentials, installing router updates, and providing visitors with a separate guest network.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Connect and Troubleshoot a Small Office Network?",
+            answer: "This project involves planning and testing a small network that connects computers, a router, a switch, a wireless access point, and optionally a shared printer. Draw a simple network diagram, identify each device, record approved IP configuration details, test wired and wireless connectivity, and verify access to shared resources. Practice troubleshooting using safe checks and document each issue, the steps taken, and the result. Use only equipment and networks you are authorized to manage.",
+            example: "Create a practice network with two computers connected to a switch and a router, plus a laptop connected over Wi-Fi. Confirm that each device receives valid network settings, test communication with the gateway, open a website, and check access to an authorized shared printer. Record any problems and how they were resolved.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 6,
+        heading: "IT Asset and Inventory Management",
+        slug: "it-asset-inventory-management",
+        qa: [
+          {
+            id: 1,
+            question: "What Is an IT Asset?",
+            answer: "An IT asset is a technology resource that an organization owns, leases, or manages. IT assets include computers, laptops, monitors, printers, servers, network equipment, software licenses, cloud subscriptions, and certain digital services. Asset management helps organizations know what resources they have, who uses them, where they are located, and when they need maintenance or replacement.",
+            example: "A school may treat its computer lab desktops, teachers' laptops, projectors, printers, and educational software licenses as IT assets that need to be tracked.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are Hardware and Software Inventory?",
+            answer: "Hardware inventory is a record of physical technology equipment, including its type, manufacturer, model, serial number, location, condition, and assigned user. Software inventory records installed applications, versions, license information, and usage where appropriate. Maintaining accurate inventories helps organizations plan purchases, manage licenses, troubleshoot problems, and identify outdated or unsupported technology.",
+            example: "A company may maintain a spreadsheet listing each laptop's asset tag, model, serial number, assigned employee, operating system, and installed business applications.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are Asset Tags and Device Identification?",
+            answer: "An asset tag is a unique label or identifier assigned to a piece of equipment so it can be tracked throughout its lifecycle. Asset tags may use numbers, barcodes, or QR codes. Device identification can also use manufacturer serial numbers, model numbers, and approved device identifiers. A consistent identification system helps distinguish similar devices and makes audits and support requests easier to manage.",
+            example: "An IT department attaches a label reading IT-LAP-0105 to a laptop and records that identifier, the laptop's serial number, and its assigned location in the inventory system.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "How Do You Track Equipment Assignments?",
+            answer: "Tracking equipment assignments means recording which employee, student, department, or location is responsible for an IT asset. Assignment records commonly include the asset ID, assigned person or team, issue date, location, condition, and return date where applicable. Keeping these records updated helps organizations locate equipment, plan support, and establish responsibility for issued devices.",
+            example: "When a company gives an employee a laptop, the IT team records the asset tag, employee assignment, date issued, and device condition. When the employee returns it, the assignment record is updated.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are Software Licenses?",
+            answer: "A software license defines the terms under which software may be installed, used, copied, or distributed. Licenses can be proprietary, subscription-based, open-source, or provided through an organization-wide agreement. IT teams track license terms, renewal dates, permitted users or devices, and compliance requirements. They should review the actual license terms rather than assuming that every free download can be used without restrictions.",
+            example: "A business tracks the number of subscriptions it has for an office application and checks that the number of assigned users follows the provider's licensing terms.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Why Are Warranty and Purchase Records Important?",
+            answer: "Warranty and purchase records contain information about when an IT asset was purchased, who supplied it, how much it cost, and what warranty or support coverage applies. These records help organizations request repairs, verify ownership, manage budgets, and decide whether to repair or replace equipment. Useful fields include the purchase date, supplier, invoice number, warranty end date, and support contact details.",
+            example: "If a company laptop stops working during its warranty period, the IT team checks the purchase invoice and warranty record before contacting the manufacturer for repair support.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is the IT Asset Lifecycle?",
+            answer: "The IT asset lifecycle describes the stages an IT asset passes through, from planning and purchasing to deployment, use, maintenance, and retirement. At the end of its useful life, an asset may be reused, resold, recycled, or disposed of according to organizational policy. Before a device is transferred or retired, its data should be securely removed using an appropriate method, and electronic waste should be handled responsibly.",
+            example: "A company purchases a laptop, records it in the inventory, assigns it to an employee, maintains it with updates and repairs, and eventually retires it. Before reuse or disposal, the company securely erases its data.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "How Do Equipment Allocation and Returns Work?",
+            answer: "Equipment allocation is the process of assigning technology resources to people, teams, or locations according to business needs. The process may include checking availability, confirming approval, recording the assignment, and providing setup instructions. Equipment returns involve receiving the device, checking its condition, recording accessories, updating the inventory, and securely handling any stored organizational data.",
+            example: "When a new employee joins a company, IT allocates a laptop, charger, and approved accessories. When the employee leaves, IT collects the equipment, checks its condition, updates the asset record, and prepares the laptop for its next authorized user.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are Inventory Reports and Audits?",
+            answer: "An inventory report summarizes an organization's IT assets and may include their quantity, location, assigned users, condition, age, warranty status, and estimated value. An inventory audit compares recorded information with actual equipment and approved software records to identify missing items, incorrect assignments, duplicates, or compliance issues. Regular reviews help keep asset records accurate and support planning and budgeting.",
+            example: "During a school inventory audit, staff compare the asset register with the computers and printers physically present in each room. They record missing devices, update locations, and report discrepancies for investigation.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Create an IT Asset Management System?",
+            answer: "An IT asset management system is a structured way to record, organize, update, and report information about an organization's technology resources. To create a beginner-friendly system, define asset categories, assign unique asset IDs, record hardware and software details, track assignments and warranties, and maintain lifecycle status. A spreadsheet or simple database can be used for a small project. Access should be limited appropriately, records should be backed up, and sensitive information should not be collected unnecessarily.",
+            example: "Create a spreadsheet with columns for Asset ID, Asset Type, Manufacturer, Model, Serial Number, Purchase Date, Assigned User, Location, Warranty End Date, Condition, and Status. Add sample records for five computers and two printers, then create a report showing which devices are assigned, available, under repair, or retired.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 7,
+        heading: "Data Management and Backup",
+        slug: "data-management-backup",
+        qa: [
+          {
+            id: 1,
+            question: "How Do You Organize Digital Files?",
+            answer: "Organizing digital files means arranging documents, photos, videos, and other files into folders with meaningful names so they are easy to find and manage. A good file organization system uses clear folder structures, consistent naming conventions, and regular cleanup of unnecessary files. Keeping related files together helps improve productivity and reduces the chance of losing important information.",
+            example: "A student can create a folder named School Projects and organize it into subfolders such as Science, Mathematics, English, and Computer. A file named Science_Project_2026.docx is easier to identify than a file named New Document 5.docx.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are File Formats and File Extensions?",
+            answer: "A file format describes how information is stored inside a digital file. A file extension is the suffix at the end of a filename that commonly indicates its format or intended use. Examples include .txt for plain text, .docx for Word documents, .pdf for portable documents, .jpg and .png for images, .mp3 for audio, and .mp4 for video. The appropriate application is needed to open or edit a file, and changing its extension alone does not convert its actual format.",
+            example: "A student saves an assignment as Computer_Assignment.docx to edit it in a word processor and exports a copy as Computer_Assignment.pdf to share a version that is easier to view consistently.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is the Difference Between Local Storage and Cloud Storage?",
+            answer: "Local storage saves data on a device physically available to the user, such as a computer's SSD, hard drive, or USB drive. Cloud storage keeps data on remote servers accessed through a network, usually the internet. Local storage can provide fast access without an internet connection, while cloud storage can make files accessible across devices and support online collaboration. Both have risks, so important files should have appropriate backups and security protections.",
+            example: "A student saves a project on a laptop's SSD and uploads a backup to a trusted cloud storage service. If the laptop stops working, the student may be able to recover the project from the cloud.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are Backup Types and Backup Schedules?",
+            answer: "A backup is a separate copy of important data that can be used if the original files are lost, damaged, or unavailable. Common backup types include full backups, which copy all selected data; incremental backups, which copy changes since the previous backup; and differential backups, which copy changes since the last full backup. A backup schedule defines how often backups are performed. The best schedule depends on how important the data is and how much recent work the user can afford to lose.",
+            example: "A student may back up school projects to an external drive every Friday and synchronize important working documents to a trusted cloud service. A business that updates customer records throughout the day may require more frequent backups.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are External Drives and Network Storage?",
+            answer: "External drives are storage devices connected to a computer, commonly through USB, that can store files and backup copies. Network storage makes files available through a network, often using a dedicated storage device called a NAS (Network Attached Storage). External drives can be disconnected and stored separately, while network storage can allow authorized users to access shared files. Both require suitable permissions, protection against damage, and a backup strategy of their own.",
+            example: "A family can save photos and school projects on an external hard drive. A small office can use a NAS to share authorized documents among employees while maintaining separate backups of the stored data.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "How Do You Restore Deleted Files?",
+            answer: "Restoring deleted files means recovering files that have been removed or lost. Depending on the device and service, deleted files may be available in the Recycle Bin, Trash, a cloud service's deleted-files area, a backup, or a recovery tool. Recovery is not always possible, especially if the storage space has been overwritten. If an important file disappears, avoid saving unnecessary data to the affected drive and check available recovery options promptly.",
+            example: "If a student accidentally deletes an assignment, they can first check the computer's Recycle Bin or Trash. If the file is not there, they can look for a previous backup or a recoverable version in their cloud storage service.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Are Data Retention Policies?",
+            answer: "A data retention policy explains how long information should be kept, how it should be stored, and when it should be deleted or archived. Organizations create these policies to meet business needs, legal obligations, privacy requirements, and storage limitations. Retention periods differ depending on the type of information and applicable rules. Important records should not be deleted before the required retention period ends, and data should be securely disposed of when it is no longer needed.",
+            example: "A school may keep student academic records according to its approved retention policy while removing temporary duplicate files when they are no longer necessary.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is Backup Verification?",
+            answer: "Backup verification is the process of checking that backup copies are complete, readable, and usable. A backup that appears successful may still contain missing or damaged files. Verification can include checking backup logs, comparing file counts or checksums, confirming that important files are present, and performing test restorations. Regular verification helps ensure that data can actually be recovered when needed.",
+            example: "After backing up school projects to an external drive, a student opens several copied documents and images to confirm that they work. The student can also restore one test file to a separate folder to check the recovery process.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are the Basics of Disaster Recovery?",
+            answer: "Disaster recovery is the process of restoring data, systems, and technology services after an event such as hardware failure, accidental deletion, cyberattack, fire, or flood. It includes preparing backups, documenting recovery steps, identifying critical systems, assigning responsibilities, and testing recovery procedures. Two useful concepts are the Recovery Point Objective (RPO), which describes how much data loss measured in time is acceptable, and the Recovery Time Objective (RTO), which describes the target time for restoring a service.",
+            example: "If an office server fails, the IT team may set up replacement hardware, restore data from a verified backup, check that essential applications work, and reconnect authorized users. Its recovery plan defines how quickly the service should return and how much recent data loss is acceptable.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Create and Test a Personal Backup Plan?",
+            answer: "A personal backup plan identifies important files, selects suitable backup locations, defines a backup schedule, and explains how files will be restored if they are lost. A reliable plan keeps more than one copy of important data and, where possible, stores at least one backup separately from the main device. Protect backups with appropriate access controls and encryption when supported. Test the plan by restoring sample files instead of assuming that every backup will work.",
+            example: "Create a list of important documents, photographs, and school projects. Keep the original files on your computer, make a backup on an external drive, and store another copy in a trusted cloud service if available. Set a weekly reminder, check that the backups contain the expected files, and restore one test document to confirm that the plan works.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 8,
+        heading: "Business Software and Productivity Tools",
+        slug: "business-software-productivity-tools",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Word Processing and Document Formatting?",
+            answer: "Word processing is the use of software to create, edit, format, and print text documents. Document formatting includes choosing fonts, adjusting text size, applying headings, setting margins, creating lists, inserting tables and images, and arranging page layouts. Word processing applications help users prepare letters, reports, assignments, notices, and other professional documents.",
+            example: "A student uses a word processor to create a school report with a title, section headings, paragraphs, images, and page numbers, then saves the document as a DOCX file or exports it as a PDF.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are Spreadsheets and Formulas?",
+            answer: "A spreadsheet is an application that organizes information into rows and columns. Each box is called a cell and can contain text, numbers, dates, or formulas. Formulas perform calculations using values from cells, while functions provide ready-made operations such as SUM, AVERAGE, MIN, and MAX. Spreadsheets are useful for budgets, attendance records, marks, inventory, and business calculations.",
+            example: "A teacher enters student marks in cells B2 through B6 and uses the formula =SUM(B2:B6) to calculate the total. The formula =AVERAGE(B2:B6) calculates the average marks.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "How Do You Create Charts and Present Data?",
+            answer: "Charts turn numerical data into visual representations that make patterns, comparisons, and trends easier to understand. Common chart types include bar charts for comparisons, line charts for changes over time, and pie charts for showing parts of a whole when there are only a few categories. Good data presentation uses accurate labels, meaningful titles, suitable scales, and clear legends.",
+            example: "A student records the number of books read by five classmates and creates a bar chart to compare their totals. A school may use a line chart to show attendance changes over several months.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "How Do You Create Professional Presentations?",
+            answer: "A presentation is a collection of slides used to explain information to an audience. Presentation software allows users to add titles, text, pictures, charts, diagrams, audio, video, and animations. Professional presentations use a clear structure, readable fonts, consistent formatting, and relevant visuals. Slides should highlight the main ideas rather than contain too much text, and the presenter should explain details verbally when appropriate.",
+            example: "A student creates a presentation about renewable energy with a title slide, separate slides for solar and wind power, a comparison chart, pictures, and a final summary.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "How Do You Manage Email and Calendars?",
+            answer: "Email is used to send and receive electronic messages, files, and notifications. Calendar applications help users schedule meetings, set reminders, organize events, and check availability. Effective email management includes writing clear subject lines, using appropriate recipients, organizing messages into folders, and avoiding suspicious attachments. Calendar management involves recording accurate dates and times, checking time zones, and updating participants when plans change.",
+            example: "A student sends an assignment to a teacher using a clear email subject and attaches the correct file. The student also adds the assignment deadline to a calendar and sets a reminder before it is due.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Are Cloud Documents and Online Collaboration?",
+            answer: "Cloud documents are files created or stored using online services that allow authorized users to access them through supported devices. Collaboration features can let multiple people edit a document, add comments, review changes, and work together without repeatedly emailing separate copies. Users should understand sharing settings, version history, internet requirements, and access permissions to prevent accidental data exposure or unwanted changes.",
+            example: "Three students work together on a shared online report. One writes the introduction, another adds research findings, and the third reviews the content and leaves comments.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Are Shared Drives and Permissions?",
+            answer: "A shared drive is a storage location where multiple authorized users can access and manage common files. Permissions determine whether users can view, comment on, edit, organize, or delete files. Some services provide individual file sharing, while others provide team-based shared drives. Using role-based access and the principle of least privilege helps keep documents organized and protected.",
+            example: "A school gives teachers editing access to a shared folder containing lesson plans, while students receive view-only access to approved learning materials.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Online Meeting Tools?",
+            answer: "Online meeting tools allow people to communicate over the internet using audio, video, chat, screen sharing, and sometimes collaborative whiteboards. These tools support remote classes, business meetings, interviews, and team discussions. Effective online meetings require a stable connection, suitable microphone and camera settings, a clear agenda, and respectful communication. Meeting links and recordings should be shared only with authorized participants.",
+            example: "A teacher schedules an online class, shares the meeting link with students, presents a lesson using screen sharing, and answers questions through the chat feature.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is Business Communication Software?",
+            answer: "Business communication software helps people exchange messages, share information, coordinate tasks, and work together. It includes email platforms, team messaging applications, video conferencing tools, shared document systems, and project communication platforms. These tools can improve teamwork, but users should choose appropriate channels, communicate professionally, protect confidential information, and avoid sharing sensitive data in public or unauthorized spaces.",
+            example: "A small company uses email for formal client communication, a team messaging application for daily questions, and video meetings for planning projects with remote employees.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Create an Office Productivity Pack?",
+            answer: "An office productivity pack is a collection of useful documents and digital tools prepared for a particular task or organization. It may include a formatted document, a spreadsheet with formulas, a chart, a presentation, a calendar, and shared collaboration files. To create one, select a simple project, organize the files into folders, use consistent names, check calculations, verify sharing permissions, and ensure that each file is easy to understand.",
+            example: "Create a school event productivity pack containing an event notice in a word processor, a budget spreadsheet with SUM formulas, a chart of expected expenses, a presentation describing the event, and a calendar listing important dates. Store the files in a clearly named folder and share them with the teacher using appropriate permissions.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 9,
+        heading: "Enterprise IT and Business Systems",
+        slug: "enterprise-it-business-systems",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Enterprise IT?",
+            answer: "Enterprise IT refers to the technology systems, services, and processes used to support a large organization or business. It may include networks, servers, cloud platforms, cybersecurity, databases, business applications, user accounts, and technical support. Enterprise IT focuses on reliability, security, scalability, and coordination between different departments so employees can perform their work efficiently.",
+            example: "A large retail company uses enterprise IT to connect its stores, manage inventory, process payments, maintain employee accounts, and analyze sales across different locations.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Is Enterprise Resource Planning (ERP)?",
+            answer: "Enterprise Resource Planning (ERP) is a type of business software that integrates major organizational activities into a connected system. ERP modules may manage finance, purchasing, inventory, manufacturing, human resources, and order processing. By sharing information across departments, an ERP system can reduce duplicate data entry, improve coordination, and provide a more consistent view of business operations.",
+            example: "A manufacturing company receives an order through its ERP system. The order information can help the sales, inventory, production, purchasing, and finance teams coordinate their work.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is Customer Relationship Management (CRM)?",
+            answer: "Customer Relationship Management (CRM) software helps organizations manage interactions with current and potential customers. It can store customer contact details, record communication history, track sales opportunities, manage support requests, and schedule follow-ups. A CRM system helps teams coordinate customer relationships and understand sales activities, provided that customer information is handled appropriately and kept accurate.",
+            example: "A web development company uses a CRM to record inquiries from potential clients, track project discussions, schedule follow-up calls, and monitor which proposals have been accepted.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are Human Resource Information Systems?",
+            answer: "A Human Resource Information System (HRIS) is software that helps an organization manage employee-related information and HR processes. Depending on the system, it may support employee records, attendance, leave requests, payroll integration, recruitment, benefits, and performance reviews. Because HR systems contain personal information, they require appropriate access controls, data protection, and accurate recordkeeping.",
+            example: "An employee submits a leave request through an HRIS. The manager reviews it, the system updates the leave balance, and the HR team can view the approved request.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are Inventory and Point-of-Sale Systems?",
+            answer: "An inventory management system tracks the quantity, location, movement, and availability of products or materials. A Point-of-Sale (POS) system records sales transactions and may support payments, receipts, discounts, and sales reports. When connected, these systems can update inventory as products are sold and help businesses identify items that need restocking.",
+            example: "When a customer buys a notebook at a shop, the POS system records the sale and may automatically reduce the notebook's available quantity in the inventory system.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Are Document Management Systems?",
+            answer: "A Document Management System (DMS) is software used to store, organize, search, share, and manage electronic documents. Features may include version history, metadata, approval workflows, access permissions, retention rules, and audit records. These systems help organizations find the correct document, control changes, and reduce reliance on scattered paper records or unorganized files.",
+            example: "A company stores contracts in a document management system. Authorized employees can search for a contract, review its current version, and follow an approval process before a new version is finalized.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is Identity and Access Management?",
+            answer: "Identity and Access Management (IAM) is the collection of policies, processes, and technologies used to manage digital identities and control access to systems. IAM can include account creation, authentication, multifactor authentication, role-based access control, single sign-on, and account removal. Proper IAM helps ensure that users can access the resources they need without receiving unnecessary privileges.",
+            example: "A company gives employees access to the applications required for their jobs. A finance employee may access approved financial systems, while an HR employee receives access to authorized HR applications.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Business Intelligence Tools?",
+            answer: "Business Intelligence (BI) tools collect, organize, analyze, and present business data to help people understand performance and make decisions. They may provide dashboards, reports, charts, filters, and comparisons across different periods or business units. BI systems can use information from sales, finance, customer service, inventory, and other sources, but the results depend on the quality and accuracy of the underlying data.",
+            example: "A store manager uses a BI dashboard to compare monthly sales, identify popular products, monitor inventory levels, and understand which product categories are performing best.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "How Do You Integrate Business Applications?",
+            answer: "Business application integration connects different software systems so they can exchange information and coordinate tasks. Integration methods include APIs, approved connectors, scheduled data imports, and automated workflows. Good integration reduces repetitive manual work and inconsistent records. It should include appropriate authentication, error handling, data validation, access controls, and monitoring to ensure that information moves safely and reliably.",
+            example: "An online store connects its website to an inventory system and an accounting application. When a customer places an order, the systems can exchange order details, update stock, and prepare financial records.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Design a Small Business IT Workflow?",
+            answer: "A business IT workflow is a sequence of connected steps that people and software follow to complete a business task. To design one, identify the goal, list the people and systems involved, define the steps and decisions, specify the information required at each stage, and identify where approvals or error checks are needed. A workflow diagram can make responsibilities and data movement easier to understand. Security, privacy, and recovery procedures should also be considered.",
+            example: "Design a workflow for an online shop: a customer submits an order, the system verifies payment, inventory is checked, the order is prepared for shipping, the customer receives a confirmation, and the inventory and sales records are updated. Identify which steps are automated and which require staff approval.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 10,
+        heading: "IT Policies, Privacy and Compliance",
+        slug: "it-policies-privacy-compliance",
+        qa: [
+          {
+            id: 1,
+            question: "What Are Acceptable Use Policies?",
+            answer: "An Acceptable Use Policy (AUP) explains how people are allowed to use an organization's computers, internet connection, email, software, and other technology resources. It may describe permitted activities, prohibited behavior, security responsibilities, monitoring practices, and procedures for reporting problems. A clear policy helps users understand their responsibilities and supports safe, respectful, and appropriate use of technology.",
+            example: "A school's acceptable use policy may require students to use school computers for approved learning activities, avoid visiting unsafe websites, respect other people's accounts, and report suspicious messages to a teacher.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are Password and Authentication Policies?",
+            answer: "Password and authentication policies define how users should prove their identity when accessing digital systems. Good practices include using long, unique passwords or passphrases, using an approved password manager, enabling multifactor authentication where available, and never sharing passwords. Organizations should use secure authentication methods, provide account recovery procedures, and respond appropriately to suspected account compromise.",
+            example: "An employee uses a unique password for the company account and confirms sign-in with an approved authenticator application. If the employee suspects that the password has been exposed, they report it and follow the organization's account security procedure.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are Access Control and Least Privilege?",
+            answer: "Access control determines which people or systems can use particular files, applications, devices, and services. The principle of least privilege means giving each user or system only the permissions necessary to perform its approved tasks. Access can be managed through roles, groups, permissions, and authentication requirements. Reviewing access regularly and removing unnecessary permissions helps reduce the risk of accidental changes or unauthorized data access.",
+            example: "A school gives teachers permission to update their students' marks but does not give every student permission to change the school's complete academic database.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are the Fundamentals of Data Privacy?",
+            answer: "Data privacy concerns how personal and sensitive information is collected, used, stored, shared, and deleted. Good privacy practices include collecting only necessary information, explaining its intended use, limiting access, protecting stored and transmitted data, and following applicable laws and organizational policies. People should understand that sharing information online can create risks and should avoid disclosing personal details without a valid reason.",
+            example: "A school collects student information needed for education and administration, restricts access to authorized staff, and avoids publishing students' private contact details on a public website.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are Safe Internet and Email Practices?",
+            answer: "Safe internet and email practices help protect users from phishing, malware, scams, identity theft, and unauthorized access. Users should verify suspicious messages, inspect website addresses carefully, avoid unexpected attachments, use updated software, and never share passwords or verification codes with untrusted people. When a message requests urgent payment or sensitive information, verify the request through a separate trusted channel before taking action.",
+            example: "An employee receives an email claiming that their account will be closed unless they click a link immediately. Instead of clicking the link, the employee opens the organization's official website independently and reports the suspicious message to IT support.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Are Software Licensing and Legal Use?",
+            answer: "Software licensing defines the legal conditions under which software may be installed, used, modified, copied, or distributed. Some software requires a paid license or subscription, while other software is available under open-source or other terms. Users and organizations should follow license conditions, respect copyright, use authorized software sources, and avoid pirated applications. License requirements differ, so the applicable terms should always be checked.",
+            example: "A business checks whether its office software license covers the number of employees and devices using the application before installing it across the organization.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How Do You Handle Sensitive Business Information?",
+            answer: "Sensitive business information includes confidential contracts, financial records, employee information, customer details, business plans, and access credentials. It should be accessed only by authorized people and shared through approved, secure methods. Appropriate safeguards may include encryption, access permissions, secure storage, careful document handling, and approved retention and deletion procedures. Sensitive information should not be copied to personal devices or unapproved online services.",
+            example: "An employee needs to send a confidential contract to a manager. The employee uses the company's approved document-sharing system, grants access only to the intended recipient, and avoids posting the contract in a public chat or shared folder.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is Security Incident Reporting?",
+            answer: "Security incident reporting is the process of informing the appropriate team about a possible or confirmed security problem. Incidents may include phishing emails, lost devices, malware warnings, accidental data exposure, suspicious account activity, or unauthorized access. Users should report incidents promptly through approved channels, provide accurate observations, and follow instructions from the security team. They should avoid deleting evidence or investigating beyond their authorization.",
+            example: "An employee accidentally clicks a suspicious email link and notices unusual account activity. The employee reports the incident to IT or the security team immediately, follows their instructions, and changes account credentials through an approved process if directed.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are IT Policies and Documentation?",
+            answer: "IT policies are formal rules that explain how an organization manages and uses technology. IT documentation records important procedures, system configurations, responsibilities, support instructions, and approved practices. Examples include acceptable use policies, backup procedures, account management instructions, incident response plans, and software installation guidelines. Good documentation should be accurate, easy to understand, reviewed regularly, and accessible only to the people who need it.",
+            example: "A small office creates an IT document explaining how employees request software, report computer problems, back up work files, and report suspected phishing emails. The document is reviewed whenever the procedures change.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Write a Simple School or Office IT Policy?",
+            answer: "Writing a simple IT policy involves identifying the organization's technology resources, defining acceptable and prohibited activities, setting account and password requirements, explaining data privacy responsibilities, describing safe internet and email use, and providing instructions for reporting incidents. The policy should use clear language, identify who is responsible for enforcing it, and explain where users can ask questions. It should also be reviewed and approved by the appropriate school or organizational authority before implementation.",
+            example: "Write a one-page IT policy for a school computer lab. Include rules for using computers responsibly, protecting passwords, accessing approved websites, respecting other students' files, handling USB drives, reporting suspicious messages, and asking a teacher for help when a computer develops a problem.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 11,
+        heading: "IT Operations and Service Management",
+        slug: "it-operations-service-management",
+        qa: [
+          {
+            id: 1,
+            question: "What Are IT Operations Fundamentals?",
+            answer: "IT operations are the daily activities required to keep an organization's computer systems, applications, networks, and technology services running reliably. These activities include monitoring systems, managing user accounts, maintaining servers, applying updates, checking backups, resolving technical issues, and ensuring that essential services remain available. Effective IT operations help organizations reduce downtime, protect information, and support employees.",
+            example: "A school's IT operations team checks that the computer lab, internet connection, student information system, and printers are working properly before classes begin.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Is the Difference Between Incident and Problem Management?",
+            answer: "Incident management focuses on restoring a technology service to normal operation as quickly and safely as possible after an interruption. Problem management investigates the underlying causes of one or more incidents and works to prevent them from happening again. An incident describes something that has gone wrong, while a problem refers to the underlying cause or potential cause of incidents.",
+            example: "If a company's internet connection stops working, the IT team treats it as an incident and works to restore connectivity. If the same failure happens repeatedly because of a faulty network device, the team investigates the root cause through problem management.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are Service Requests and Ticket Priorities?",
+            answer: "A service request is a user's request for a standard service, such as software installation, access to an application, or a new account. A support ticket records a request, incident, or other issue so it can be assigned and tracked. Ticket priority helps determine the order and urgency of work based on factors such as business impact and urgency. Organizations commonly use categories such as low, medium, high, and critical.",
+            example: "An employee requesting access to an approved application may receive a standard service request ticket. A network outage affecting the entire office may receive a critical priority because many employees cannot work.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are Service-Level Agreements (SLAs)?",
+            answer: "A Service-Level Agreement (SLA) is an agreement that defines expected service performance between a service provider and a customer or organization. It may specify availability targets, support hours, response times, resolution targets, responsibilities, and reporting requirements. Response time measures how quickly a support team acknowledges an issue, while resolution time measures how long it takes to resolve it. Resolution targets may depend on the issue's complexity and the agreed service terms.",
+            example: "An IT support agreement may specify that critical incidents receive an initial response within 30 minutes during covered support hours. This is a response target, not necessarily a promise that every incident will be fully resolved within 30 minutes.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are Change and Release Management?",
+            answer: "Change management is the process of assessing, approving, scheduling, and controlling changes to IT systems to reduce risk and disruption. Release management focuses on planning, testing, and deploying new or updated software, services, or system components. These processes may include impact assessments, approval steps, testing, communication, rollback plans, and post-deployment checks.",
+            example: "Before updating a company's business application, the IT team tests the update in a suitable environment, obtains the required approval, schedules deployment outside busy hours, prepares a rollback plan, and checks that the application works after the release.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Are IT Documentation and Knowledge Bases?",
+            answer: "IT documentation records information about systems, configurations, procedures, incidents, and maintenance activities. A knowledge base is an organized collection of articles that helps users and support staff find answers to common questions and technical problems. Good documentation uses clear language, accurate instructions, consistent formatting, and regular reviews. Sensitive information, such as passwords and private keys, should not be stored in ordinary documentation.",
+            example: "An IT team creates a knowledge-base article explaining how employees connect to the office Wi-Fi, reset their passwords through the approved process, and report a printer problem.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Are System Monitoring and Alerts?",
+            answer: "System monitoring involves collecting information about the performance, health, and availability of computers, servers, networks, and applications. Monitoring tools may track CPU usage, memory consumption, storage capacity, network traffic, response times, and service availability. Alerts notify IT staff when measurements exceed defined thresholds or a service becomes unavailable. Well-designed monitoring helps teams detect issues early and avoid unnecessary alerts.",
+            example: "A monitoring system sends an alert when a server's storage reaches 90% capacity. The IT team investigates the cause and frees or adds storage before the server runs out of space.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is Root Cause Analysis?",
+            answer: "Root Cause Analysis (RCA) is a structured method for identifying the underlying reason an incident or failure occurred. Instead of fixing only the visible symptoms, an RCA examines evidence, timelines, system logs, configuration changes, and related conditions. Techniques such as the Five Whys and cause-and-effect diagrams help teams explore possible causes. The findings can guide corrective actions that reduce the likelihood of recurrence.",
+            example: "A server repeatedly becomes unavailable because its storage fills up. The team investigates and discovers that old application logs are never removed. It introduces log rotation, storage monitoring, and retention rules to address the underlying cause.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are the Basics of IT Service Management (ITSM)?",
+            answer: "IT Service Management (ITSM) is an approach to planning, delivering, supporting, and improving IT services so they meet users' and organizations' needs. ITSM practices can include incident management, problem management, service request management, change enablement, service-level management, and continual improvement. Frameworks such as ITIL provide guidance for organizing these practices, while organizations adapt them to their own requirements.",
+            example: "A company uses an ITSM system to receive support requests, assign tickets to technicians, track incidents, manage approved changes, and review service performance reports.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Create a Help Desk Workflow?",
+            answer: "A help desk workflow defines the steps used to receive, classify, assign, investigate, resolve, and close support tickets. A good workflow includes ticket categories, priority rules, ownership, escalation paths, communication with users, documentation of troubleshooting steps, and confirmation that the issue has been resolved. It should also define how unresolved tickets are transferred to specialized teams and how recurring incidents are identified.",
+            example: "Create a workflow for a school IT help desk: a student reports a computer problem, the help desk records the issue, assigns a priority, performs initial checks, escalates complex problems to a technician, records the solution, confirms the computer works, and closes the ticket. Test the workflow using sample problems such as a printer failure and a forgotten password.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 12,
+        heading: "Cloud Services and Modern IT",
+        slug: "cloud-services-modern-it",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Cloud Computing?",
+            answer: "Cloud computing is the delivery of computing resources and services over a network, usually the internet. These resources may include servers, storage, databases, networking, software, and development platforms. Cloud services allow organizations to use computing resources without managing every physical server themselves. Depending on the service, customers may pay based on subscriptions, usage, or allocated capacity.",
+            example: "A student saves a document to an online storage service and accesses it from a laptop at school and a tablet at home without manually transferring the file between devices.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are SaaS, PaaS, and IaaS?",
+            answer: "SaaS (Software as a Service) provides ready-to-use applications over a network, such as online email or document editing. PaaS (Platform as a Service) provides an environment for developers to build, test, and deploy applications without managing all the underlying infrastructure. IaaS (Infrastructure as a Service) provides computing resources such as virtual machines, storage, and networking that customers can configure and manage. These models differ in how much of the technology stack the provider manages.",
+            example: "Using an online email application is SaaS. Deploying a web application on a managed application platform is PaaS. Renting a virtual server and configuring its operating system is an example of IaaS.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are Cloud Storage and File Sharing?",
+            answer: "Cloud storage keeps files on remote infrastructure that can be accessed through supported applications or network connections. File-sharing features allow users to provide access to specific documents or folders without sending separate copies to everyone. Cloud storage may include synchronization, version history, recovery options, and collaborative editing. Users should configure permissions carefully and understand that synchronization is not always the same as an independent backup.",
+            example: "A project team stores reports in an approved cloud folder and gives editing access to team members while allowing other colleagues to view the final documents.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are Cloud-Based Email and Collaboration Tools?",
+            answer: "Cloud-based email and collaboration tools provide communication and teamwork services hosted on remote infrastructure. They may include email, calendars, video meetings, shared documents, messaging, and task management. Users can often access these services from different devices, subject to authentication and organizational permissions. Effective use requires secure accounts, suitable sharing settings, and compliance with the organization's data-handling policies.",
+            example: "A small business uses a hosted email service for customer communication, a shared calendar to schedule meetings, and collaborative documents to prepare project proposals.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are Virtual Machines?",
+            answer: "A virtual machine (VM) is a software-based computer that runs an operating system and applications using virtualized computing resources. A hypervisor manages virtual machines and allocates resources such as CPU, memory, storage, and networking. Multiple VMs can run on a suitable physical host, allowing different workloads to operate in separate environments. Virtual machines are commonly used for testing, server hosting, development, and cloud computing.",
+            example: "A developer uses a virtual machine running Linux on a Windows computer to test an application without replacing the main operating system.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is Cloud Identity and Access Management?",
+            answer: "Cloud Identity and Access Management (IAM) controls which users and services can access cloud resources and what actions they are permitted to perform. It may include user identities, roles, policies, multifactor authentication, and service identities. Secure IAM practices include granting only necessary permissions, protecting privileged accounts, reviewing access regularly, and removing access when it is no longer required.",
+            example: "A cloud administrator gives a developer permission to deploy applications to a designated test environment without granting unrestricted access to the organization's billing information or production resources.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Are Cloud Backup and Recovery?",
+            answer: "Cloud backup stores copies of data in cloud-based storage so they can be recovered after accidental deletion, hardware failure, cyberattacks, or other disruptions. Recovery involves retrieving the data or restoring systems from those copies. A cloud backup plan should define backup frequency, retention periods, access controls, encryption, recovery objectives, and testing procedures. Backups should be protected from unauthorized deletion and periodically tested to confirm that restoration works.",
+            example: "A small business backs up important documents and database records to a protected cloud backup service. It periodically restores selected files to a test location to verify that the backups are usable.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Hybrid IT Environments?",
+            answer: "A hybrid IT environment combines different types of technology infrastructure, often on-premises systems with public or private cloud services. Organizations may keep certain applications or sensitive data in their own facilities while using cloud services for collaboration, storage, analytics, or additional computing capacity. Hybrid environments require careful planning for networking, identity, security, monitoring, data movement, and recovery.",
+            example: "A hospital may keep some systems in its own data center while using an approved cloud service for collaboration and selected backup workloads, following applicable security and privacy requirements.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "How Do You Manage Cloud Costs and Resources?",
+            answer: "Cloud cost and resource management involves monitoring usage, controlling spending, and ensuring that computing resources match actual needs. Costs may depend on compute time, storage, data transfer, managed services, licenses, and support plans. Good practices include setting budgets and alerts, tagging resources by project, removing unused resources, selecting appropriate capacity, and reviewing billing reports. Changes should be tested carefully to avoid reducing performance or availability.",
+            example: "A development team discovers that a test virtual machine runs continuously even when no one is using it. The team schedules it to shut down outside working hours and reviews storage and network charges to reduce unnecessary costs.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Plan Cloud Tools for a Small Organization?",
+            answer: "Planning cloud tools for a small organization involves identifying its users, tasks, data, security requirements, budget, and technical skills. Choose suitable services for email, document collaboration, file storage, backup, and application hosting. Compare service features, access controls, reliability, support, pricing, and data export options. Prepare an implementation plan that covers account setup, permissions, training, backups, cost monitoring, and recovery testing.",
+            example: "Prepare a cloud plan for a small tutoring center with ten employees. Select a hosted email and calendar service, a shared document platform, protected cloud backup, and an appropriate hosting option for its website. Estimate monthly costs, assign roles, enable multifactor authentication, and document how the organization would recover important files if an account or device were lost.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 13,
+        heading: "IT Procurement and Workplace Setup",
+        slug: "it-procurement-workplace-setup",
+        qa: [
+          {
+            id: 1,
+            question: "How Do You Understand User Requirements?",
+            answer: "Understanding user requirements means identifying what people need from their technology before purchasing or configuring equipment. Requirements may include the type of work performed, required applications, processing power, memory, storage, connectivity, accessibility, security, portability, and budget. Asking users clear questions helps an organization choose equipment that meets real needs rather than paying for unnecessary features.",
+            example: "Before purchasing laptops for a design team, an IT department checks which design applications employees use, the recommended hardware specifications, required screen quality, storage needs, and whether the employees need portable devices.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "How Do You Select Computers and Peripherals?",
+            answer: "Selecting computers and peripherals involves comparing devices according to performance, reliability, compatibility, usability, support, and total cost. Computers may be desktops, laptops, workstations, or specialized systems. Peripherals include monitors, keyboards, mice, printers, webcams, and docking stations. The best selection depends on the intended tasks, user preferences, required connections, warranty coverage, and the organization's budget.",
+            example: "An office purchases standard laptops for employees who mainly use email and documents, more powerful workstations for video editors, and suitable external monitors and docking stations for employees who work at desks.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are Hardware Specifications and Compatibility?",
+            answer: "Hardware specifications describe a device's technical characteristics, such as CPU model, RAM capacity, storage type, display resolution, graphics capabilities, network interfaces, and available ports. Compatibility means that components and peripherals can work correctly with the computer and its operating system. Buyers should check manufacturer requirements, power needs, physical dimensions, supported interfaces, and warranty conditions before purchasing equipment.",
+            example: "Before buying a second monitor, an IT technician checks whether the computer supports its resolution and refresh rate and has a compatible HDMI, DisplayPort, USB-C, or other supported connection.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "How Do You Compare Vendor Quotes?",
+            answer: "Comparing vendor quotes means reviewing offers from suppliers to determine which one best meets an organization's needs. A comparison should consider product specifications, quantity, unit price, taxes, delivery charges, warranty, technical support, delivery time, payment terms, and return conditions. The lowest price is not always the best choice if the product does not meet requirements or has inadequate support.",
+            example: "A company receives three quotes for ten laptops. It compares the specifications, total price including taxes, warranty duration, delivery dates, and support terms before choosing a suitable supplier.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "How Do You Purchase and License Software?",
+            answer: "Software procurement is the process of selecting and acquiring software that meets an organization's needs. It includes evaluating features, compatibility, security, support, pricing, licensing terms, and renewal conditions. Software may be purchased through a one-time license, a subscription, a volume agreement, or another authorized arrangement. Organizations should track license assignments and renewals and follow the provider's terms.",
+            example: "A small office compares two accounting applications, checks whether they support its operating systems and reporting needs, reviews subscription costs, and purchases the selected plan for the appropriate number of users.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "How Do You Set Up Employee Workstations?",
+            answer: "Setting up an employee workstation involves preparing the computer, peripherals, software, user account, network access, and security settings needed for the employee's role. Tasks may include installing approved applications, applying updates, connecting monitors and input devices, configuring printers, enabling appropriate protection, and checking accessibility settings. Setup should follow organizational standards and avoid giving users unnecessary privileges.",
+            example: "For a new office employee, IT connects the laptop to its monitor and keyboard, configures the approved account, installs required applications, verifies network access, and tests email and printing before handover.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Are Standard Computer Configurations?",
+            answer: "A standard computer configuration is an approved combination of hardware, operating system settings, applications, security controls, and management tools used for a particular role. Standard configurations simplify deployment, troubleshooting, updates, and support. Organizations may maintain different standards for office employees, developers, designers, and specialized teams while allowing documented exceptions when needed.",
+            example: "A company creates a standard office laptop configuration that includes an approved operating system, web browser, productivity suite, endpoint protection, device encryption, and required business applications.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Device Handover Procedures?",
+            answer: "Device handover procedures ensure that equipment is correctly assigned to a user and that both parties understand its condition and responsibilities. The process may include recording the asset ID and serial number, checking accessories, verifying the device's condition, confirming that setup is complete, providing usage instructions, and obtaining an acknowledgment. Before reassigning a previously used device, the organization should follow approved data removal and account reset procedures.",
+            example: "When a new employee receives a laptop, IT records the asset tag, serial number, charger, condition, and assigned user. The employee confirms receipt and receives instructions for secure use and reporting technical problems.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are the Basics of IT Budgeting?",
+            answer: "IT budgeting involves estimating and planning the costs required to purchase, operate, maintain, and replace technology resources. Costs may include computers, peripherals, software subscriptions, cloud services, network equipment, support contracts, training, repairs, and security tools. A good budget considers upfront costs, recurring expenses, expected lifespan, and contingency funds. Comparing total cost of ownership helps organizations understand the long-term financial impact of purchasing decisions.",
+            example: "A small office plans a budget for five laptops, five monitors, productivity software subscriptions, internet equipment, and warranty coverage. It also estimates future replacement costs and leaves room for unexpected repairs.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Prepare a Small Office IT Setup Plan?",
+            answer: "A small office IT setup plan describes the equipment, software, network, security, budget, and deployment steps required to prepare a workplace. Begin by identifying employee roles and their requirements. Select compatible devices and approved applications, plan internet and Wi-Fi coverage, establish user accounts and access permissions, estimate costs, and document setup and handover procedures. Include maintenance, backup, support, and future replacement considerations.",
+            example: "Create a plan for a five-person office that includes five computers, monitors, keyboards, mice, a network printer, a router, a reliable internet connection, productivity software, endpoint protection, and backup storage. Prepare a budget table, map the network connections, define user permissions, and write a checklist for setting up and handing over each workstation.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 14,
+        heading: "IT Documentation and Reporting",
+        slug: "it-documentation-reporting",
+        qa: [
+          {
+            id: 1,
+            question: "How Do You Write Clear Technical Instructions?",
+            answer: "Technical instructions explain how to perform a task using clear, accurate, and ordered steps. Good instructions identify the purpose, required tools or permissions, prerequisites, individual actions, expected results, and any safety precautions. Use familiar language, numbered steps, screenshots or diagrams where helpful, and explain technical terms. Instructions should be tested and updated whenever the process changes.",
+            example: "To explain how to connect a laptop to Wi-Fi, list the steps to open network settings, select the approved network, enter the authorized credentials, and confirm that the connection works. Include guidance for reporting connection errors.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "How Do You Create Hardware Inventory Reports?",
+            answer: "A hardware inventory report summarizes the computer equipment and related devices owned or managed by an organization. It may include asset IDs, device types, manufacturer and model, serial numbers, assigned users, locations, purchase dates, warranty status, and current condition. Accurate reports help teams locate equipment, plan replacements, review costs, and prepare for audits.",
+            example: "An IT technician creates a spreadsheet listing the office's laptops, desktops, monitors, and printers. The report shows which devices are assigned, available, under repair, or due for replacement.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "How Do You Document System Configurations?",
+            answer: "System configuration documentation records important details about how a computer, server, application, or network device is set up. It may include hardware specifications, operating system versions, installed applications, network settings, service dependencies, approved security settings, and configuration changes. Documentation should be stored securely, kept up to date, and avoid exposing passwords, private keys, or other secrets.",
+            example: "An IT team documents a server's operating system version, assigned role, approved network configuration, installed services, backup schedule, and responsible support team so another technician can maintain it correctly.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "How Do You Write Troubleshooting Procedures?",
+            answer: "A troubleshooting procedure is a documented sequence of checks and actions used to identify and resolve a technical problem. It should describe the symptoms, possible causes, diagnostic steps, safe corrective actions, expected results, and escalation conditions. Procedures should begin with simple, low-risk checks and progress to more advanced steps only when appropriate. Record findings so that recurring problems can be analyzed later.",
+            example: "A printer troubleshooting procedure may ask the user to check power, paper, ink or toner, connection status, selected printer, and the print queue. If these checks do not resolve the issue, it directs the user to contact IT support.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "How Do You Create Network Diagrams?",
+            answer: "A network diagram is a visual representation of network devices and how they connect. It may show routers, switches, access points, firewalls, servers, computers, internet connections, and important network segments. Diagrams can be physical, showing equipment and cabling, or logical, showing network structure and data relationships. Clear labels, consistent symbols, and accurate connections make diagrams useful for troubleshooting and planning.",
+            example: "Draw a small office network with the internet connected to a router, the router connected to a switch, and the switch connected to desktop computers and a network printer. Show the Wi-Fi access point connecting wireless laptops to the same authorized network.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "How Do You Record Changes and Maintenance?",
+            answer: "Change and maintenance records document work performed on IT systems, including software updates, hardware replacements, configuration changes, and routine servicing. Records commonly include the date, affected system, reason for the work, person responsible, approval, actions taken, test results, and any rollback steps. Good records help teams understand system history, investigate failures, and coordinate future maintenance.",
+            example: "After updating a network switch, a technician records the change date, device identifier, approved software version, reason for the update, connectivity test results, and any follow-up actions.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How Do You Prepare Incident Reports?",
+            answer: "An incident report records a service disruption, technical failure, or security event. It may include the time detected, affected systems, observed symptoms, business impact, priority, actions taken, communication details, resolution, and follow-up recommendations. Incident reports should distinguish verified facts from assumptions and protect confidential information. Security incidents should be documented and handled according to the organization's approved reporting procedures.",
+            example: "After a network outage, the IT team prepares a report describing when connectivity failed, which departments were affected, what troubleshooting steps were performed, when service returned, and what improvements could help prevent a recurrence.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "How Do You Create User Guides?",
+            answer: "A user guide explains how people can use a device, application, or service to complete common tasks. It should identify its intended audience, explain prerequisites, provide step-by-step instructions, include screenshots or examples where useful, and explain how to get help. A good guide uses consistent formatting and simple language and is reviewed whenever the product or process changes.",
+            example: "Create a user guide for a school learning portal that explains how students sign in, find lessons, submit assignments, check feedback, and request help if they cannot access their accounts.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are IT Dashboards?",
+            answer: "An IT dashboard presents important technology metrics and status information in a visual format. It may display service availability, open support tickets, incident priorities, device inventory, storage capacity, backup status, or system performance. Dashboards help teams identify trends and focus on issues that need attention. Metrics should be clearly defined, accurate, relevant to the audience, and updated at an appropriate frequency.",
+            example: "A help desk dashboard displays the number of open tickets, critical incidents, average response time, tickets awaiting assignment, and requests resolved during the week.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Document an Organization's IT Environment?",
+            answer: "Documenting an organization's IT environment involves creating a structured set of records describing its devices, software, network, users, support processes, and maintenance practices. Start by identifying the scope and gathering verified information from authorized sources. Create an asset inventory, network diagram, configuration records, troubleshooting instructions, and maintenance log. Review the documents for accuracy, protect sensitive details, and establish a process for updating them when changes occur.",
+            example: "Prepare an IT documentation pack for a small office containing a computer and printer inventory, a network diagram, an approved software list, a workstation setup guide, a troubleshooting procedure, and a maintenance log. Use fictional sample data if practicing, and do not include passwords or confidential business information.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 15,
+        heading: "IT Monitoring, Maintenance and Reliability",
+        slug: "it-monitoring-maintenance-reliability",
+        qa: [
+          {
+            id: 1,
+            question: "What Is the Difference Between Preventive and Corrective Maintenance?",
+            answer: "Preventive maintenance consists of planned activities performed to reduce the likelihood of failures, such as applying updates, checking backups, inspecting equipment, cleaning external surfaces, and reviewing system health. Corrective maintenance takes place after a fault is discovered and aims to restore normal operation. Both are important: preventive maintenance reduces avoidable problems, while corrective maintenance addresses failures that still occur.",
+            example: "Cleaning a computer's external vents and checking its backup status are preventive tasks. Replacing a failed keyboard or repairing a broken network connection is corrective maintenance.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "How Do You Monitor CPU, Memory, and Disk Usage?",
+            answer: "CPU, memory, and disk usage are important indicators of a computer's performance. CPU usage shows how much processing capacity is being used. Memory usage indicates how much RAM is occupied by applications and system processes. Disk usage can refer to storage capacity or the activity of a storage device, so it is important to identify which measurement is being examined. Operating system tools and monitoring applications can help locate resource shortages and unusual activity.",
+            example: "On a Windows computer, a user can open Task Manager to check CPU and memory usage and review disk activity. If an application consistently uses excessive resources, the user can investigate it or contact IT support before ending unfamiliar system processes.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "How Do You Check Disk Health?",
+            answer: "Checking disk health involves examining a storage device for signs of failure, errors, or declining reliability. Depending on the device, this may include reviewing SMART information, running manufacturer-recommended diagnostics, checking operating system error reports, and monitoring unusual noises or repeated file errors. No single health indicator guarantees that a drive will not fail. Important data should be backed up regularly, especially when warning signs appear.",
+            example: "If a computer frequently freezes while accessing files or displays storage warnings, a technician checks available diagnostics and system logs, backs up important data, and determines whether the drive requires replacement.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are System Logs and Event Viewer?",
+            answer: "System logs are records of events generated by operating systems, applications, and services. They may contain information about startup, errors, security events, hardware issues, and software activity. Windows Event Viewer allows users with appropriate permissions to examine event logs and investigate problems. Logs help technicians identify when an issue occurred and which components may be involved, but individual error entries must be interpreted in context.",
+            example: "If a Windows computer repeatedly restarts unexpectedly, a technician may inspect relevant system events around the restart time to look for hardware, driver, or operating system errors.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "How Do You Schedule Updates and Maintenance?",
+            answer: "Scheduled maintenance is planned work performed at suitable times to keep systems secure and reliable. It may include installing updates, checking backups, reviewing logs, testing recovery procedures, and inspecting hardware. Scheduling should consider business hours, service dependencies, user notifications, approval requirements, and the possibility of rollback. Critical security updates may require faster action than routine maintenance, depending on the risk and organizational policy.",
+            example: "An office schedules routine software updates outside its busiest working hours, informs employees about possible restarts, confirms that important files are saved, and checks that key applications work after maintenance.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Are Antivirus and Endpoint Protection?",
+            answer: "Antivirus software detects, blocks, and helps remove malicious software. Endpoint protection is a broader approach to securing computers, laptops, servers, and other devices connected to an organization's systems. Depending on the product, it may include malware detection, behavioral monitoring, host firewalls, device controls, and centralized security management. Effective protection also requires software updates, appropriate user permissions, safe browsing practices, and reliable backups.",
+            example: "A company uses centrally managed endpoint protection to detect suspicious files on employee laptops, receive security alerts, and help its IT team investigate possible malware infections.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Are the Basics of Capacity Planning?",
+            answer: "Capacity planning estimates whether computing resources such as CPU, memory, storage, network bandwidth, and service capacity will meet future demand. It involves examining current usage, identifying trends, forecasting growth, and considering peak workloads. Good capacity planning helps prevent performance problems while avoiding unnecessary spending on unused resources. Plans should account for expected growth, redundancy, and the consequences of resource shortages.",
+            example: "A school expects more students to use its online learning portal next year. Its IT team reviews current server usage, estimates the expected increase in simultaneous users, and plans additional capacity if required.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Uptime and Availability?",
+            answer: "Uptime is the amount of time a system or service is operating, while availability describes the proportion of time it is accessible and usable as expected. Availability is often expressed as a percentage over a defined period. Monitoring, redundancy, maintenance planning, reliable infrastructure, and disaster recovery can help improve availability. The exact measurement should define what counts as available and which periods are included.",
+            example: "If a service is available for 99.9% of a 30-day month, it has approximately 43.2 minutes of unavailability during that period, assuming continuous measurement over all 30 days.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Why Are Maintenance Records and Checklists Important?",
+            answer: "Maintenance records document inspections, updates, repairs, and other activities performed on IT equipment and systems. A maintenance checklist provides a repeatable set of tasks so important steps are less likely to be missed. These records help teams track equipment condition, identify recurring faults, demonstrate that required work was completed, and plan future maintenance. Checklists should be appropriate for the equipment and updated when procedures change.",
+            example: "A technician uses a monthly checklist to review backup status, software updates, device warnings, storage capacity, and network connectivity. The technician records the date, findings, corrective actions, and any follow-up work needed.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: How Do You Create a Computer Health Report?",
+            answer: "A computer health report summarizes the current condition and performance of a computer. It may include device details, operating system version, CPU and memory usage, available storage, disk health indicators, update status, security protection status, recent errors, backup status, and recommended actions. Information should be collected using authorized tools, interpreted carefully, and recorded without exposing passwords or other sensitive data. A report should distinguish observed facts from recommendations.",
+            example: "Prepare a health report for a school computer with its device model, operating system version, available storage, typical CPU and memory usage, update status, antivirus status, and recent error observations. List recommended actions, such as installing approved updates or investigating low disk space, and record when the checks were completed.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 16,
+        heading: "Office Technology and End-User Computing",
+        slug: "office-technology-end-user-computing",
+        qa: [
+          {
+            id: 1,
+            question: "Setting Up a New Computer",
+            answer: "Setting up a new computer means preparing it for everyday use. This includes connecting the monitor, keyboard, mouse, and power cable, starting the computer, selecting basic settings, connecting to the internet, installing necessary software, and checking that everything works correctly. A properly configured computer helps users work safely and efficiently.",
+            example: "When a new computer arrives at a school, an IT support technician connects its devices, configures the operating system, installs a web browser, connects it to Wi-Fi, and tests the keyboard and speakers.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Installing and Configuring Printers",
+            answer: "A printer is an output device that produces paper copies of digital documents and images. Installing a printer involves connecting it through USB or Wi-Fi, installing the correct printer driver, selecting the printer in the operating system, and printing a test page. Configuration may include paper size, print quality, color settings, and default printer selection.",
+            example: "A teacher connects a printer to the school computer using Wi-Fi, installs the required driver, selects A4 paper, and prints a test worksheet.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Scanners and Document Digitization",
+            answer: "A scanner is an input device that converts printed documents, photographs, and drawings into digital files. Document digitization is the process of converting physical information into an electronic format. Scanned files can be saved as PDF, JPEG, or PNG. Optical Character Recognition (OCR) can recognize printed text in scanned images and convert it into searchable or editable text.",
+            example: "A school office scans a student's admission form and saves it as a PDF. OCR software can then help extract the student's name and other printed details.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Webcam, Microphone and Headset Setup",
+            answer: "A webcam captures video, a microphone records sound, and a headset combines headphones with a microphone for listening and speaking. To set them up, connect the devices through USB, Bluetooth, or the appropriate audio ports. Select the correct camera and microphone in the operating system and meeting application, allow necessary permissions, and test the audio and video before joining a meeting.",
+            example: "A student connects a USB webcam and headset to a laptop, selects them in an online classroom application, and tests the camera and microphone before class begins.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Projectors and Meeting Room Equipment",
+            answer: "A projector displays a computer's screen on a large wall or screen so that many people can view the same information. Meeting rooms may also contain speakers, microphones, video conferencing cameras, and presentation controllers. To set up the equipment, connect the display cable or wireless connection, choose the correct input source, adjust the display mode, and test sound and video before the meeting.",
+            example: "A teacher connects a laptop to a classroom projector using HDMI and selects Duplicate Display so students can see the same presentation shown on the laptop.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Docking Stations and Multiple Monitors",
+            answer: "A docking station connects a laptop to several external devices through a single connection. It may provide ports for monitors, keyboards, mice, network cables, storage devices, and power. Multiple monitors allow users to display different applications on separate screens. After connecting the devices, users may configure display resolution, screen arrangement, and whether the screens should extend or duplicate the desktop.",
+            example: "An office employee connects a laptop to a docking station and uses two monitors: one for writing a report and another for viewing reference documents.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Accessibility Settings",
+            answer: "Accessibility settings help people use computers more comfortably, including people with visual, hearing, mobility, or learning difficulties. Common features include screen magnification, text resizing, high-contrast themes, screen readers, captions, voice typing, sticky keys, and on-screen keyboards. These settings can make technology easier to use for a wider range of people.",
+            example: "A student who has difficulty reading small text increases the display text size and enables magnification. A student with hearing difficulties turns on captions during an online lesson.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Remote Work Technology",
+            answer: "Remote work technology allows people to work outside a traditional office while communicating and accessing approved work resources online. It includes laptops, video meeting applications, messaging tools, cloud storage, collaboration platforms, and secure remote access. Users should keep their devices updated, protect accounts with strong passwords and multifactor authentication, and use approved networks and services to protect work information.",
+            example: "A software developer works from home using a laptop, attends meetings through video conferencing, shares documents through an approved cloud platform, and connects to company resources through a secure VPN when required.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Common User Support Requests",
+            answer: "Common user support requests are problems or questions people report when using computers and office technology. Examples include forgotten passwords, slow computers, printer errors, internet connection problems, missing files, application crashes, and audio or video issues. IT support staff record the problem, identify its cause, apply an appropriate solution, test the result, and document the work performed.",
+            example: "An employee reports that a printer is not printing. The support technician checks the power connection, paper tray, printer queue, network connection, and driver before testing a new print job.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: Prepare a Complete Digital Workspace",
+            answer: "This project involves preparing a computer workspace that is ready for study or office work. The workspace should include a configured computer, keyboard, mouse, internet access, necessary applications, a printer or other required peripherals, accessibility settings, security protections, and a backup plan. Students should create a checklist, connect and configure the equipment, test each device, organize files, and document the final setup.",
+            example: "Prepare a digital workspace for a school teacher. Connect a computer, monitor, keyboard, mouse, printer, webcam, and headset. Install approved office software, connect to the internet, enable appropriate security settings, organize lesson files, and test all equipment. Submit a checklist describing the completed setup.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 17,
+        heading: "IT Communication and Customer Support",
+        slug: "it-communication-customer-support",
+        qa: [
+          {
+            id: 1,
+            question: "Understanding the User's Problem",
+            answer: "Understanding the user's problem means identifying what is not working, who is affected, when the problem started, and how it affects the user's work. IT support staff should listen carefully, avoid making assumptions, and gather clear information before trying a solution. Understanding the problem correctly helps prevent unnecessary changes and saves time.",
+            example: "A user says, 'My internet is not working.' The technician asks whether other websites open, whether other devices connect to the same Wi-Fi, and whether the problem affects only one application.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Asking Effective Troubleshooting Questions",
+            answer: "Effective troubleshooting questions help narrow down the cause of a technical problem. Questions should be clear, specific, and easy to answer. Support staff may ask what the user was doing when the problem occurred, whether an error message appeared, whether anything changed recently, and whether restarting the application helped. Questions should be asked one at a time when necessary.",
+            example: "When an application fails to open, a technician asks, 'What happens when you click the application icon?', 'Do you see an error message?', and 'Was the application working yesterday?'",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Explaining Technical Issues Simply",
+            answer: "Explaining technical issues simply means using familiar words instead of unnecessary technical terms. A support technician should explain what happened, what action is needed, and what the user should expect next. Simple explanations help users understand the solution without feeling confused or embarrassed about their technical knowledge.",
+            example: "Instead of saying, 'The device cannot obtain a valid IP address from DHCP,' a technician might say, 'Your computer has not received the network address it needs to connect properly. I will check the network connection and renew that address.'",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Handling Support Tickets Professionally",
+            answer: "A support ticket is a recorded request for technical assistance. It usually includes the user's details, problem description, date and time, priority, troubleshooting steps, current status, and resolution. Support staff should write accurate notes, update the ticket when progress is made, protect confidential information, and close the ticket only after following the organization's process.",
+            example: "A ticket records that an employee cannot print a document. The technician checks the printer connection, clears a stuck print job, prints a successful test page, records the fix, and updates the ticket as resolved.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Remote Support Etiquette",
+            answer: "Remote support etiquette means behaving professionally while helping someone through a phone call, chat, or remote access session. A technician should introduce themselves, explain each step, obtain permission before accessing a device, avoid viewing unrelated private information, and tell the user before restarting applications or the computer. Remote access should use approved tools and follow security rules.",
+            example: "Before controlling an employee's computer remotely, the technician explains the purpose, asks for permission, closes the support session after fixing the issue, and confirms that the employee can continue working.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Managing Expectations and Response Times",
+            answer: "Managing expectations means explaining when support staff will respond, what they will do, and how long a solution may take. Response time is the time taken to acknowledge or begin handling a request, while resolution time is the time needed to fix it. Both can depend on priority, complexity, available resources, and the organization's service-level agreements.",
+            example: "A technician tells an employee, 'I have received your request and will investigate it this morning. If the issue requires network team assistance, I will update you about the next steps.'",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Escalating Unresolved Problems",
+            answer: "Escalation means transferring a problem to a more experienced technician, specialist team, or manager when it cannot be resolved at the current support level. Before escalating, the technician should record the symptoms, error messages, tests already performed, and their results. Urgent security incidents or widespread outages should be escalated according to organizational procedures without unnecessary delay.",
+            example: "A desktop support technician confirms that several employees have lost access to a shared server. The technician records the affected users and troubleshooting results, then escalates the incident to the server or network team.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Writing Support Emails",
+            answer: "A professional support email should have a clear subject, polite greeting, short description of the issue or solution, necessary instructions, and a suitable closing. It should avoid unclear abbreviations and unnecessary technical language. Sensitive information such as passwords should not be requested or shared through ordinary email. The message should be checked for accuracy before sending.",
+            example: "Subject: Printer Connection Restored. Hello, the printer connection has been restored. Please send a test document to confirm that printing works. If the problem continues, reply to this email with the error message. Regards, IT Support.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Customer Satisfaction and Feedback",
+            answer: "Customer satisfaction describes how well the support experience meets a user's needs and expectations. Support teams can measure satisfaction through feedback forms, ratings, surveys, and follow-up messages. Good support includes respectful communication, useful solutions, timely updates, and confirmation that the problem has been resolved. Feedback can reveal areas where the service needs improvement.",
+            example: "After fixing a user's audio problem, the technician asks the user to test the microphone and then sends a short survey asking whether the issue was resolved and the support experience was helpful.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: Role-Play an IT Help Desk",
+            answer: "In this project, students act out an IT help desk conversation. One student plays the user and describes a computer problem, while another plays the support technician. The technician listens, asks troubleshooting questions, explains possible solutions in simple language, records a support ticket, and decides whether escalation is needed. Students then exchange roles and review their communication.",
+            example: "A student reports that their laptop cannot connect to Wi-Fi. The support technician asks whether other devices can connect, checks whether Wi-Fi is enabled, guides the user through safe troubleshooting, records the outcome, and explains the next steps if the problem remains unresolved.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 18,
+        heading: "IT Roles, Skills and Certifications",
+        slug: "it-roles-skills-certifications",
+        qa: [
+          {
+            id: 1,
+            question: "IT Support Specialist",
+            answer: "An IT Support Specialist helps people solve everyday computer and technology problems. Responsibilities may include troubleshooting hardware and software, assisting with accounts, installing approved applications, resolving connectivity issues, and documenting support requests. Important skills include communication, problem-solving, basic networking, operating systems, and customer service.",
+            example: "An IT Support Specialist helps a teacher whose computer is running slowly, checks storage and running applications, performs approved maintenance, and explains how to avoid the same problem in the future.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Desktop Support Technician",
+            answer: "A Desktop Support Technician focuses on the computers, peripherals, and software used by employees or students. Tasks may include preparing computers, replacing faulty peripherals, configuring printers, installing software, applying updates, and resolving desktop operating system problems. The role often requires practical troubleshooting and careful equipment handling.",
+            example: "A company hires a Desktop Support Technician to prepare ten laptops for new employees, configure user access, install approved applications, and test each laptop before distribution.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "System Administrator",
+            answer: "A System Administrator manages and maintains computer systems, servers, user accounts, permissions, updates, and system backups. The role helps ensure that systems remain secure, available, and reliable. Common skills include operating system administration, scripting, identity management, monitoring, troubleshooting, and security fundamentals.",
+            example: "A System Administrator creates accounts for new employees, assigns appropriate permissions, checks server health, and ensures that scheduled backups are completing successfully.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Network Administrator",
+            answer: "A Network Administrator maintains the networks that connect computers, servers, printers, and other devices. Responsibilities may include configuring switches, routers, Wi-Fi, IP addressing, access controls, and network monitoring. Network Administrators troubleshoot connection failures and help keep network services secure and available.",
+            example: "When a school computer lab loses internet access, the Network Administrator checks the network equipment, connection status, IP configuration, and router settings to locate the problem.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "IT Operations Analyst",
+            answer: "An IT Operations Analyst monitors technology services and helps ensure that business systems operate reliably. Tasks can include reviewing alerts, analyzing service performance, investigating incidents, checking scheduled jobs, documenting recurring problems, and preparing operational reports. The role requires analytical thinking, attention to detail, and knowledge of monitoring and incident-management processes.",
+            example: "An IT Operations Analyst notices that a business application is responding slowly, reviews performance alerts and incident records, and works with the responsible team to identify the cause.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Database Administrator",
+            answer: "A Database Administrator manages databases that store organized information for applications and organizations. Responsibilities may include installing database software, managing user permissions, monitoring performance, backing up data, testing recovery procedures, and maintaining database security. Knowledge of SQL, database systems, access control, and recovery planning is useful.",
+            example: "A Database Administrator schedules backups for a school's student database, restricts access to authorized staff, and tests whether a backup can be restored successfully.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Cloud Support Associate",
+            answer: "A Cloud Support Associate helps users and technical teams work with services hosted by cloud providers. Tasks may include investigating access problems, checking virtual machines, reviewing service health, helping configure storage, and understanding cloud networking. Useful skills include basic networking, Linux or Windows administration, identity and access management, and cloud platform fundamentals.",
+            example: "A Cloud Support Associate investigates why an employee cannot access a cloud-hosted application, checks the account permissions and service status, and follows the approved troubleshooting procedure.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Cybersecurity Analyst",
+            answer: "A Cybersecurity Analyst helps protect computers, networks, applications, and information from digital threats. Responsibilities may include reviewing security alerts, investigating suspicious activity, checking vulnerabilities, supporting incident response, and helping enforce security policies. Important skills include networking, operating systems, security principles, log analysis, and careful documentation.",
+            example: "A Cybersecurity Analyst reviews an alert about an unusual login, checks relevant security logs, follows the incident response process, and reports findings to the appropriate team.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "IT Project Coordinator",
+            answer: "An IT Project Coordinator helps organize technology projects by tracking tasks, deadlines, meetings, resources, risks, and project updates. They communicate with technical teams and stakeholders to keep work organized. Useful skills include planning, documentation, communication, spreadsheet use, and familiarity with project management tools.",
+            example: "An IT Project Coordinator helps manage a school computer lab upgrade by tracking equipment delivery, installation dates, assigned technicians, testing tasks, and outstanding issues.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Exploring Certifications and Career Roadmaps",
+            answer: "IT certifications are credentials that demonstrate knowledge or skills in a particular technology area. Examples include CompTIA A+ for foundational technical support, CompTIA Network+ for networking fundamentals, Cisco CCNA for networking, and cloud certifications offered by providers such as Microsoft, AWS, and Google. A career roadmap is a learning plan that connects current skills with the knowledge, practical experience, and qualifications needed for a target role. Certification requirements, names, and exam details can change, so candidates should check official provider websites.",
+            example: "A beginner who wants to work in IT support can learn computer hardware, operating systems, and networking, practice troubleshooting in a home lab, prepare for an entry-level certification if useful, and build a portfolio of documented projects before applying for junior roles.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 19,
+        heading: "Practical IT Lab and Simulations",
+        slug: "practical-it-lab-simulations",
+        qa: [
+          {
+            id: 1,
+            question: "Identify and Label Computer Components",
+            answer: "Identifying and labeling computer components means recognizing the main parts of a computer and understanding their purposes. Components may include the motherboard, CPU, RAM, storage drive, power supply, monitor, keyboard, mouse, and network adapter. A practical lab helps students connect the name of each component with its function. Internal components should only be handled under appropriate supervision with the device powered off and disconnected.",
+            example: "Students examine a computer diagram or supervised desktop, label the CPU, RAM, motherboard, and storage drive, and write one sentence explaining the purpose of each component.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Practice Operating System Settings",
+            answer: "Operating system settings control how a computer works and how users interact with it. These settings may include display resolution, sound, language, date and time, network connections, accessibility, installed applications, and user accounts. Students should practice changing safe settings, understand the effects of their changes, and learn to restore the original configuration if necessary.",
+            example: "A student changes the display brightness, adjusts the sound volume, selects the correct time zone, and enables larger text on a practice computer.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Organize Files and Shared Folders",
+            answer: "Organizing files means arranging digital documents in folders with clear names so they can be found easily. Shared folders allow authorized users to access common files over a network or through an approved cloud service. Good practices include using meaningful filenames, avoiding duplicate copies, assigning appropriate permissions, and protecting confidential information.",
+            example: "Students create a folder named Science Project with subfolders for Research, Images, and Final Report. They then share it with a classmate using view-only permission when editing is not required.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Simulate Common IT Support Tickets",
+            answer: "Simulating IT support tickets means practicing how to record and solve typical technical problems in a controlled learning environment. Each ticket should describe the issue, affected user, time reported, priority, troubleshooting steps, results, and final status. Simulations help students develop systematic troubleshooting, documentation, and communication skills without disrupting real systems.",
+            example: "A student receives a simulated ticket stating that a printer is offline. They record the symptoms, check the simulated connection and print queue, identify the cause, describe the fix, and mark the ticket resolved after testing.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Practice IP Configuration",
+            answer: "IP configuration is the process of setting or obtaining the network information a device needs to communicate. This can include an IP address, subnet mask or prefix, default gateway, and DNS server addresses. A device may receive these settings automatically through DHCP or use a manually configured address. Students should practice in an isolated lab or simulator and avoid changing real network settings without permission.",
+            example: "In a network simulator, students configure two computers with compatible addresses such as 192.168.1.10/24 and 192.168.1.11/24, then test connectivity using an approved network diagnostic tool.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Create an IT Asset Spreadsheet",
+            answer: "An IT asset spreadsheet records the technology equipment owned or managed by an organization. Useful columns include asset ID, device type, manufacturer, model, serial number, assigned user, location, purchase date, warranty status, and condition. Accurate records help an organization locate equipment, plan replacements, track repairs, and manage costs. Sensitive identifiers should be shared only with authorized people.",
+            example: "Students create a spreadsheet listing five lab computers with unique asset IDs, device models, room locations, assigned users, and condition notes.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Test a Backup and Restore Procedure",
+            answer: "A backup is a separate copy of important information that can be used if the original data is lost or damaged. Restoring means recovering files or systems from a backup. A good backup test uses sample files, verifies that the backup completed, restores the files to a safe test location, and checks that the restored files open correctly. Backups should be protected from unauthorized access and accidental deletion.",
+            example: "Students create three sample documents, copy them to an approved backup location, delete the practice copies from the original folder, restore them from the backup, and verify that all three documents open correctly.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Build a Virtual Computer Lab",
+            answer: "A virtual computer lab uses virtualization software to run simulated or virtual computers on a physical host machine. Virtual machines can be used to practice operating system installation, networking, software configuration, and troubleshooting without needing a separate physical computer for every task. Students should use approved software, allocate sufficient memory and storage, and keep lab environments isolated from important systems.",
+            example: "A student creates a virtual machine in approved virtualization software, installs a test operating system from a legitimate installation image, and practices creating folders and configuring network settings.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Diagnose Simulated System Issues",
+            answer: "Diagnosing system issues means gathering evidence, identifying possible causes, testing them safely, and applying a suitable solution. Problems may include low disk space, a disconnected network cable, a disabled audio device, an outdated application, or a stopped service. Students should change one relevant thing at a time, record the results, and verify that the system works after the fix.",
+            example: "In a practice environment, a computer has no sound. The student checks the volume, selected output device, cable connection, and application settings, then identifies and fixes the simulated issue.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Final Practical IT Skills Assessment",
+            answer: "A final practical IT skills assessment checks whether students can apply the knowledge learned throughout the course. It may include identifying components, adjusting operating system settings, organizing files, recording an IT ticket, checking IP settings, creating an asset spreadsheet, and restoring sample data from a backup. Assessment should consider accuracy, safety, problem-solving, documentation, and communication.",
+            example: "A student completes a lab assessment by labeling computer components, correcting a simulated network problem, documenting the solution in a support ticket, updating an asset spreadsheet, and restoring a sample file from backup.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 20,
+        heading: "IT for Schools and Small Businesses",
+        slug: "it-for-schools-small-businesses",
+        qa: [
+          {
+            id: 1,
+            question: "Assessing an Organization's IT Needs",
+            answer: "Assessing an organization's IT needs means understanding what technology is required to support its daily activities. The assessment considers the number of users, types of work, required applications, internet access, storage, security, accessibility, budget, and future growth. A good plan provides enough resources without unnecessary spending and considers how equipment will be maintained.",
+            example: "Before opening a small coaching center, an IT planner identifies the need for teacher laptops, student computers, reliable Wi-Fi, a shared printer, learning software, and secure storage for student records.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Planning a Computer Lab",
+            answer: "Planning a computer lab involves choosing a suitable room, determining how many computers are needed, arranging desks, providing safe electrical connections, planning ventilation, and ensuring reliable networking. The design should allow students and teachers to move safely and should provide appropriate lighting, seating, accessibility, and equipment security. Maintenance access and future expansion should also be considered.",
+            example: "A school plans a lab with twenty computers, teacher access to a projector, organized cable routing, suitable seating, network connectivity, and enough space for safe movement between desks.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Managing Devices for Multiple Users",
+            answer: "Managing devices for multiple users means preparing computers and other equipment so different people can use them safely and efficiently. Tasks include assigning devices, creating individual accounts where appropriate, applying updates, installing approved applications, managing permissions, and recording repairs. Shared devices should not expose one user's private files or account information to another user.",
+            example: "A school assigns a device ID to every lab computer, provides students with appropriate accounts, installs the required learning applications, and keeps a record of device faults and maintenance.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Setting Up Shared Printers and Storage",
+            answer: "Shared printers and storage allow several authorized users to use common resources through a network or approved cloud service. A shared printer must be connected, configured, and made available to the correct users. Shared storage requires clear folder organization, appropriate permissions, backup protection, and enough capacity. Access should be limited according to each person's responsibilities.",
+            example: "A small office connects one network printer for its staff and creates separate shared folders for Accounts, Sales, and General Documents, giving each team access only to the files it needs.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "User Accounts and Permissions",
+            answer: "User accounts identify people who access computers and services. Permissions determine which files, applications, and settings each account can use or change. Organizations should give users only the access they need to perform their jobs, use separate administrator accounts where appropriate, remove access when people leave, and review permissions regularly.",
+            example: "At a school, teachers can access lesson materials and student records needed for their work, while students can access learning resources but cannot change system-wide settings or view restricted records.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Planning Backups and Updates",
+            answer: "Backup planning determines which information must be copied, how frequently backups run, where they are stored, who is responsible, and how recovery will be tested. Update planning ensures that operating systems, applications, and device firmware receive appropriate security and reliability updates. Organizations should schedule maintenance, test important changes when possible, and protect backups from unauthorized access and ransomware.",
+            example: "A coaching center backs up its student records every day to an approved protected location, tests file restoration periodically, and schedules operating system updates outside class hours.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Basic Security and Internet Policies",
+            answer: "Security and internet policies explain the rules users must follow when using an organization's technology. They may cover strong passwords, multifactor authentication, safe browsing, phishing awareness, approved software, data privacy, device use, and reporting suspicious activity. Policies should be clear, practical, appropriate for the organization, and communicated to users. They should also follow applicable laws and contractual requirements.",
+            example: "A school policy tells students not to share passwords, install unauthorized applications, or open suspicious links, and instructs them to report unusual messages to a teacher or IT support person.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "IT Support and Maintenance Scheduling",
+            answer: "IT support and maintenance scheduling is the process of planning routine checks, software updates, equipment cleaning, backup tests, repairs, and user assistance. A schedule helps reduce unexpected failures and ensures that important tasks are not forgotten. Organizations should record completed work, identify recurring problems, and plan maintenance at times that cause minimal disruption.",
+            example: "A school schedules monthly computer checks, regular backup tests, periodic printer maintenance, and a review of security updates during holidays or other low-use periods.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Estimating Equipment and Service Costs",
+            answer: "Estimating IT costs means calculating the money required to purchase, operate, maintain, and replace technology. Costs may include computers, monitors, networking equipment, software subscriptions, internet services, installation, training, repairs, electricity, and backup storage. A useful estimate distinguishes one-time purchases from recurring costs and includes a reasonable allowance for unexpected expenses.",
+            example: "A small business prepares a budget for five computers, one printer, a network router, software subscriptions, internet service, and annual maintenance before deciding which equipment to purchase.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Project: Create an IT Plan for a School or Small Business",
+            answer: "This project involves designing a practical IT plan for a school or small business. Students should identify the organization's needs, estimate the number of users and devices, plan the network and shared resources, define user permissions, outline security rules, schedule backups and maintenance, and estimate costs. The final plan should explain the reasons for the choices and include a basic implementation timeline.",
+            example: "Create an IT plan for a small school with one office, two classrooms, and a computer lab. List the required computers, printer, router, internet connection, software, user accounts, backup arrangements, security policies, maintenance schedule, estimated costs, and rollout steps. Present the plan in a report or slideshow.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 21,
+        heading: "Real-World IT Projects and Career Readiness",
+        slug: "real-world-it-projects-career-readiness",
+        qa: [
+          {
+            id: 1,
+            question: "Project: Create a Computer Maintenance Guide",
+            answer: "A computer maintenance guide is a document that explains how to keep computers working safely and reliably. It can include routine checks, safe cleaning instructions, software updates, storage management, backup procedures, security practices, and steps for reporting problems. Instructions should be easy to follow and should warn users not to open equipment or perform risky repairs without suitable training.",
+            example: "Create a guide for a school computer lab with weekly checks, approved screen-cleaning instructions, update reminders, storage checks, backup verification, and contact details for reporting faults.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Project: Build an IT Asset Tracker",
+            answer: "An IT asset tracker is a spreadsheet or application used to record and monitor technology equipment. It can store asset IDs, device types, models, serial numbers, locations, assigned users, purchase dates, warranty details, and maintenance status. A useful tracker supports searching, filtering, regular reviews, and clear responsibility for updating records.",
+            example: "Build a spreadsheet that tracks ten computers and three printers. Add unique asset IDs, locations, assigned users, device condition, warranty dates, and maintenance notes, then use filters to find devices needing repair.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Project: Develop a Help Desk Ticket App",
+            answer: "A help desk ticket application allows users to report technical problems and enables support staff to manage them. Basic features may include ticket creation, a problem description, category, priority, status, assigned technician, comments, and resolution notes. A more advanced application may include login, notifications, search, reporting, and role-based permissions. It should protect user information and validate submitted data.",
+            example: "Develop a simple web application in which a user submits a ticket about a computer issue. An IT support user can view the ticket, change its status from Open to In Progress and then Resolved, and record the solution.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Project: Document a Computer Lab Network",
+            answer: "Network documentation describes how devices in a computer lab connect and communicate. It may include a network diagram, device names, router and switch locations, IP address ranges, wireless access points, printers, and approved network services. Documentation should be accurate, kept up to date, and stored securely because detailed network information can be sensitive.",
+            example: "Draw a diagram showing the internet connection, router, switch, teacher computer, student computers, network printer, and Wi-Fi access point. Add device labels and a sample private IP addressing plan.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Project: Prepare an Employee Onboarding Checklist",
+            answer: "An employee onboarding checklist helps an organization prepare technology for a new employee. It may include assigning a computer, creating an approved account, granting role-appropriate permissions, installing required applications, configuring email and collaboration tools, providing security guidance, and explaining how to request IT support. Access should be approved, documented, and limited to what the employee needs.",
+            example: "Prepare a checklist for a new office employee: assign a laptop, record its asset ID, create an account, configure email, install approved software, enable multifactor authentication, explain security rules, and confirm that required applications work.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Project: Create a Backup and Recovery Plan",
+            answer: "A backup and recovery plan explains how important information will be protected and restored after accidental deletion, equipment failure, cyberattacks, or other disruptions. It identifies critical data, backup frequency, storage locations, responsible people, access controls, retention periods, and recovery testing. The plan should specify recovery priorities and be tested regularly so that the organization knows whether its backups are usable.",
+            example: "Create a recovery plan for a small business that identifies important documents and customer records, schedules protected backups, assigns a responsible person, and describes how to restore sample files after accidental deletion.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Project: Build an IT Inventory Dashboard",
+            answer: "An IT inventory dashboard presents important equipment information in an easy-to-understand visual format. It may show the total number of devices, device categories, equipment by location, devices needing repairs, expired warranties, and upcoming replacements. The dashboard can be built using a spreadsheet or a web application. Its charts and summaries should be based on accurate inventory data.",
+            example: "Create a spreadsheet dashboard showing the total computers, printers, and monitors in a school. Add charts for equipment by classroom and a list of devices marked as needing repair.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Project: Write an IT Incident Report",
+            answer: "An IT incident report documents an event that disrupted or threatened a technology service. It commonly records the date and time, affected systems, observed symptoms, impact, actions taken, resolution, and follow-up recommendations. Reports should distinguish confirmed facts from assumptions and avoid including unnecessary personal or confidential information. Security incidents should follow the organization's reporting and escalation procedures.",
+            example: "Write a report about a simulated school network outage. Include when it began, which rooms were affected, the tests performed, the cause identified in the simulation, the restoration steps, and recommendations to reduce future disruptions.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Project: Present a Complete IT Support Solution",
+            answer: "Presenting a complete IT support solution means explaining a technology problem and showing how it can be resolved in a safe, organized, and cost-effective way. The presentation should describe the user's needs, the problem, the investigation, the proposed solution, required equipment or software, security considerations, implementation steps, testing, and maintenance. Clear diagrams and a demonstration can help the audience understand the solution.",
+            example: "Present a solution for a school where computers frequently lose internet access. Explain how to investigate the network, identify the simulated cause, recommend a fix, test connectivity, document the incident, and propose preventive maintenance.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Create a Personal IT Skills Portfolio",
+            answer: "A personal IT skills portfolio is a collection of projects and evidence that demonstrates what a learner can do. It may include project descriptions, screenshots, diagrams, code samples, troubleshooting reports, spreadsheets, certificates, and reflections on lessons learned. The portfolio should clearly state the learner's contribution, protect private information, and avoid publishing passwords, confidential data, or systems details that should remain private.",
+            example: "Create a portfolio with a computer maintenance guide, IT asset tracker, sample help desk ticket app, network diagram, backup plan, and incident report. For each project, explain its purpose, the tools used, the skills demonstrated, and what could be improved next.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 5,
+    topic: "Cyber Security",
+    slug: "cyber-security",
+    emoji: "🌐",
+    color: "yellow",
+    level: "Level 5",
+    classes: "Class 9+",
+    decription: "",
+    topics: [
+      {
+        id: 1,
+        heading: "Introduction to Cyber Security",
+        slug: "introduction-to-cyber-security",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Cyber Security?",
+
+            answer: `<div><p>Cyber security is the practice of protecting computers, mobile phones, networks, applications, websites, and digital information from unauthorized access, theft, damage, and online attacks. It involves using security tools, technologies, rules, and safe habits to keep devices, accounts, and information secure.</p>
+<p>Today, people use the internet for studying, communicating, shopping, banking, working, and entertainment. During these activities, they share or store important information, such as passwords, photographs, personal details, documents, and financial information. Cyber security helps protect this information from people who may try to steal, misuse, change, or destroy it.</p></div>
+<div><h3>Why Is Cyber Security Important?</h3>
+Cyber security is important because cybercriminals may try to access personal accounts, steal money, spread harmful software, or collect private information without permission. Good security practices help reduce these risks and make digital activities safer.
+<strong>Example:-</strong> if someone obtains your email password, they might access your private messages or attempt to reset the passwords of your other accounts. Using a strong password and two-factor authentication can make unauthorized access more difficult.
+</div>
+<div><h3>Main Goals of Cyber Security:</h3>
+<ul>
+<li><strong>1. Confidentiality:</strong> Ensuring that private information is accessible only to authorized people. For example, protecting your personal messages so that strangers cannot read them.</li>
+<li><strong>2. Integrity:</strong> Ensuring that information remains accurate and is not changed without permission. For example, protecting a student's marks from unauthorized changes.</li>
+<li><strong>3. Availability:</strong> Ensuring that computers, applications, and information remain accessible to authorized users when needed. For example, protecting a school's online learning system so students can access their lessons.</li>
+</ul>
+These three goals are commonly known as the CIA triad: <b>Confidentiality</b>, <b>Integrity</b>, and <b>Availability</b>.
+</div>
+<div><h3>Common Cyber Threats:</h3>
+<ul>
+<li><strong>1. Phishing:</strong> Fake emails, messages, or websites designed to trick people into revealing passwords, banking information, or other sensitive details.</li>
+<li><strong>2. Malware:</strong> Harmful software designed to damage devices, steal information, or perform unwanted activities.</li>
+<li><strong>3. Viruses:</strong> A type of malware that can attach itself to files or programs and spread when those files or programs are used.</li>
+<li><strong>4. Ransomware:</strong> A type of malware that locks or encrypts files and demands payment to restore access.</li>
+<li><strong>5. Password Attacks:</strong> Attempts to guess, steal, or discover passwords to gain unauthorized access to accounts.</li>
+<li><strong>6. Identity Theft:</strong> Using another person's personal information without permission, often for fraud or other harmful purposes.</li>
+<li><strong>7. Social Engineering:</strong> Tricking people into sharing confidential information or performing unsafe actions by pretending to be someone they trust.</li>
+<li><strong>8. Data Breaches:</strong> Incidents in which private or confidential information is accessed, exposed, or stolen without authorization.</li>
+</ul>
+</div>
+
+<div><h3>Important Cyber Security Practices:</h3>
+<ul>
+<li><strong>1. Use Strong Passwords:</strong> Create long, unique passwords for different accounts. Avoid easily guessed information such as your name or date of birth.</li>
+<li><strong>2. Enable Two-Factor Authentication:</strong> Use an additional verification step, such as an authenticator app or security key, whenever possible.</li>
+<li><strong>3. Keep Software Updated:</strong> Install updates for operating systems, browsers, applications, and security tools to fix known vulnerabilities.</li>
+<li><strong>4. Avoid Suspicious Links:</strong> Do not click unknown links or download unexpected attachments without checking whether they are trustworthy.</li>
+<li><strong>5. Use Trusted Software:</strong> Download applications from official websites or trusted app stores.</li>
+<li><strong>6. Protect Personal Information:</strong> Do not share passwords, OTPs, PINs, or confidential information with unknown people. Legitimate support staff should not ask you to reveal your password or OTP.</li>
+<li><strong>7. Secure Your Wi-Fi:</strong> Change default router credentials, use modern Wi-Fi security settings, and keep your router updated.</li>
+<li><strong>8. Back Up Important Files:</strong> Keep copies of important documents and photographs in a secure backup location.</li>
+<li><strong>9. Lock Your Devices:</strong> Use a PIN, password, fingerprint, or another supported screen-lock method.</li>
+<li><strong>10. Think Before You Share:</strong> Avoid publicly sharing sensitive personal information, such as your home address, financial details, or private documents.</li>
+</ul>
+</div>
+<div><h3>Types of Cyber Security:</h3>
+<ul>
+<li><strong>1. Network Security:</strong> Protects computer networks from unauthorized access and attacks.</li>
+<li><strong>2. Application Security:</strong> Protects websites, mobile applications, and software from security weaknesses.</li>
+<li><strong>3. Information Security:</strong> Protects information from unauthorized access, changes, disclosure, or destruction.</li>
+<li><strong>4. Cloud Security:</strong> Protects data, applications, and services stored or operated in cloud environments.</li>
+<li><strong>5. Endpoint Security:</strong> Protects devices such as computers, laptops, and smartphones connected to a network.</li>
+<li><strong>6. Identity and Access Management:</strong> Controls who can access particular systems, accounts, and information.</li>
+<li><strong>7. Operational Security:</strong> Establishes procedures for handling, storing, and protecting sensitive information.</li>
+</ul>
+</div>
+<div><h3>Cyber Security at Home, School, and Work:</h3>
+At home, cyber security helps protect online banking, personal photographs, email accounts, and smart devices.
+At school, it helps protect student records, examination results, learning platforms, and teachers' documents.
+At work, it helps organizations protect customer information, business records, employee accounts, and computer systems.
+</div>
+<div>
+<h3>Cyber Security and Ethical Responsibility:</h3>
+Cyber security is not only about using technical tools. It also means respecting privacy, following applicable laws, and using technology responsibly. Security testing should be performed only on systems you own or have explicit permission to test.
+</div>
+<div>
+<h3>What Should You Do If You Suspect a Cyber Attack?</h3>
+<p>If you receive a suspicious message, avoid clicking its links or opening its attachments. If you believe an account has been compromised, use a trusted device to change its password, secure the account with two-factor authentication, and sign out other sessions if that option is available. Contact your bank immediately if financial information or money may be at risk. Report serious incidents to the appropriate service provider or cybercrime authority.</p>
+<p>In conclusion, cyber security helps protect digital devices, networks, accounts, and information from online threats. By using strong passwords, enabling additional authentication, updating software, avoiding suspicious links, and respecting other people's privacy, everyone can contribute to a safer digital world.</p></div>`,
+            answerHi: `साइबर सुरक्षा (Cyber Security) कंप्यूटर, मोबाइल फोन, नेटवर्क, एप्लिकेशन, वेबसाइट और डिजिटल जानकारी को अनधिकृत पहुँच, चोरी, नुकसान तथा ऑनलाइन हमलों से बचाने की प्रक्रिया है। इसमें सुरक्षा उपकरणों, तकनीकों, नियमों और सुरक्षित आदतों का उपयोग किया जाता है, ताकि हमारे उपकरण, खाते और जानकारी सुरक्षित रहें।
+
+आज लोग पढ़ाई करने, बातचीत करने, ऑनलाइन खरीदारी करने, बैंकिंग, काम करने और मनोरंजन के लिए इंटरनेट का उपयोग करते हैं। इन गतिविधियों के दौरान वे पासवर्ड, तस्वीरें, व्यक्तिगत जानकारी, दस्तावेज़ और बैंक से संबंधित जानकारी जैसी महत्वपूर्ण चीजें साझा या संग्रहित करते हैं। साइबर सुरक्षा इस जानकारी को उन लोगों से बचाने में मदद करती है, जो इसे चुराने, गलत तरीके से इस्तेमाल करने, बदलने या नष्ट करने की कोशिश कर सकते हैं।
+
+साइबर सुरक्षा क्यों महत्वपूर्ण है?
+
+साइबर सुरक्षा इसलिए महत्वपूर्ण है क्योंकि साइबर अपराधी व्यक्तिगत खातों में प्रवेश करने, पैसे चुराने, हानिकारक सॉफ्टवेयर फैलाने या बिना अनुमति निजी जानकारी प्राप्त करने की कोशिश कर सकते हैं। सुरक्षा के अच्छे तरीकों को अपनाने से इन खतरों को कम किया जा सकता है और डिजिटल गतिविधियों को अधिक सुरक्षित बनाया जा सकता है।
+
+उदाहरण के लिए, यदि किसी व्यक्ति को आपका ईमेल पासवर्ड पता चल जाए, तो वह आपके निजी संदेश पढ़ सकता है या आपके दूसरे खातों के पासवर्ड बदलने की कोशिश कर सकता है। मजबूत पासवर्ड और टू-फैक्टर ऑथेंटिकेशन का उपयोग करने से अनधिकृत प्रवेश को कठिन बनाया जा सकता है।
+
+साइबर सुरक्षा के मुख्य उद्देश्य:
+
+1. गोपनीयता (Confidentiality): यह सुनिश्चित करना कि निजी जानकारी केवल अधिकृत लोगों को ही उपलब्ध हो। उदाहरण के लिए, आपके व्यक्तिगत संदेशों को अनजान लोगों से सुरक्षित रखना।
+
+2. अखंडता (Integrity): यह सुनिश्चित करना कि जानकारी सही बनी रहे और बिना अनुमति उसमें बदलाव न किया जाए। उदाहरण के लिए, विद्यार्थी के अंकों को अनधिकृत बदलाव से बचाना।
+
+3. उपलब्धता (Availability): यह सुनिश्चित करना कि कंप्यूटर, एप्लिकेशन और जानकारी आवश्यकता पड़ने पर अधिकृत उपयोगकर्ताओं के लिए उपलब्ध रहें। उदाहरण के लिए, स्कूल के ऑनलाइन लर्निंग सिस्टम को सुरक्षित रखना, ताकि विद्यार्थी अपने पाठ पढ़ सकें।
+
+इन तीनों उद्देश्यों को CIA ट्रायड कहा जाता है। CIA का अर्थ है Confidentiality, Integrity और Availability।
+
+साइबर सुरक्षा के सामान्य खतरे:
+
+1. फिशिंग (Phishing): नकली ईमेल, संदेश या वेबसाइटों के माध्यम से लोगों को पासवर्ड, बैंकिंग जानकारी या अन्य गोपनीय विवरण साझा करने के लिए धोखा देना।
+
+2. मैलवेयर (Malware): ऐसा हानिकारक सॉफ्टवेयर, जिसे उपकरणों को नुकसान पहुँचाने, जानकारी चुराने या अनचाही गतिविधियाँ करने के लिए बनाया जाता है।
+
+3. वायरस (Virus): यह एक प्रकार का मैलवेयर है, जो फाइलों या प्रोग्रामों से जुड़ सकता है और उनके उपयोग के दौरान फैल सकता है।
+
+4. रैनसमवेयर (Ransomware): ऐसा मैलवेयर, जो फाइलों को लॉक या एन्क्रिप्ट कर देता है और उन्हें वापस उपलब्ध कराने के बदले पैसे माँगता है।
+
+5. पासवर्ड हमले (Password Attacks): खातों में बिना अनुमति प्रवेश करने के लिए पासवर्ड का अनुमान लगाने, चोरी करने या पता लगाने के प्रयास।
+
+6. पहचान की चोरी (Identity Theft): किसी व्यक्ति की निजी जानकारी का बिना अनुमति उपयोग करना, अक्सर धोखाधड़ी या अन्य गलत कार्यों के लिए।
+
+7. सोशल इंजीनियरिंग (Social Engineering): किसी भरोसेमंद व्यक्ति या संस्था का रूप धारण करके लोगों से गोपनीय जानकारी प्राप्त करना या उनसे असुरक्षित काम करवाना।
+
+8. डेटा उल्लंघन (Data Breach): ऐसी घटना जिसमें निजी या गोपनीय जानकारी तक बिना अनुमति पहुँच बनाई जाती है, उसे उजागर किया जाता है या चुरा लिया जाता है।
+
+साइबर सुरक्षा के महत्वपूर्ण तरीके:
+
+1. मजबूत पासवर्ड का उपयोग करें: लंबे और अलग-अलग खातों के लिए अलग पासवर्ड बनाएँ। अपने नाम या जन्मतिथि जैसी आसानी से अनुमान लगाई जा सकने वाली जानकारी से बचें।
+
+2. टू-फैक्टर ऑथेंटिकेशन चालू करें: जहाँ संभव हो, ऑथेंटिकेटर ऐप या सिक्योरिटी की जैसी अतिरिक्त सत्यापन विधि का उपयोग करें।
+
+3. सॉफ्टवेयर अपडेट रखें: ज्ञात सुरक्षा कमजोरियों को ठीक करने के लिए ऑपरेटिंग सिस्टम, ब्राउज़र, एप्लिकेशन और सुरक्षा उपकरणों को अपडेट करें।
+
+4. संदिग्ध लिंक से बचें: अनजान लिंक पर क्लिक न करें और बिना जाँच किए अनपेक्षित अटैचमेंट डाउनलोड न करें।
+
+5. भरोसेमंद सॉफ्टवेयर इस्तेमाल करें: एप्लिकेशन को आधिकारिक वेबसाइटों या विश्वसनीय ऐप स्टोर से डाउनलोड करें।
+
+6. निजी जानकारी सुरक्षित रखें: अपने पासवर्ड, OTP, PIN या गोपनीय जानकारी अनजान लोगों के साथ साझा न करें। वास्तविक सहायता कर्मचारी भी आपसे आपका पासवर्ड या OTP बताने के लिए नहीं कहने चाहिए।
+
+7. Wi-Fi को सुरक्षित रखें: राउटर के डिफॉल्ट लॉगिन विवरण बदलें, आधुनिक Wi-Fi सुरक्षा सेटिंग्स का उपयोग करें और राउटर को अपडेट रखें।
+
+8. महत्वपूर्ण फाइलों का बैकअप बनाएँ: जरूरी दस्तावेज़ों और तस्वीरों की सुरक्षित जगह पर अतिरिक्त प्रतियाँ रखें।
+
+9. उपकरणों को लॉक रखें: PIN, पासवर्ड, फिंगरप्रिंट या उपलब्ध अन्य स्क्रीन-लॉक सुविधा का उपयोग करें।
+
+10. कुछ भी साझा करने से पहले सोचें: अपने घर का पता, बैंकिंग विवरण या निजी दस्तावेज़ जैसी संवेदनशील जानकारी सार्वजनिक रूप से साझा न करें।
+
+साइबर सुरक्षा के प्रकार:
+
+1. नेटवर्क सुरक्षा (Network Security): कंप्यूटर नेटवर्क को अनधिकृत पहुँच और हमलों से बचाती है।
+
+2. एप्लिकेशन सुरक्षा (Application Security): वेबसाइटों, मोबाइल एप्लिकेशन और सॉफ्टवेयर को सुरक्षा कमजोरियों से बचाती है।
+
+3. सूचना सुरक्षा (Information Security): जानकारी को अनधिकृत पहुँच, बदलाव, खुलासे या नष्ट होने से बचाती है।
+
+4. क्लाउड सुरक्षा (Cloud Security): क्लाउड में संग्रहित या संचालित डेटा, एप्लिकेशन और सेवाओं को सुरक्षित रखती है।
+
+5. एंडपॉइंट सुरक्षा (Endpoint Security): नेटवर्क से जुड़े कंप्यूटर, लैपटॉप और स्मार्टफोन जैसे उपकरणों की सुरक्षा करती है।
+
+6. पहचान और पहुँच प्रबंधन (Identity and Access Management): यह नियंत्रित करता है कि कौन व्यक्ति किन सिस्टमों, खातों और जानकारियों तक पहुँच सकता है।
+
+7. संचालन सुरक्षा (Operational Security): संवेदनशील जानकारी को संभालने, संग्रहित करने और सुरक्षित रखने के लिए प्रक्रियाएँ निर्धारित करती है।
+
+घर, स्कूल और कार्यालय में साइबर सुरक्षा:
+
+घर पर साइबर सुरक्षा ऑनलाइन बैंकिंग, व्यक्तिगत तस्वीरों, ईमेल खातों और स्मार्ट उपकरणों को सुरक्षित रखने में मदद करती है।
+
+स्कूल में यह विद्यार्थियों के रिकॉर्ड, परीक्षा परिणामों, ऑनलाइन पढ़ाई के प्लेटफॉर्म और शिक्षकों के दस्तावेज़ों की सुरक्षा करती है।
+
+कार्यालय में यह ग्राहकों की जानकारी, व्यावसायिक रिकॉर्ड, कर्मचारियों के खातों और कंप्यूटर सिस्टमों को सुरक्षित रखने में मदद करती है।
+
+साइबर सुरक्षा और नैतिक जिम्मेदारी:
+
+साइबर सुरक्षा केवल तकनीकी उपकरणों का उपयोग करना नहीं है। इसमें दूसरों की गोपनीयता का सम्मान करना, लागू कानूनों का पालन करना और तकनीक का जिम्मेदारी से उपयोग करना भी शामिल है। सुरक्षा की जाँच केवल उन्हीं सिस्टमों पर करनी चाहिए, जिनके आप मालिक हों या जिनकी जाँच करने की आपको स्पष्ट अनुमति मिली हो।
+
+यदि आपको साइबर हमले का संदेह हो तो क्या करें?
+
+यदि आपको कोई संदिग्ध संदेश मिलता है, तो उसके लिंक पर क्लिक न करें और अटैचमेंट न खोलें। यदि आपको लगता है कि आपका खाता किसी अन्य व्यक्ति के नियंत्रण में चला गया है, तो किसी भरोसेमंद उपकरण से पासवर्ड बदलें, टू-फैक्टर ऑथेंटिकेशन चालू करें और उपलब्ध होने पर अन्य सक्रिय सेशन बंद करें। यदि बैंकिंग जानकारी या पैसे को खतरा हो सकता है, तो तुरंत अपने बैंक से संपर्क करें। गंभीर घटनाओं की रिपोर्ट संबंधित सेवा प्रदाता या साइबर अपराध प्राधिकरण को दें।
+
+निष्कर्ष: साइबर सुरक्षा डिजिटल उपकरणों, नेटवर्क, खातों और जानकारी को ऑनलाइन खतरों से बचाने में मदद करती है। मजबूत पासवर्ड का उपयोग करके, अतिरिक्त सत्यापन चालू करके, सॉफ्टवेयर अपडेट रखकर, संदिग्ध लिंक से बचकर और दूसरों की गोपनीयता का सम्मान करके हम सभी डिजिटल दुनिया को अधिक सुरक्षित बनाने में योगदान दे सकते हैं।`,
+
+            example: `Imagine you receive a message on your phone saying, "Congratulations! You have won ₹50,000. Click this link and enter your bank details to claim your prize."
+
+The message looks exciting, but the link may lead to a fake website designed to steal your personal or banking information. A cyber-safe person does not click the link immediately. Instead, they check whether the message comes from a trustworthy source, avoid sharing bank details or OTPs, and delete or report the suspicious message.
+
+You can also practice cyber security by locking your phone with a strong PIN, updating your applications, using different passwords for different accounts, and enabling two-factor authentication.
+
+For example, even if someone discovers your email password, two-factor authentication may prevent them from signing in without the additional verification step. These simple habits help protect your personal information, money, and digital devices.`,
+
+            exampleHi: `मान लीजिए कि आपके मोबाइल फोन पर एक संदेश आता है, जिसमें लिखा है, "बधाई हो! आपने ₹50,000 जीते हैं। इनाम पाने के लिए इस लिंक पर क्लिक करें और अपनी बैंक की जानकारी भरें।"
+
+यह संदेश आकर्षक लग सकता है, लेकिन इसका लिंक एक नकली वेबसाइट पर ले जा सकता है, जिसे आपकी व्यक्तिगत या बैंकिंग जानकारी चुराने के लिए बनाया गया हो। साइबर सुरक्षा के प्रति जागरूक व्यक्ति तुरंत उस लिंक पर क्लिक नहीं करता। वह जाँचता है कि संदेश किसी विश्वसनीय स्रोत से आया है या नहीं, बैंक की जानकारी या OTP साझा करने से बचता है और संदिग्ध संदेश को डिलीट या रिपोर्ट करता है।
+
+आप अपने फोन को मजबूत PIN से लॉक करके, एप्लिकेशन अपडेट करके, अलग-अलग खातों के लिए अलग पासवर्ड इस्तेमाल करके और टू-फैक्टर ऑथेंटिकेशन चालू करके भी साइबर सुरक्षा का अभ्यास कर सकते हैं।
+
+उदाहरण के लिए, यदि किसी व्यक्ति को आपका ईमेल पासवर्ड पता चल भी जाए, तो टू-फैक्टर ऑथेंटिकेशन अतिरिक्त सत्यापन के बिना उसे आपके खाते में प्रवेश करने से रोक सकता है। ये छोटी-छोटी सुरक्षित आदतें आपकी निजी जानकारी, पैसे और डिजिटल उपकरणों को सुरक्षित रखने में मदद करती हैं।`,
+
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Why Is Cyber Security Important?",
+
+            answer: `Cyber security is important because people use computers, mobile phones, the internet, and digital applications every day. They store personal information, photographs, passwords, schoolwork, financial details, medical records, and business documents on digital devices. Without proper protection, cybercriminals may steal this information, access private accounts, damage files, commit fraud, or misuse someone's identity.
+
+Cyber security helps protect people, organizations, and digital systems from online threats. It encourages safe use of technology and helps keep personal information private, financial transactions secure, and online services available.
+
+1. Protecting Personal Information
+
+People store personal details such as their names, addresses, phone numbers, photographs, email addresses, and identity documents on digital devices. Cyber security helps prevent unauthorized people from accessing or stealing this information.
+
+For example, keeping your social media account private and using a strong password can help protect your photographs and personal messages.
+
+2. Protecting Passwords and Online Accounts
+
+People use passwords to access email accounts, social media, online learning platforms, and other digital services. If someone steals a password, they may gain access to private information or misuse the account.
+
+Strong, unique passwords and two-factor authentication help make accounts more secure. Two-factor authentication requires an additional verification step, such as a code from an authenticator app or a security key.
+
+3. Preventing Financial Fraud
+
+Many people use digital payment applications, online banking, debit cards, and credit cards. Cybercriminals may attempt to steal banking information, trick people into approving payments, or gain unauthorized access to financial accounts.
+
+Cyber security helps reduce these risks through secure applications, account protection, transaction alerts, and safe online practices. People should never share their PINs, passwords, or OTPs with strangers.
+
+4. Protecting Photographs, Documents, and Other Files
+
+Computers and mobile phones often contain important photographs, school assignments, project files, and personal documents. Malware, ransomware, accidental deletion, or unauthorized access can put these files at risk.
+
+Regular backups, security updates, and trusted security software help protect important files and make recovery easier if something goes wrong.
+
+5. Preventing Cybercrime and Online Attacks
+
+Cybercriminals may use phishing messages, fake websites, harmful software, or social engineering to trick people. These attacks can result in stolen information, financial loss, or damaged devices.
+
+Learning to recognize suspicious links, verify messages, and download applications only from trusted sources can help people avoid many common attacks.
+
+6. Protecting Privacy
+
+Privacy means having control over personal information and how it is shared. Cyber security helps protect private messages, photographs, documents, and other sensitive information from unauthorized access.
+
+For example, using appropriate privacy settings on social media can limit who can view your posts and personal details.
+
+7. Protecting Schools and Students
+
+Schools use computers and online platforms to store student records, examination results, assignments, and educational materials. If these systems are not properly protected, information may be stolen, changed, or exposed.
+
+Cyber security helps schools protect student information, keep learning platforms available, and reduce the risk of harmful links or malware affecting school computers.
+
+8. Protecting Businesses and Organizations
+
+Businesses store customer information, employee records, financial documents, and confidential plans. A cyberattack can interrupt their work, cause financial losses, and damage their reputation.
+
+Organizations use access controls, secure networks, software updates, backups, and employee training to protect their systems and information.
+
+9. Keeping Digital Services Available
+
+People depend on digital services for communication, education, shopping, banking, transportation, and healthcare. Cyberattacks or security failures can make these services unavailable.
+
+Cyber security helps organizations detect threats, reduce disruptions, and restore systems when problems occur.
+
+10. Building Trust in Technology
+
+People are more likely to use online services when they believe their information and transactions are protected. Good cyber security practices help build trust between users, schools, businesses, banks, and service providers.
+
+11. Protecting Against Identity Theft
+
+Identity theft occurs when someone uses another person's personal information without permission, often to commit fraud. Cyber security practices such as protecting identity documents, securing accounts, and avoiding suspicious websites can help reduce this risk.
+
+12. Supporting Responsible Internet Use
+
+Cyber security teaches people to think carefully before clicking links, downloading files, sharing personal information, or responding to unexpected messages. It also encourages respect for other people's privacy and responsible use of digital technology.
+
+Important Cyber Security Habits:
+
+- Create strong, unique passwords for important accounts.
+- Enable two-factor authentication whenever possible.
+- Keep operating systems, browsers, and applications updated.
+- Avoid suspicious links, unexpected attachments, and fake websites.
+- Never share passwords, PINs, or OTPs with other people.
+- Download applications from official websites or trusted app stores.
+- Lock devices when they are not in use.
+- Back up important files regularly.
+- Check account activity and report suspicious transactions.
+- Use privacy settings carefully when sharing information online.
+
+What Could Happen Without Cyber Security?
+
+Without appropriate protection, a person might lose access to an email account, have private photographs exposed, lose money through fraud, or lose important files. A school could experience a data breach, and a business could suffer financial losses or service interruptions.
+
+Not every cyberattack can be prevented, but effective security practices can reduce the likelihood of many attacks and limit the damage when incidents occur.
+
+In conclusion, cyber security is important because it protects personal information, online accounts, money, files, privacy, and digital services. By developing safe online habits and using appropriate security tools, individuals and organizations can reduce cyber risks and use technology more confidently and responsibly.`,
+
+            answerHi: `साइबर सुरक्षा क्यों महत्वपूर्ण है?
+
+साइबर सुरक्षा महत्वपूर्ण है क्योंकि लोग हर दिन कंप्यूटर, मोबाइल फोन, इंटरनेट और डिजिटल एप्लिकेशन का उपयोग करते हैं। वे अपने डिजिटल उपकरणों में व्यक्तिगत जानकारी, तस्वीरें, पासवर्ड, स्कूल का काम, वित्तीय विवरण, स्वास्थ्य संबंधी रिकॉर्ड और व्यावसायिक दस्तावेज़ सुरक्षित रखते हैं। उचित सुरक्षा के बिना साइबर अपराधी यह जानकारी चुरा सकते हैं, निजी खातों में प्रवेश कर सकते हैं, फाइलों को नुकसान पहुँचा सकते हैं, धोखाधड़ी कर सकते हैं या किसी की पहचान का गलत उपयोग कर सकते हैं।
+
+साइबर सुरक्षा लोगों, संगठनों और डिजिटल सिस्टमों को ऑनलाइन खतरों से बचाने में मदद करती है। यह तकनीक के सुरक्षित उपयोग को बढ़ावा देती है और व्यक्तिगत जानकारी को निजी रखने, वित्तीय लेन-देन को सुरक्षित बनाने तथा ऑनलाइन सेवाओं को सुचारु रूप से चलाने में सहायता करती है।
+
+1. व्यक्तिगत जानकारी की सुरक्षा
+
+लोग अपने नाम, पते, फोन नंबर, तस्वीरें, ईमेल पते और पहचान संबंधी दस्तावेज़ जैसी जानकारी डिजिटल उपकरणों में रखते हैं। साइबर सुरक्षा अनधिकृत लोगों को इस जानकारी तक पहुँचने या इसे चुराने से रोकने में मदद करती है।
+
+उदाहरण के लिए, सोशल मीडिया खाते को निजी रखना और मजबूत पासवर्ड का उपयोग करना आपकी तस्वीरों तथा व्यक्तिगत संदेशों को सुरक्षित रखने में मदद कर सकता है।
+
+2. पासवर्ड और ऑनलाइन खातों की सुरक्षा
+
+लोग ईमेल, सोशल मीडिया, ऑनलाइन पढ़ाई के प्लेटफॉर्म और अन्य डिजिटल सेवाओं का उपयोग करने के लिए पासवर्ड रखते हैं। यदि कोई व्यक्ति पासवर्ड चुरा लेता है, तो वह निजी जानकारी तक पहुँच सकता है या खाते का गलत उपयोग कर सकता है।
+
+मजबूत और अलग-अलग पासवर्ड तथा टू-फैक्टर ऑथेंटिकेशन खातों की सुरक्षा बढ़ाते हैं। टू-फैक्टर ऑथेंटिकेशन में अतिरिक्त सत्यापन की आवश्यकता होती है, जैसे ऑथेंटिकेटर ऐप से कोड या सिक्योरिटी की।
+
+3. वित्तीय धोखाधड़ी से बचाव
+
+बहुत से लोग डिजिटल पेमेंट एप्लिकेशन, ऑनलाइन बैंकिंग, डेबिट कार्ड और क्रेडिट कार्ड का उपयोग करते हैं। साइबर अपराधी बैंकिंग जानकारी चुराने, लोगों को धोखे से भुगतान की अनुमति दिलवाने या वित्तीय खातों में अनधिकृत प्रवेश करने की कोशिश कर सकते हैं।
+
+साइबर सुरक्षा सुरक्षित एप्लिकेशन, खाता सुरक्षा, लेन-देन संबंधी अलर्ट और सुरक्षित ऑनलाइन आदतों की सहायता से इन खतरों को कम करती है। अपना PIN, पासवर्ड या OTP कभी भी अनजान लोगों के साथ साझा नहीं करना चाहिए।
+
+4. तस्वीरों, दस्तावेज़ों और अन्य फाइलों की सुरक्षा
+
+कंप्यूटर और मोबाइल फोन में महत्वपूर्ण तस्वीरें, स्कूल के असाइनमेंट, प्रोजेक्ट फाइलें और व्यक्तिगत दस्तावेज़ होते हैं। मैलवेयर, रैनसमवेयर, गलती से फाइल डिलीट होना या अनधिकृत पहुँच इन फाइलों को खतरे में डाल सकती है।
+
+नियमित बैकअप, सुरक्षा अपडेट और भरोसेमंद सुरक्षा सॉफ्टवेयर महत्वपूर्ण फाइलों को सुरक्षित रखने तथा समस्या होने पर उन्हें वापस प्राप्त करने में मदद करते हैं।
+
+5. साइबर अपराध और ऑनलाइन हमलों से बचाव
+
+साइबर अपराधी लोगों को धोखा देने के लिए फिशिंग संदेशों, नकली वेबसाइटों, हानिकारक सॉफ्टवेयर या सोशल इंजीनियरिंग का उपयोग कर सकते हैं। इन हमलों से जानकारी चोरी हो सकती है, आर्थिक नुकसान हो सकता है या उपकरण खराब हो सकते हैं।
+
+संदिग्ध लिंक पहचानना, संदेशों की सत्यता जाँचना और एप्लिकेशन केवल विश्वसनीय स्रोतों से डाउनलोड करना कई सामान्य साइबर हमलों से बचने में मदद करता है।
+
+6. गोपनीयता की सुरक्षा
+
+गोपनीयता का अर्थ है अपनी व्यक्तिगत जानकारी और उसे साझा करने के तरीके पर नियंत्रण रखना। साइबर सुरक्षा निजी संदेशों, तस्वीरों, दस्तावेज़ों और अन्य संवेदनशील जानकारी को अनधिकृत पहुँच से बचाती है।
+
+उदाहरण के लिए, सोशल मीडिया की उचित प्राइवेसी सेटिंग्स का उपयोग करके आप सीमित कर सकते हैं कि आपकी पोस्ट और व्यक्तिगत जानकारी कौन देख सकता है।
+
+7. स्कूलों और विद्यार्थियों की सुरक्षा
+
+स्कूल कंप्यूटर और ऑनलाइन प्लेटफॉर्म का उपयोग विद्यार्थियों के रिकॉर्ड, परीक्षा परिणाम, असाइनमेंट और पढ़ाई की सामग्री को सुरक्षित रखने के लिए करते हैं। यदि इन सिस्टमों की उचित सुरक्षा नहीं की जाती, तो जानकारी चोरी हो सकती है, बदली जा सकती है या सार्वजनिक हो सकती है।
+
+साइबर सुरक्षा स्कूलों को विद्यार्थियों की जानकारी सुरक्षित रखने, ऑनलाइन पढ़ाई के प्लेटफॉर्म चालू रखने और स्कूल के कंप्यूटरों को हानिकारक लिंक या मैलवेयर से बचाने में मदद करती है।
+
+8. व्यवसायों और संगठनों की सुरक्षा
+
+व्यवसायों में ग्राहकों की जानकारी, कर्मचारियों के रिकॉर्ड, वित्तीय दस्तावेज़ और गोपनीय योजनाएँ संग्रहित होती हैं। साइबर हमला उनके काम को रोक सकता है, आर्थिक नुकसान पहुँचा सकता है और उनकी प्रतिष्ठा को नुकसान पहुँचा सकता है।
+
+संगठन अपने सिस्टम और जानकारी की सुरक्षा के लिए पहुँच नियंत्रण, सुरक्षित नेटवर्क, सॉफ्टवेयर अपडेट, बैकअप और कर्मचारियों के प्रशिक्षण का उपयोग करते हैं।
+
+9. डिजिटल सेवाओं को चालू रखना
+
+लोग संचार, शिक्षा, खरीदारी, बैंकिंग, परिवहन और स्वास्थ्य सेवाओं के लिए डिजिटल सुविधाओं पर निर्भर रहते हैं। साइबर हमलों या सुरक्षा संबंधी समस्याओं के कारण ये सेवाएँ बंद हो सकती हैं।
+
+साइबर सुरक्षा संगठनों को खतरों का पता लगाने, सेवा में रुकावट कम करने और समस्या होने पर सिस्टम को दोबारा चालू करने में मदद करती है।
+
+10. तकनीक पर भरोसा बढ़ाना
+
+लोग ऑनलाइन सेवाओं का उपयोग तब अधिक विश्वास के साथ करते हैं, जब उन्हें लगता है कि उनकी जानकारी और लेन-देन सुरक्षित हैं। साइबर सुरक्षा की अच्छी आदतें उपयोगकर्ताओं, स्कूलों, व्यवसायों, बैंकों और सेवा प्रदाताओं के बीच भरोसा बढ़ाती हैं।
+
+11. पहचान की चोरी से बचाव
+
+पहचान की चोरी तब होती है, जब कोई व्यक्ति दूसरे व्यक्ति की निजी जानकारी का बिना अनुमति उपयोग करता है। इसका उपयोग अक्सर धोखाधड़ी के लिए किया जाता है। पहचान संबंधी दस्तावेज़ सुरक्षित रखना, खातों की सुरक्षा करना और संदिग्ध वेबसाइटों से बचना इस खतरे को कम करने में मदद करता है।
+
+12. इंटरनेट का जिम्मेदारी से उपयोग
+
+साइबर सुरक्षा लोगों को लिंक पर क्लिक करने, फाइल डाउनलोड करने, व्यक्तिगत जानकारी साझा करने या अनजान संदेशों का जवाब देने से पहले सोचने की आदत सिखाती है। यह दूसरों की गोपनीयता का सम्मान करने और डिजिटल तकनीक का जिम्मेदारी से उपयोग करने के लिए भी प्रोत्साहित करती है।
+
+साइबर सुरक्षा की महत्वपूर्ण आदतें:
+
+- महत्वपूर्ण खातों के लिए मजबूत और अलग-अलग पासवर्ड बनाएँ।
+- जहाँ संभव हो, टू-फैक्टर ऑथेंटिकेशन चालू करें।
+- ऑपरेटिंग सिस्टम, ब्राउज़र और एप्लिकेशन अपडेट रखें।
+- संदिग्ध लिंक, अनजान अटैचमेंट और नकली वेबसाइटों से बचें।
+- अपना पासवर्ड, PIN या OTP किसी के साथ साझा न करें।
+- एप्लिकेशन आधिकारिक वेबसाइटों या भरोसेमंद ऐप स्टोर से डाउनलोड करें।
+- उपयोग न करते समय अपने उपकरणों को लॉक रखें।
+- महत्वपूर्ण फाइलों का नियमित बैकअप बनाएँ।
+- खातों की गतिविधि जाँचें और संदिग्ध लेन-देन की रिपोर्ट करें।
+- इंटरनेट पर जानकारी साझा करते समय प्राइवेसी सेटिंग्स का ध्यान रखें।
+
+साइबर सुरक्षा न होने पर क्या हो सकता है?
+
+उचित सुरक्षा न होने पर किसी व्यक्ति का ईमेल खाता उसके नियंत्रण से बाहर हो सकता है, निजी तस्वीरें सार्वजनिक हो सकती हैं, धोखाधड़ी के कारण पैसे खो सकते हैं या महत्वपूर्ण फाइलें नष्ट हो सकती हैं। किसी स्कूल में डेटा चोरी की घटना हो सकती है और किसी व्यवसाय को आर्थिक नुकसान या सेवाओं में रुकावट का सामना करना पड़ सकता है।
+
+हर साइबर हमले को रोकना संभव नहीं है, लेकिन प्रभावी सुरक्षा उपाय कई हमलों की संभावना कम कर सकते हैं और घटना होने पर नुकसान को सीमित कर सकते हैं।
+
+निष्कर्ष: साइबर सुरक्षा व्यक्तिगत जानकारी, ऑनलाइन खातों, पैसे, फाइलों, गोपनीयता और डिजिटल सेवाओं की रक्षा करने के लिए महत्वपूर्ण है। सुरक्षित ऑनलाइन आदतें अपनाकर और उचित सुरक्षा उपकरणों का उपयोग करके व्यक्ति तथा संगठन साइबर खतरों को कम कर सकते हैं और तकनीक का अधिक विश्वास तथा जिम्मेदारी के साथ उपयोग कर सकते हैं।`,
+
+            example: `Imagine a student uses an email account to receive homework, save school documents, and communicate with teachers. The student creates a strong, unique password and enables two-factor authentication.
+
+One day, the student accidentally enters the password on a fake website. The attacker may now know the password, but two-factor authentication can provide an additional barrier by requiring another verification step. The student should immediately change the password using the official email website, review recent account activity, and secure any other account that used the same password.
+
+This example shows why cyber security is important. A strong password, additional authentication, and quick action can help protect personal messages, schoolwork, and other private information from unauthorized access.`,
+
+            exampleHi: `मान लीजिए कि एक विद्यार्थी अपने ईमेल खाते का उपयोग होमवर्क प्राप्त करने, स्कूल के दस्तावेज़ सुरक्षित रखने और शिक्षकों से बातचीत करने के लिए करता है। वह एक मजबूत और अलग पासवर्ड बनाता है तथा टू-फैक्टर ऑथेंटिकेशन चालू कर देता है।
+
+एक दिन वह गलती से अपना पासवर्ड एक नकली वेबसाइट पर दर्ज कर देता है। अब हमलावर को उसका पासवर्ड पता चल सकता है, लेकिन टू-फैक्टर ऑथेंटिकेशन अतिरिक्त सुरक्षा प्रदान कर सकता है, क्योंकि खाते में प्रवेश करने के लिए दूसरे सत्यापन की भी आवश्यकता होगी। विद्यार्थी को तुरंत ईमेल की आधिकारिक वेबसाइट से अपना पासवर्ड बदलना चाहिए, हाल की खाता गतिविधि की जाँच करनी चाहिए और उसी पासवर्ड का उपयोग करने वाले अन्य खातों को भी सुरक्षित करना चाहिए।
+
+यह उदाहरण बताता है कि साइबर सुरक्षा क्यों महत्वपूर्ण है। मजबूत पासवर्ड, अतिरिक्त सत्यापन और समय पर सही कदम उठाने से निजी संदेशों, स्कूल के काम और अन्य व्यक्तिगत जानकारी को अनधिकृत पहुँच से बचाने में मदद मिल सकती है।`,
+
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Cyber Security in Daily Life",
+            answer: "Cyber security is part of everyday activities such as using social media, online banking, email, online classes, gaming, shopping, and messaging applications. Safe habits include using unique passwords, enabling two-factor authentication, checking website addresses, installing updates, keeping personal information private, and downloading applications from trusted sources.",
+            example: "Before paying for an item online, you check that the website address is correct, use a trusted payment method, and never share your banking PIN or OTP with another person.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is a Cyber Threat?",
+            answer: "A cyber threat is a possible danger that could harm a computer, network, account, or digital information. Threats include phishing messages, malicious software, stolen passwords, unsafe applications, data theft, and unauthorized access. A threat does not always mean an attack has already happened; it means there is a possibility of harm.",
+            example: "An email pretending to be from a school and asking students to enter their passwords on an unfamiliar website is a potential phishing threat.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is a Cyber Attack?",
+            answer: "A cyber attack is an attempt to access, disrupt, damage, or steal information from a computer system, account, network, or online service without proper authorization. Common attacks include phishing, password attacks, ransomware infections, and denial-of-service attacks. Security controls and responsible user behavior help reduce the risk of successful attacks.",
+            example: "A criminal sends a fake login page to trick a person into revealing an email password. If the criminal uses that password to access the account, this is part of a cyber attack.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a Hacker?",
+            answer: "A hacker is someone who uses technical knowledge to understand, examine, or interact with computer systems and networks. Hackers have different goals: some help organizations find security weaknesses with permission, while others try to steal information or cause harm. The word hacker alone does not tell us whether a person's actions are legal or ethical; permission and intent matter.",
+            example: "A security professional examines a company's website with written permission to identify weaknesses before criminals can exploit them.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Types of Hackers",
+            answer: "Hackers are often described by their intentions and authorization. White-hat hackers work with permission to improve security. Black-hat hackers break into systems for harmful or unauthorized purposes. Grey-hat hackers may investigate weaknesses without permission, even if they do not intend harm. Other categories include hacktivists, who act for a cause, and state-sponsored groups, which may operate on behalf of governments. These labels are simplified descriptions, and real-world activities can be more complex.",
+            example: "A white-hat hacker tests a company's approved security environment, while a black-hat attacker steals customer information from a system without permission.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "White Hat vs. Black Hat Hackers",
+            answer: "White-hat hackers use their skills ethically and with authorization to discover and fix security weaknesses. Black-hat hackers access systems without permission for purposes such as stealing data, committing fraud, or causing disruption. The main differences are authorization, purpose, and whether the activity follows applicable laws and agreed rules. Security testing should always have clear permission and a defined scope.",
+            example: "A company hires a white-hat security tester to check its website under an approved agreement. A black-hat attacker tries to break into the same website to steal private customer records.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Cyber Security vs. Information Security",
+            answer: "Cyber security focuses on protecting digital systems, networks, applications, and electronic information from cyber threats. Information security focuses more broadly on protecting information in any form, including digital files, printed documents, and spoken information. The two fields overlap because cyber security is an important part of protecting information. Both aim to preserve confidentiality, integrity, and availability.",
+            example: "Using a firewall to protect a computer network is a cyber security measure. Locking printed student records in a cabinet is an information security measure.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Cyber Security Careers",
+            answer: "Cyber security offers careers for people who enjoy technology, investigation, problem-solving, and protecting information. Roles include security analyst, penetration tester, security engineer, incident responder, digital forensics analyst, security consultant, and security awareness trainer. Beginners can start by learning computer fundamentals, networking, operating systems, basic scripting, and security principles, then practice in legal training labs and build projects.",
+            example: "A student interested in cyber security first learns networking and Linux basics, practices identifying security issues in a legal training lab, documents the results, and gradually prepares for an entry-level security role.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 2,
+        heading: "Passwords and Account Security",
+        slug: "passwords-and-account-security",
+        qa: [
+          {
+            id: 1,
+            question: "What Is a Password?",
+            answer: "A password is a secret combination of characters used to verify a user's identity when accessing an account, device, or service. Passwords may contain letters, numbers, and symbols. A password should be difficult for other people to guess and must not be shared with friends or strangers. Passwords are more effective when combined with other security protections.",
+            example: "When you enter your password to sign in to your school account, the service checks it to determine whether you can access the account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Creating Strong Passwords",
+            answer: "A strong password is long, unique, and difficult to guess. A memorable passphrase made from several unrelated words can be a good choice if the service allows it. Avoid using names, birthdays, phone numbers, common words, or predictable patterns. Use a different password for every important account, and consider a trusted password manager to create and store unique passwords.",
+            example: "Instead of using a short password based on your name and birth year, use a long, randomly generated password stored in a reputable password manager.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Weak vs. Strong Passwords",
+            answer: "A weak password is easy to guess, short, commonly used, or based on personal information. A strong password is longer, unique to one account, and difficult to predict. Changing letters to similar-looking numbers does not automatically make a common password secure. Password length and uniqueness are especially important because attackers may try passwords exposed in previous data breaches.",
+            example: "A password such as '12345678' is weak because it is common and predictable. A randomly generated password of sufficient length is much harder to guess. Never use examples from a lesson as your real password.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Password Managers",
+            answer: "A password manager is a tool that securely stores passwords and can generate unique passwords for different accounts. Many password managers protect the stored information using encryption and require a master password or another authentication method. Choose a reputable manager, secure its main account, enable available multifactor authentication, and learn how to recover access safely.",
+            example: "Instead of memorizing separate passwords for email, school, and shopping accounts, a student uses a trusted password manager to generate and fill in unique passwords.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Two-Factor Authentication (2FA)",
+            answer: "Two-factor authentication, or 2FA, requires two different types of proof to verify a user's identity. These may include something the user knows, such as a password, and something the user has, such as an authenticator app or security key. It adds protection because a stolen password alone may not be enough to access the account.",
+            example: "A student signs in with a password and then approves a login using an authenticator app. Someone who knows only the password may still be unable to sign in.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Multi-Factor Authentication (MFA)",
+            answer: "Multi-factor authentication, or MFA, uses two or more different authentication factors to verify identity. Common factor types are something you know, something you possess, and something you are, such as a fingerprint. Two-factor authentication is a type of MFA. MFA can greatly improve account security, especially when it uses phishing-resistant methods such as supported security keys or passkeys.",
+            example: "An employee signs in using a password and a security key. The organization uses these separate factors to make unauthorized access more difficult.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "One-Time Passwords (OTP)",
+            answer: "A one-time password, or OTP, is a temporary code used to verify identity or approve an action. It may arrive through an authenticator app, text message, or another approved method. OTPs usually expire quickly or can be used only once. Never share an OTP with someone who contacts you unexpectedly, even if they claim to be from a bank, support team, or government office.",
+            example: "A payment service sends a verification code to confirm an action. You enter it only into the official service you are using and never tell the code to an unknown caller.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Account Recovery and Security",
+            answer: "Account recovery is the process of regaining access when a user forgets a password, loses a device, or cannot complete sign-in. Services may offer recovery email addresses, phone verification, backup codes, or identity checks. Keep recovery details current, store backup codes securely, and use only official recovery pages. Be careful of fake recovery messages that try to steal your credentials.",
+            example: "A student who forgets an email password opens the provider's official recovery page and follows its verification steps instead of clicking an unexpected recovery link in a message.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Password Reuse Risks",
+            answer: "Password reuse means using the same password for multiple accounts. It is risky because if one website suffers a data breach, attackers may try the exposed password on other services. This technique is called credential stuffing. Unique passwords limit the damage because a password stolen from one service should not unlock other accounts.",
+            example: "If a person uses the same password for a gaming account and email account, a breach of the gaming service could put the email account at risk too. Unique passwords help prevent this chain of access.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Securing Online Accounts",
+            answer: "Securing online accounts involves using unique passwords, enabling multifactor authentication, protecting recovery methods, reviewing active sessions, and keeping devices and applications updated. Users should check account activity, remove access they no longer need, and be alert to unexpected sign-in alerts. If an account may be compromised, use the official service to change the password, end unknown sessions, and review recovery settings.",
+            example: "After receiving an unexpected sign-in alert, a user opens the official account security page, checks recent activity, changes the affected password from a trusted device, enables MFA, and signs out unfamiliar sessions.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 3,
+        heading: "Internet Safety and Online Scams",
+        slug: "internet-safety-and-online-scams",
+        qa: [
+          {
+            id: 1,
+            question: "Safe Internet Browsing",
+            answer: "Safe internet browsing means using websites carefully to reduce the risk of scams, malware, and privacy problems. Users should check website addresses, keep browsers updated, avoid suspicious downloads, review permission requests, and avoid entering sensitive information on unfamiliar sites. A padlock or HTTPS connection protects information in transit but does not prove that a website is honest or trustworthy.",
+            example: "Before entering account details, a student checks the website address carefully, confirms that it is the official service, and avoids clicking a suspicious advertisement promising an unexpected prize.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Is Phishing?",
+            answer: "Phishing is a scam in which an attacker pretends to be a trusted person or organization to trick someone into revealing information, opening a malicious file, or approving an unsafe action. Phishing can happen through email, text messages, social media, phone calls, and fake websites. Warning signs include unusual requests, unexpected attachments, misleading links, and pressure to act quickly.",
+            example: "A student receives a fake message claiming their school account will be deleted unless they sign in through an unfamiliar link. Instead of opening the link, the student checks with the school through an official channel.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Fake Emails and Messages",
+            answer: "Fake emails and messages imitate trusted organizations, friends, delivery companies, banks, or online services. They may contain false warnings, fake prizes, payment demands, suspicious attachments, or links to imitation login pages. Check the sender's actual address, examine the request carefully, and verify important claims through a separate official channel before taking action.",
+            example: "A person receives a message saying a parcel is waiting and a small fee must be paid through a link. They check the delivery company's official website rather than entering payment details through the message.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Suspicious Links and Websites",
+            answer: "Suspicious links and websites may use misspelled domain names, misleading buttons, fake login forms, unexpected downloads, or offers that seem too good to be true. Attackers may disguise a link so its visible text does not match its destination. Avoid opening unknown links, do not bypass browser security warnings, and verify the website through a trusted source.",
+            example: "A message claims to come from a popular shopping site but uses a misspelled domain. The user avoids the link and opens the shopping service by typing its known official address.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Online Shopping Scams",
+            answer: "Online shopping scams trick people into paying for products that are fake, unsafe, overpriced, or never delivered. Warning signs include prices far below normal, copied product photos, missing contact information, pressure to pay immediately, and requests to use unusual payment methods. Check seller reviews, return policies, contact details, and payment protections before buying.",
+            example: "A buyer finds an expensive phone advertised at an unrealistically low price by an unfamiliar seller. They research the seller, verify the product details, and avoid sending money through an unprotected payment method.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "UPI and Payment Scams",
+            answer: "UPI and other digital payment scams try to trick people into sending money, revealing payment credentials, or approving unauthorized transactions. A request to enter a UPI PIN is generally associated with authorizing a payment, not receiving money. Never share a PIN or OTP, never approve an unexpected collect request, and verify the recipient and amount before confirming a transaction. If a payment seems suspicious, stop and check through the official payment app or bank.",
+            example: "Someone claims they are sending you money and asks you to enter your UPI PIN to receive it. You do not enter the PIN and instead verify the situation through your trusted payment app.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Fake Apps and Downloads",
+            answer: "Fake apps and downloads imitate legitimate software or hide harmful code. They may steal information, display unwanted advertisements, spy on activity, or damage files. Download applications from official stores or verified developer websites, check the publisher and requested permissions, keep devices updated, and avoid pirated software. If an app requests permissions unrelated to its purpose, investigate before allowing access.",
+            example: "A student wants a video editor and finds a download site asking them to disable security protections. They avoid the download and choose a trusted app from an official source instead.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Social Media Scams",
+            answer: "Social media scams use fake profiles, impersonation, fraudulent giveaways, investment promises, romance scams, and hijacked accounts to deceive users. Scammers may ask for money, personal information, verification codes, or account access. Verify unusual requests through another communication method, limit the personal information you publish, use strong account security, and report suspicious profiles.",
+            example: "A student receives a message from a friend's account asking for an urgent payment. The student calls the friend using a known number before sending any money.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Recognizing Online Fraud",
+            answer: "Online fraud is deception carried out through digital services to steal money, personal information, or access to accounts. Warning signs include guaranteed profits, urgent payment demands, requests for secrecy, fake identities, unexpected fees, and requests for passwords or verification codes. No single warning sign proves fraud, so verify claims using independent, trusted sources before acting.",
+            example: "A person receives an online job offer promising unusually high pay but is asked to pay a registration fee first. They verify the employer through official channels and avoid paying until the offer is confirmed as legitimate.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Reporting Cybercrime",
+            answer: "Reporting cybercrime means notifying the appropriate platform, organization, bank, or law enforcement authority about suspected online fraud or digital abuse. Save relevant evidence such as transaction references, screenshots, messages, and dates without sharing it publicly. In India, suspected cybercrime can be reported through the official National Cyber Crime Reporting Portal at cybercrime.gov.in. For financial cyber fraud, contact your bank or payment provider promptly and call India's cyber fraud helpline 1930 as soon as possible.",
+            example: "After noticing an unauthorized digital payment, a person immediately contacts their bank or payment provider, calls 1930, preserves the transaction details, and submits a report through the official cybercrime reporting portal.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 4,
+        heading: "Malware and Computer Threats",
+        slug: "malware-and-computer-threats",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Malware?",
+            answer: "Malware is software created to perform harmful or unauthorized actions on a computer, phone, network, or other digital device. It includes viruses, worms, Trojan horses, ransomware, spyware, and other harmful programs. Malware may steal information, damage files, spy on activity, display unwanted advertisements, or allow unauthorized access. Safe downloads, software updates, and reputable security tools help reduce the risk.",
+            example: "A user downloads an unknown file that secretly installs software to collect information from the computer. That harmful software is malware.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Is a Computer Virus?",
+            answer: "A computer virus is a type of malware that attaches itself to a file or program and can spread when the infected file or program is executed. Depending on its design, a virus may modify files, disrupt applications, or damage data. Keeping software updated, avoiding untrusted attachments, and using reputable security software can help prevent infections.",
+            example: "A user opens an infected file from an untrusted source, and the malicious code attempts to infect other files on the computer.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is a Worm?",
+            answer: "A computer worm is malware that can copy itself and spread between devices or systems, often through networks by exploiting weaknesses. Unlike a traditional virus, a worm does not necessarily need to attach itself to another file to spread. Worms can consume network resources, disrupt services, and sometimes deliver additional malicious software. Updates and secure network settings help reduce the risk.",
+            example: "A worm exploits an unpatched weakness in a computer and attempts to spread to other vulnerable computers connected to the same network.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is a Trojan Horse?",
+            answer: "A Trojan horse is malware that disguises itself as a useful or legitimate program to persuade a user to install or run it. It may steal information, download additional malware, or give an attacker unauthorized access. Unlike a worm, a Trojan generally relies on being delivered or executed rather than independently spreading itself across systems.",
+            example: "A user downloads a fake game installer from an unfamiliar website. The game does not work as promised, and the installer secretly places harmful software on the computer.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is Ransomware?",
+            answer: "Ransomware is malware that can lock a device or encrypt files and demand payment to restore access. Paying does not guarantee that files will be recovered or that stolen information will be deleted. Protection includes keeping software updated, restricting access, using reputable security tools, and maintaining separate, protected backups. If ransomware is suspected, follow an appropriate incident response process and seek qualified help.",
+            example: "A small business discovers that its documents cannot be opened and a message demands money for a decryption key. The business contacts its IT support team and begins its recovery procedure rather than trusting the demand.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is Spyware?",
+            answer: "Spyware is software designed to monitor a person's activity or collect information without appropriate knowledge or permission. It may track browsing, collect personal details, or transmit information to another party. Spyware can arrive through deceptive downloads, malicious links, or compromised applications. Download software from trusted sources, review permissions, update devices, and investigate unusual behavior.",
+            example: "A fake mobile application requests unnecessary access and secretly collects more information than it needs to provide its advertised features.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is Adware?",
+            answer: "Adware is software that displays advertisements. Some ad-supported programs are legitimate and disclose their behavior, while harmful adware may show intrusive pop-ups, redirect browsers, track activity without proper consent, or change browser settings. Avoid suspicious installers, review application permissions, and remove unwanted software using trusted tools and approved procedures.",
+            example: "After installing an untrusted free application, a computer begins showing repeated pop-up advertisements and redirecting browser searches to unfamiliar websites.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is a Keylogger?",
+            answer: "A keylogger is a tool that records keyboard input. Some keyloggers are used legitimately for authorized monitoring or testing, but malicious keyloggers can secretly collect passwords, messages, and other sensitive information. Protection includes using trusted software, keeping devices updated, avoiding suspicious downloads, and enabling multifactor authentication. Users should investigate unexpected device behavior through approved security procedures.",
+            example: "A malicious program secretly records the keys a user types and attempts to steal login details. A reputable security tool may help detect the program before more information is exposed.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Antivirus and Anti-Malware Software",
+            answer: "Antivirus and anti-malware software helps detect, block, quarantine, and sometimes remove harmful programs. It may examine files, downloads, applications, and system activity for suspicious behavior. Security tools work best when kept updated and combined with safe browsing, operating system updates, and regular backups. No security product can guarantee that every threat will be detected.",
+            example: "A security application warns a user that a downloaded file may be harmful and quarantines it so it cannot easily run while the user investigates.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Malware Prevention and Removal",
+            answer: "Malware prevention includes installing updates, downloading software from trusted sources, avoiding suspicious links and attachments, using standard user accounts when possible, and keeping protected backups. If malware is suspected, stop interacting with suspicious files, use the organization's incident response procedure, and seek trusted technical assistance. Disconnecting a device from networks may be appropriate in some incidents, but users in workplaces or schools should follow their IT team's instructions. Change affected passwords from a clean, trusted device if credentials may have been exposed.",
+            example: "A student notices repeated security warnings after installing an unknown application. They stop using the application, report the issue to a trusted support person, follow the approved malware scan and removal process, and check important files and accounts for signs of compromise.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 5,
+        heading: "Network Security Basics",
+        slug: "network-security-basics",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Network Security?",
+            answer: "Network security is the practice of protecting connected computers, mobile devices, servers, routers, and network services from unauthorized access, misuse, and disruption. It uses measures such as strong passwords, firewalls, secure Wi-Fi settings, software updates, access controls, and monitoring. Network security helps protect information as it moves between devices and services.",
+            example: "A school protects its computer network by securing the Wi-Fi router, restricting access to network equipment, updating devices, and allowing only authorized users to connect.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Securing a Home Wi-Fi Network",
+            answer: "A home Wi-Fi network connects devices to one another and to the internet without requiring network cables for each device. To secure it, change default administrator credentials, use WPA2-AES or WPA3 security where supported, choose a strong unique Wi-Fi password, update router firmware, and disable features that are not needed. A separate guest network can help keep visitors' devices apart from trusted home devices.",
+            example: "A family changes the router's default administrator password, enables WPA3 when available, sets a unique Wi-Fi password, and creates a guest network for visitors.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Router Security",
+            answer: "A router directs network traffic between devices and other networks, including the internet. Router security involves changing default login credentials, installing firmware updates, using secure Wi-Fi encryption, reviewing connected devices, and disabling unnecessary remote administration or services. Router settings should be changed carefully, because incorrect configuration can interrupt internet access.",
+            example: "A homeowner signs in to the router's official administration page, replaces the default administrator password, installs an available trusted firmware update, and checks the connected-device list.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Network Passwords",
+            answer: "Network passwords control access to Wi-Fi networks, routers, and other network services. Strong, unique passwords help prevent unauthorized connections and unwanted changes. The administrator password used to manage a router should be different from the Wi-Fi password. Passwords should be shared only with people who need access and should be changed if they may have been exposed.",
+            example: "A family uses one unique password for its home Wi-Fi and a separate, stronger administrator password for the router's settings page.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is a Firewall?",
+            answer: "A firewall is a security system that monitors and controls network traffic according to a set of rules. It can allow approved connections and block unwanted or unauthorized traffic. Firewalls may be built into computers, routers, servers, or dedicated network devices. A firewall is an important layer of defense, but it does not replace software updates, strong authentication, or safe online behavior.",
+            example: "A computer's firewall blocks an unexpected incoming connection that is not allowed by its security rules while permitting normal web browsing.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a VPN?",
+            answer: "A Virtual Private Network, or VPN, creates an encrypted connection between a device and a VPN endpoint over another network. Organizations may use VPNs to provide secure remote access to internal resources. A VPN can help protect traffic on untrusted networks, depending on its configuration, but it does not make every online activity anonymous or automatically protect against phishing, malware, or unsafe websites. Users should choose approved and reputable VPN services.",
+            example: "An employee working remotely connects to the company's approved VPN before accessing an internal work system that is not available to the general public.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Public Wi-Fi Risks",
+            answer: "Public Wi-Fi is available in places such as airports, cafes, hotels, and libraries. Risks include fake hotspots, poorly secured networks, and attempts to trick users into visiting malicious websites. Use trusted networks, verify the correct network name, keep device sharing turned off when not needed, use HTTPS websites, and follow organizational VPN requirements. Avoid ignoring security warnings or entering sensitive information into suspicious pages.",
+            example: "At a cafe, a user checks the official Wi-Fi name with staff, avoids a similarly named unknown hotspot, and uses approved secure connections for work.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Secure vs. Insecure Connections",
+            answer: "A secure connection uses appropriate protections, such as encryption and authentication, to help protect information while it travels between devices and services. HTTPS uses TLS to protect browser connections to websites. An insecure or incorrectly configured connection may expose information or make it easier for attackers to interfere with communication. However, encryption alone does not prove that the person or website on the other end is trustworthy.",
+            example: "When signing in to a school website, a student checks that the address is correct and uses the official HTTPS site rather than entering a password into an unfamiliar page that imitates it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Network Access Control",
+            answer: "Network access control determines which users and devices are allowed to connect to a network and which resources they may use. It may involve user authentication, device checks, access policies, separate network segments, and role-based permissions. These controls help prevent unauthorized devices from reaching sensitive systems and limit the impact of compromised devices.",
+            example: "A business allows employees to access its internal network using approved accounts and places visitor devices on a separate guest Wi-Fi network that cannot reach internal file servers.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Basic Network Security Rules",
+            answer: "Basic network security rules include changing default passwords, using strong unique credentials, enabling multifactor authentication where available, updating routers and devices, using secure Wi-Fi encryption, enabling firewalls, and limiting access to authorized users. Users should avoid unknown network devices, report suspicious activity, and never bypass security controls without authorization. Regular reviews help keep the network protected as devices and needs change.",
+            example: "A small office follows a network security checklist that includes updating its router, checking connected devices, using a guest network for visitors, restricting administrator access, and reviewing backups and security alerts.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 6,
+        heading: "Operating System Security",
+        slug: "operating-system-security",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Operating System Security?",
+            answer: "Operating system security is the practice of protecting an operating system and its resources from unauthorized access, malware, data theft, and misuse. An operating system manages hardware, applications, files, and user accounts. Security features such as access controls, firewalls, device encryption, security updates, and login authentication help keep a computer or mobile device safe.",
+            example: "A student protects a laptop by using a strong login password, installing operating system updates, enabling the firewall, and avoiding unknown software downloads.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Windows Security Basics",
+            answer: "Windows security includes built-in tools and settings that help protect Windows computers. Microsoft Defender Antivirus helps detect malicious software, Windows Firewall controls network connections, and Windows Update provides important fixes. Users should use standard accounts for everyday work when possible, enable device security features, use strong authentication, and download applications from trusted sources.",
+            example: "A student opens Windows Security to check antivirus protection, confirms that the firewall is enabled, and installs available security updates through Windows Update.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Linux Security Basics",
+            answer: "Linux security involves protecting a Linux operating system through user permissions, software updates, account controls, firewall rules, and secure system configuration. Linux commonly separates ordinary users from administrators, reducing the need to perform everyday tasks with elevated privileges. Users should install software from trusted repositories, protect SSH access when used, and review permissions carefully.",
+            example: "A student using Ubuntu installs updates through the official package manager and uses a normal user account instead of running every application with administrator privileges.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Android Security",
+            answer: "Android security helps protect smartphones and tablets from malicious applications, unauthorized access, and data theft. Important practices include installing system and application updates, using a screen lock, downloading apps from trusted sources, reviewing app permissions, and enabling available device-finding and recovery features. Users should avoid installing unknown APK files and should review warnings before granting powerful permissions.",
+            example: "A student downloads an educational application from a trusted app store, checks why it requests access to the camera, and denies permissions that are not needed for its features.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "iPhone and iOS Security",
+            answer: "iPhone and iOS security includes features designed to protect devices, accounts, applications, and personal information. Users can improve protection by enabling a strong passcode, using Face ID or Touch ID where available, installing iOS updates, enabling two-factor authentication for their Apple Account, and reviewing app privacy permissions. Users should also be careful with unexpected links, configuration profiles, and requests to install unfamiliar applications.",
+            example: "An iPhone user enables a strong passcode, installs the latest compatible iOS security update, reviews location permissions, and turns on two-factor authentication for their Apple Account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Software Updates and Security Patches",
+            answer: "Software updates may add features, improve performance, fix bugs, and correct security weaknesses. A security patch is an update that addresses one or more security vulnerabilities. Delaying important updates can leave a device exposed to known threats. Users should install updates from official sources, keep applications updated, and follow backup and testing procedures before major updates on important systems.",
+            example: "A laptop receives an operating system security update that fixes a known vulnerability. The user saves their work, installs the update from the official settings page, and restarts the computer when prompted.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "User Accounts and Permissions",
+            answer: "User accounts identify people who sign in to a device, while permissions control what they can view, change, install, or manage. Administrator accounts have greater control than standard accounts. Using standard accounts for everyday tasks and granting only the permissions needed helps limit accidental changes and reduce the impact of malicious software. Each person should have an appropriate individual account when practical.",
+            example: "In a school computer lab, students use standard accounts to complete assignments, while an authorized IT administrator installs approved software and manages system-wide settings.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Screen Locks and Device Encryption",
+            answer: "A screen lock prevents someone from easily using a device without authentication. It may use a PIN, password, pattern, fingerprint, or facial recognition. Device encryption protects stored information by converting it into a form that cannot normally be read without the required cryptographic keys. Screen locks and encryption provide different but complementary protections, especially when a device is lost or stolen.",
+            example: "A person enables a strong screen lock and device encryption on a laptop. If the laptop is stolen while powered off, encryption can help prevent someone from reading its stored files without the necessary credentials or keys.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Secure File Permissions",
+            answer: "File permissions determine who can read, write, modify, execute, or delete files and folders. Proper permissions help protect private information and prevent unauthorized changes. Operating systems may assign permissions to owners, groups, and other users. Users should avoid making sensitive files publicly accessible and should grant access only to people and applications that need it.",
+            example: "A teacher stores private student records in a restricted folder that only authorized staff can access, rather than saving the records in a shared folder available to every student.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Securing Personal Devices",
+            answer: "Securing personal devices means protecting computers, smartphones, and tablets against theft, unauthorized access, malware, and data loss. Good practices include using strong authentication, enabling automatic updates, installing trusted applications, reviewing permissions, turning on encryption where available, backing up important files, and enabling remote lock or erase features when appropriate. Lost or compromised devices should be reported and handled promptly.",
+            example: "A person protects a phone by enabling a screen lock, installing updates, backing up photos securely, limiting app permissions, and enabling the official device-finding feature.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 7,
+        heading: "Data Privacy and Protection",
+        slug: "data-privacy-and-protection",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Data Privacy?",
+            answer: "Data privacy concerns how personal information is collected, used, stored, shared, and deleted. It includes understanding what information an organization needs, why it needs it, who can access it, and how long it should be kept. Data privacy helps people maintain control over information about themselves. Privacy also depends on applicable laws, organizational policies, and responsible handling of data.",
+            example: "A learning website asks a student for the information needed to create an account but does not require unrelated details such as the student's home address without a valid reason.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Personal and Sensitive Information",
+            answer: "Personal information is information that identifies a person or can reasonably be linked to them, such as a name, email address, phone number, or photograph. Sensitive information may include financial credentials, health details, precise location, government identification numbers, or other information requiring stronger protection under relevant laws and circumstances. People should share only necessary information and use trusted services when providing it.",
+            example: "A student shares their name and school email with an approved learning platform but does not publicly post their home address, account password, or identity document.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Digital Footprints",
+            answer: "A digital footprint is the trail of information created by a person's online activities. It may include posts, comments, photographs, searches, account activity, and information collected by websites or applications. Some information is shared intentionally, while other information may be recorded automatically. Digital footprints can affect privacy and reputation, so users should think carefully before posting and review the visibility of their accounts.",
+            example: "A student posts a public photograph and comment on a social media platform. Even after deleting the post, copies or screenshots may still exist, so the student should consider the audience before sharing.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Online Privacy Settings",
+            answer: "Online privacy settings allow users to control how information is shared and how applications use personal data. Settings may control profile visibility, location access, contact syncing, camera and microphone permissions, personalized advertising, and who can contact an account. Users should review these settings regularly because applications may change their options or introduce new features.",
+            example: "A student changes a social media profile from public to private, limits who can send messages, and disables location sharing for an application that does not need it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Data Collection and Tracking",
+            answer: "Data collection is the process of gathering information about users, devices, or activities. Websites and applications may collect information to provide services, improve performance, prevent fraud, or personalize content. Tracking can use cookies, device identifiers, account activity, and other technologies. Users should read privacy notices, review permissions, and choose available controls that match their privacy needs.",
+            example: "A shopping website records products viewed during a session to remember a shopping basket or recommend similar items. A user reviews the site's privacy settings to understand and manage available tracking choices.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Cookies and Browser Privacy",
+            answer: "Cookies are small pieces of information that websites store in a browser. They can support useful features such as keeping users signed in, remembering preferences, and maintaining shopping baskets. Some cookies and related technologies are also used for advertising and tracking. Users can manage cookies through browser settings, but blocking all cookies may cause some websites to stop working correctly.",
+            example: "A student allows necessary cookies on a trusted learning website so the sign-in session works, while reviewing optional tracking choices and clearing stored website data when appropriate.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Data Encryption Basics",
+            answer: "Data encryption transforms readable information into an encoded form using a cryptographic algorithm and a key. Authorized users or systems can decrypt the information when they have the necessary key. Encryption can protect data stored on a device and data transmitted across a network. Its effectiveness depends on appropriate algorithms, secure key management, and correct implementation.",
+            example: "A person uses an encrypted storage feature on a laptop to help protect saved documents if the device is lost. They also keep important recovery information secure.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Data Backup and Recovery",
+            answer: "A backup is a separate copy of important information that can be used if the original data is lost, damaged, or deleted. Recovery is the process of restoring that information. A good backup plan defines what to copy, how often to back it up, where copies are stored, and how restoration will be tested. Important backups should be protected against unauthorized access and ransomware.",
+            example: "A student backs up school projects to an approved cloud storage service and periodically checks that the files can be opened or restored if the original computer fails.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Secure File Sharing",
+            answer: "Secure file sharing means sending or providing access to digital files in a way that protects confidentiality and prevents unauthorized changes. Users should choose trusted sharing services, verify recipients, set suitable permissions, and use expiration dates or access restrictions when available. Sensitive files should not be placed in public links unless that access is specifically intended and approved.",
+            example: "A teacher shares an assignment folder with students using a school-approved platform and grants view-only access to reference documents while restricting private grading records to authorized staff.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Protecting Personal Information",
+            answer: "Protecting personal information involves limiting what is shared, using strong unique passwords, enabling multifactor authentication, keeping devices updated, checking privacy settings, and avoiding suspicious messages. Users should verify requests for personal data, secure important files, and report suspected misuse. When using a website or application, provide only the information needed for a legitimate purpose.",
+            example: "Before joining an unfamiliar online contest, a student checks whether the organizer is genuine, reviews why personal details are requested, and avoids providing unnecessary identity or financial information.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 8,
+        heading: "Cryptography Fundamentals",
+        slug: "cryptography-fundamentals",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Cryptography?",
+            answer: "Cryptography is the science of protecting information using mathematical techniques. It supports confidentiality through encryption, helps verify data integrity through cryptographic hashes, and supports authentication and digital signatures. Cryptography is used in secure websites, messaging applications, online banking, software updates, and many other digital systems. Strong cryptography must be implemented correctly and use suitable algorithms and key management.",
+            example: "When a user visits a secure banking website, cryptographic protocols help protect information sent between the browser and the bank's server.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Plaintext and Ciphertext",
+            answer: "Plaintext is information in its original readable or usable form. Ciphertext is the transformed form produced when plaintext is encrypted. Encryption uses a cryptographic algorithm and a key to convert plaintext into ciphertext. Decryption uses the required key and algorithm to recover the original information. Without the necessary key, properly encrypted information should be impractical to read.",
+            example: "The readable message 'Meet at the library' is plaintext. After encryption, it becomes ciphertext that appears unreadable without the correct decryption key.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Encryption and Decryption",
+            answer: "Encryption converts readable data into a protected form using an algorithm and a key. Decryption reverses that process for someone who has the appropriate key. Encryption can protect files stored on a device or information moving across a network. Strong protection depends on using trusted cryptographic methods, keeping keys secret when required, and avoiding weak or homemade encryption systems.",
+            example: "A user encrypts a confidential document with a trusted tool and securely shares the necessary decryption key with an authorized recipient so the recipient can read the file.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Symmetric Encryption",
+            answer: "Symmetric encryption uses the same secret key, or a related shared secret, to encrypt and decrypt data. It is generally efficient for protecting large amounts of information. The main challenge is securely sharing and storing the key so that unauthorized people cannot obtain it. Symmetric encryption is commonly used in file encryption and as part of secure network communication.",
+            example: "Two authorized users use a trusted encryption application to protect a file with a shared secret key. They must transfer and store the key securely so others cannot read the file.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Asymmetric Encryption",
+            answer: "Asymmetric cryptography uses a mathematically related pair of keys: a public key and a private key. The public key can be shared, while the private key must be protected. Depending on the algorithm and purpose, the keys can support encryption, key establishment, or digital signatures. Asymmetric techniques can help establish secure communication without requiring the parties to share a secret key in advance.",
+            example: "A secure communication system uses public-key cryptography to help establish shared session keys, then uses efficient symmetric encryption to protect the main data transfer.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Public and Private Keys",
+            answer: "A public key is intended to be shared, while its corresponding private key must remain under the control of its owner. In some systems, a sender can encrypt information for a recipient using the recipient's public key, and the recipient uses the private key to decrypt it. Digital signature systems use a private key to create signatures that others can verify with the corresponding public key. The exact operations depend on the cryptographic algorithm.",
+            example: "A website presents a public key through its digital certificate during a secure connection. The corresponding private key remains protected by the website operator and is not shared with visitors.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Hashing and Hash Functions",
+            answer: "A cryptographic hash function takes input data of varying sizes and produces a fixed-length output called a hash or digest. A secure hash function is designed to make it difficult to recover the original input or find another input with the same digest. Hashes can help check data integrity. Passwords should be stored using dedicated password-hashing methods, such as Argon2id, scrypt, or appropriately configured bcrypt, rather than a fast general-purpose hash alone.",
+            example: "A software publisher provides a trusted file hash. A user calculates the downloaded file's hash with a suitable tool and compares the results to check whether the file matches the expected version.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Digital Signatures",
+            answer: "A digital signature is a cryptographic mechanism used to help verify the origin and integrity of digital information. The signer uses a private signing key to create the signature, and a verifier uses the corresponding public key to check it. A valid signature can indicate that signed data has not changed since signing and that it corresponds to the signing key. Trust also depends on correctly verifying who controls that key.",
+            example: "A software publisher digitally signs an application. The operating system can verify the signature to help determine whether the application was signed by the expected publisher and whether the signed content has been changed.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Digital Certificates",
+            answer: "A digital certificate is an electronic document that binds an identity, such as a website domain, to a public key. Certificates commonly include the subject, public key, validity period, issuer, and a digital signature from a certificate authority. Browsers check certificate details when establishing secure website connections. A valid certificate helps establish the connection's identity, but users must still check that they are visiting the intended website.",
+            example: "When a user opens an HTTPS website, the browser checks the website's certificate and verifies that it is valid for the requested domain and chains to a trusted certificate authority.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "HTTPS and TLS Basics",
+            answer: "HTTPS is HTTP communication protected by Transport Layer Security (TLS). TLS helps provide encryption, integrity protection, and server authentication for data exchanged between a browser and a website. During connection setup, the parties negotiate security parameters and establish keys. Users should check the website address and browser warnings because HTTPS protects the connection but does not guarantee that the website itself is honest.",
+            example: "A student signs in to an official learning website using HTTPS. TLS helps protect the password while it travels between the browser and the website, provided the connection and devices are correctly configured.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 9,
+        heading: "Web Security Fundamentals",
+        slug: "web-security-fundamentals",
+        qa: [
+          {
+            id: 1,
+            question: "How Websites Communicate",
+            answer: "Websites communicate using a client-server model. A browser acts as the client and sends HTTP requests to a web server. The server processes the request and returns a response, such as a web page, image, or data in JSON format. Websites often use HTML for structure, CSS for presentation, and JavaScript for interactive behavior. HTTPS uses TLS to protect communication between the browser and server.",
+            example: "When a student opens a course page, the browser requests the page from the website's server. The server returns the required content, and the browser displays the lesson.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "HTTP vs. HTTPS",
+            answer: "HTTP is a protocol used to transfer web requests and responses. HTTPS is HTTP protected by TLS, which helps encrypt communication, detect tampering, and authenticate the server. HTTPS is important for login pages, payments, forms, and ordinary browsing. However, a secure connection does not automatically mean that the website is trustworthy, so users should also check the domain and the site's legitimacy.",
+            example: "A user enters account details on the correct official website using HTTPS. They avoid a fake site with a misleading domain, even if that site also displays a padlock.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Cookies and Sessions",
+            answer: "Cookies are small pieces of data that a website asks a browser to store. A session is a way for a website to maintain information about a user's activity across multiple requests. Websites often use session identifiers stored in cookies to recognize a signed-in user. Secure session handling includes using HTTPS, setting appropriate cookie attributes such as Secure and HttpOnly, applying suitable SameSite settings, and expiring sessions when needed.",
+            example: "After signing in to a learning website, a session cookie helps the server recognize the user's authenticated requests so the student does not need to sign in again on every page.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Authentication vs. Authorization",
+            answer: "Authentication verifies who a user or system is. Authorization determines what that authenticated user or system is allowed to do. A person may successfully sign in but still lack permission to view certain files, manage users, or change system settings. Secure applications should verify identity and then check permissions for every protected operation.",
+            example: "A teacher signs in to a school portal, which authenticates the teacher. The portal then authorizes the teacher to manage class materials but prevents access to administrator-only settings.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "SQL Injection Concepts",
+            answer: "SQL injection is a vulnerability that occurs when an application combines untrusted input with database queries in an unsafe way. An attacker may cause the database to interpret input as part of the SQL command instead of as ordinary data. Developers can prevent this by using parameterized queries or prepared statements, limiting database privileges, and avoiding unsafe query construction. Input validation is useful but should not replace parameterization.",
+            example: "A login form safely uses a parameterized database query so that text entered into the username field is treated as data rather than being interpreted as part of the SQL command.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Cross-Site Scripting (XSS)",
+            answer: "Cross-Site Scripting, or XSS, is a web security vulnerability in which an application allows untrusted content to execute as script in another user's browser. It can occur when user input is inserted into a page without suitable context-aware output encoding or safe rendering. Developers should encode output correctly, use safe DOM APIs, sanitize HTML when HTML input is genuinely required, and consider Content Security Policy as an additional layer of protection.",
+            example: "A comment feature displays user-submitted text using safe text rendering rather than treating the comment as executable HTML or JavaScript.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Cross-Site Request Forgery (CSRF)",
+            answer: "Cross-Site Request Forgery, or CSRF, is an attack that tricks a signed-in user's browser into sending an unwanted request to a website where the user is already authenticated. It is especially relevant when browsers automatically attach authentication cookies. Defenses can include anti-CSRF tokens, suitable SameSite cookie settings, checking request origins where appropriate, and requiring reauthentication for sensitive actions.",
+            example: "A banking application uses an anti-CSRF token and additional checks before processing a money transfer, helping prevent another website from silently submitting an unauthorized transfer request through the user's browser.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Secure HTTP Headers",
+            answer: "Secure HTTP headers allow a web server to communicate security-related instructions to browsers. Examples include Content-Security-Policy, Strict-Transport-Security, X-Content-Type-Options, and suitable Referrer-Policy settings. These headers can help reduce certain browser-based risks, but they must be configured for the application's requirements. They complement secure coding and do not fix every underlying vulnerability.",
+            example: "A website configures a suitable Content Security Policy to restrict where scripts can load from, helping reduce the risk of some cross-site scripting attacks.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Input Validation and Output Encoding",
+            answer: "Input validation checks whether submitted data meets expected rules, such as the required format, length, range, or allowed values. Output encoding transforms data so it is displayed safely in the context where it appears, such as HTML text. Developers should validate data on the server, use parameterized database queries, encode output appropriately, and avoid treating user input as executable code.",
+            example: "A registration form checks that an email address has an acceptable format on the server. When displaying a user's name on a page, the application renders it as text rather than allowing special characters to become executable markup.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Common Web Security Mistakes",
+            answer: "Common web security mistakes include storing passwords in plain text, exposing API keys, trusting client-side validation alone, using outdated dependencies, giving excessive permissions, failing to protect sessions, and displaying detailed internal errors to users. Secure development requires defense in depth, safe defaults, regular updates, code reviews, testing, and careful handling of secrets and personal information.",
+            example: "A developer discovers that an API key has been committed to a public code repository. They revoke and rotate the exposed key, check for misuse, remove it from future code changes, and move secrets into a suitable secret-management system.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 10,
+        heading: "Application Security",
+        slug: "application-security",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Application Security?",
+            answer: "Application security is the practice of protecting software applications from vulnerabilities, unauthorized access, data theft, and misuse throughout their development and operation. It includes secure design, coding, testing, deployment, configuration, and maintenance. Application security applies to websites, mobile apps, desktop programs, APIs, and backend services.",
+            example: "A developer protects a school management application by checking user permissions, validating input, storing passwords securely, updating dependencies, and testing for common vulnerabilities before release.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Secure Coding Principles",
+            answer: "Secure coding principles are practices that reduce the chance of introducing security weaknesses into software. Important principles include least privilege, secure defaults, input validation, safe error handling, separation of responsibilities, and defense in depth. Developers should use trusted libraries, review code, test security controls, and avoid exposing confidential information in logs or error messages.",
+            example: "A web application gives ordinary users access only to their own profile, while administrative operations require explicit authorization and are recorded appropriately.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Input Validation",
+            answer: "Input validation checks whether data received by an application meets expected requirements before it is processed. Checks may include data type, length, format, range, and allowed values. Validation should occur on the server because client-side checks can be bypassed. It should be combined with parameterized database queries, output encoding, and other controls appropriate to the type of data and operation.",
+            example: "A course registration API verifies that a submitted course ID exists, the requested value has the expected type, and the user is allowed to register for that course before saving the request.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Secure Authentication",
+            answer: "Secure authentication verifies a user's identity while protecting credentials and login processes. Good practices include using established authentication libraries, enforcing suitable password policies, supporting multifactor authentication, protecting login traffic with HTTPS, limiting repeated failed attempts, and providing safe account recovery. Applications should also protect sessions after login and avoid revealing unnecessary details about whether an account exists.",
+            example: "A school portal uses a trusted authentication library, requires HTTPS, supports multifactor authentication for staff, and applies reasonable protections against repeated login attempts.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Password Hashing",
+            answer: "Password hashing stores a one-way representation of a password instead of storing the original password in readable form. Secure password storage uses a dedicated password-hashing algorithm such as Argon2id, scrypt, or appropriately configured bcrypt, along with a unique salt for each password. Modern libraries manage these details. Fast general-purpose hashes such as plain SHA-256 should not be used alone for password storage.",
+            example: "When a user registers for a website, the backend hashes the password using a suitable password-hashing library and stores the resulting hash. During login, it verifies the submitted password against the stored hash without saving the original password.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "API Security Basics",
+            answer: "API security protects application programming interfaces that allow software systems to exchange data and perform actions. Important practices include authenticating callers, checking authorization for each resource and operation, validating requests, limiting request rates, using HTTPS, protecting secrets, and logging relevant security events. APIs should return only the data the caller is allowed to access and should avoid exposing internal error details.",
+            example: "A student records API checks that the signed-in student can view their own grades and does not allow them to change another student's record simply by submitting a different student ID.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Secrets and Environment Variables",
+            answer: "Secrets are confidential values such as API keys, database passwords, private keys, and access tokens. Applications need these values to connect to services, but exposing them can allow unauthorized access. Secrets should not be committed to source control, included in frontend code, or printed in logs. Environment variables can be useful for configuration, while production systems may benefit from a dedicated secret manager with access controls and rotation support.",
+            example: "A Node.js backend reads its database connection string from a protected environment configuration instead of hardcoding it in the source file. The developer also keeps the configuration file out of version control and rotates any secret that becomes exposed.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Dependency and Package Security",
+            answer: "Dependencies are external libraries and packages used by an application. They can introduce security risks when they contain vulnerabilities, are abandoned, or come from untrusted sources. Developers should use reputable packages, keep dependency manifests and lockfiles under version control, review security advisories, apply tested updates, and remove unnecessary dependencies. Automated dependency scanning can help identify known vulnerabilities.",
+            example: "A developer checks a project's dependency audit, finds that an outdated library has a known vulnerability, reviews the recommended fix, updates to a supported version, and runs tests before deploying.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Security Testing Basics",
+            answer: "Security testing examines an application to identify weaknesses before or after release. Techniques include code analysis, dependency scanning, configuration reviews, authentication and authorization tests, and dynamic testing of a running application. Testing should be performed only on systems the tester owns or has explicit permission to assess. Findings should be documented, prioritized by risk, fixed, and retested.",
+            example: "A developer tests their own practice web application to confirm that users cannot access administrator pages without permission, then records and fixes any failed authorization checks.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Secure Code Review",
+            answer: "Secure code review is the process of examining source code to find security weaknesses, unsafe assumptions, and incorrect handling of data or permissions. Reviewers check authentication, authorization, input handling, database queries, secrets, error messages, dependencies, and logging. Code review can be performed by another developer and supported by automated tools. Identified issues should be documented, corrected, and tested before release.",
+            example: "During a code review, a developer notices that an API route checks whether a user is signed in but does not verify that the user owns the requested document. The developer adds an authorization check and tests access with different accounts.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 11,
+        heading: "Ethical Hacking Fundamentals",
+        slug: "ethical-hacking-fundamentals",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Ethical Hacking?",
+            answer: "Ethical hacking is the authorized process of testing computers, networks, websites, and applications to discover security weaknesses before malicious attackers can exploit them. Ethical hackers use security tools and techniques to identify vulnerabilities, verify risks safely, and recommend improvements. Unlike malicious hackers, ethical hackers work with permission and follow a defined scope.",
+            example: "A company hires an ethical hacker to test its website login system and identify weaknesses before criminals can exploit them.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are the Legal and Ethical Rules of Ethical Hacking?",
+            answer: "Ethical hackers must follow applicable laws, obtain authorization, respect privacy, protect confidential information, and avoid unnecessary damage or disruption. They must never access systems outside the approved scope, steal data, install unauthorized malware, or use discovered vulnerabilities for personal gain. Ethical conduct also requires honest reporting and responsible handling of security information.",
+            example: "A security tester is authorized to examine a company's test website but must not attempt to access the company's unrelated email server.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Why Are Written Permission and Scope Important in Ethical Hacking?",
+            answer: "Written permission documents the owner's approval for security testing. The scope defines exactly which systems, domains, IP addresses, applications, accounts, and testing methods are permitted. It should also specify testing dates, excluded systems, rate limits, emergency contacts, data-handling rules, and stop conditions. Clear authorization protects both the organization and the tester from misunderstandings and unauthorized activity.",
+            example: "Before testing example-company.com's staging website, a tester receives written approval identifying the staging domain, permitted tests, and testing schedule.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is Reconnaissance in Ethical Hacking?",
+            answer: "Reconnaissance is the information-gathering stage of a security assessment. It helps testers understand the target's publicly visible technology, domains, services, and organizational structure. Passive reconnaissance uses information already publicly available, while active reconnaissance interacts directly with target systems and therefore requires appropriate authorization. The information gathered helps plan a focused and controlled assessment.",
+            example: "A tester reviews a company's public website, published security policy, and publicly documented technology before beginning an authorized assessment.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are Asset Discovery and Attack Surface Discovery?",
+            answer: "Asset discovery identifies the digital resources an organization owns or operates, such as websites, servers, APIs, cloud resources, devices, and databases. Attack surface discovery identifies the points through which those resources could potentially be accessed or attacked, including login pages, open services, exposed APIs, and remote-access systems. Maintaining an accurate inventory helps organizations identify forgotten or improperly secured resources.",
+            example: "A company discovers that an old development subdomain is still accessible online. The security team checks its ownership, business purpose, and configuration before deciding whether to secure or retire it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a Vulnerability Assessment?",
+            answer: "A vulnerability assessment is a systematic process for identifying, evaluating, and prioritizing security weaknesses in systems, applications, and networks. It may involve reviewing configurations, checking software versions, examining dependencies, and using approved vulnerability scanners. Findings are assessed according to their severity, likelihood of exploitation, and potential business impact. An assessment helps an organization decide which issues need attention first.",
+            example: "A vulnerability assessment identifies an outdated web server and a database configuration that allows more access than necessary. The team prioritizes fixes based on exposure and risk.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How Can Security Scanning Be Performed Safely in a Lab?",
+            answer: "Security scanning in a lab means examining intentionally vulnerable applications or isolated systems in a controlled environment. A lab can use virtual machines, containers, sample applications, and test networks that do not expose real users or production data. Before scanning, testers should confirm the target address, isolate the environment, take snapshots or backups, and select safe scan settings. Scanning should remain limited to systems for which permission has been granted.",
+            example: "A learner runs a basic vulnerability scan against an intentionally vulnerable virtual machine on a private lab network and records the findings without scanning public systems.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "How Do Ethical Hackers Understand Security Findings?",
+            answer: "Security findings are observations that indicate a possible weakness or security concern. To understand a finding, the tester examines the affected asset, evidence, underlying cause, possible consequences, and confidence level. Automated scanners can produce false positives, so results should be validated using safe, authorized methods. Findings are commonly prioritized by severity, exploitability, exposure, business importance, and the sensitivity of affected data.",
+            example: "A scanner reports that a server may be using an outdated component. The tester checks the installed version and vendor advisory to determine whether the vulnerability actually applies.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is Responsible Vulnerability Disclosure?",
+            answer: "Responsible vulnerability disclosure is the process of reporting a security weakness to the organization or authorized coordinator so it can be investigated and fixed. A good report includes a clear description, affected component, safe reproduction steps, potential impact, and supporting evidence. Researchers should follow the organization's disclosure policy, protect sensitive information, and coordinate public communication. They should not publish exploitable details prematurely or access data beyond what is necessary to demonstrate the issue.",
+            example: "A researcher discovers an access-control weakness in a website and privately reports it through the company's published security contact, following its disclosure policy.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "How Do You Write an Ethical Hacking Report?",
+            answer: "An ethical hacking report communicates the assessment's results clearly so technical teams and decision-makers can take action. It typically includes an executive summary, objectives, scope, testing dates, methodology, findings, severity ratings, supporting evidence, business impact, remediation recommendations, and limitations. Findings should be reproducible without exposing unnecessary sensitive data. A final report may also document retesting results to confirm whether fixes resolved the identified weaknesses.",
+            example: "A report explains that a test application exposes private records because it does not properly check user permissions. It includes sanitized evidence, the risk rating, recommended access-control changes, and a retesting plan.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 12,
+        heading: "Vulnerabilities and Penetration Testing",
+        slug: "vulnerabilities-and-penetration-testing",
+        qa: [
+          {
+            id: 1,
+            question: "What Is a Vulnerability in Cybersecurity?",
+            answer: "A vulnerability is a weakness in software, hardware, system configuration, or security procedures that could allow a threat to compromise confidentiality, integrity, or availability. Vulnerabilities can result from programming mistakes, outdated components, weak permissions, insecure defaults, or missing security controls. Not every weakness creates the same level of risk; its importance depends on how it can be exploited and what the affected system protects.",
+            example: "A web application that allows users to view another user's private records by changing a record identifier has an access-control vulnerability.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Is the Difference Between a Vulnerability and an Exploit?",
+            answer: "A vulnerability is a weakness in a system, while an exploit is a method, technique, or piece of code that takes advantage of that weakness. A vulnerability can exist even when no known exploit is available. The presence of a public or actively used exploit may increase the urgency of remediation, but risk also depends on exposure, required access, available safeguards, and business impact.",
+            example: "An outdated application contains a known software flaw. The flaw is the vulnerability; a demonstrated method that uses the flaw to cause unauthorized behavior is an exploit.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is the Common Vulnerability Scoring System (CVSS)?",
+            answer: "The Common Vulnerability Scoring System (CVSS) is an open framework for describing the technical severity of cybersecurity vulnerabilities. Its scores range from 0.0 to 10.0 and are grouped into None, Low, Medium, High, and Critical severity bands under CVSS v3.1 and v4.0 conventions, with slightly different band boundaries for some versions. CVSS considers factors such as attack conditions and potential impact. A CVSS score is not the same as an organization's complete business-risk rating.",
+            example: "A vulnerability with a CVSS score of 9.8 is generally classified as Critical under CVSS v3.1, so the security team investigates it urgently while considering whether the affected asset is exposed and important to the business.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is Security Misconfiguration?",
+            answer: "Security misconfiguration occurs when a system, application, database, cloud service, or network device is configured insecurely. Examples include default passwords, unnecessary services, overly broad permissions, exposed administrative interfaces, verbose error messages, and publicly accessible storage. Secure configuration requires disabling unnecessary features, applying appropriate access controls, removing default credentials, and reviewing settings regularly.",
+            example: "A cloud storage bucket containing customer documents is accidentally configured for public access. The administrator restricts access, checks available logs, and reviews other storage permissions.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are the Risks of Outdated Software?",
+            answer: "Outdated software may contain known security vulnerabilities, unsupported components, or bugs that have already been fixed in newer releases. Attackers may target systems that have not installed available security updates. Organizations should maintain an inventory of software and dependencies, monitor vendor security advisories, test patches, and update or replace unsupported products. Updates should be planned carefully to reduce compatibility problems and service interruptions.",
+            example: "A company continues using an unsupported server operating system. Its IT team plans a migration to a supported release and applies available protections during the transition.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a Penetration Testing Methodology?",
+            answer: "A penetration testing methodology is a structured process for evaluating the security of a system through authorized testing. Typical stages include defining scope, gathering information, identifying possible weaknesses, validating selected findings, evaluating impact, documenting evidence, and reporting remediation advice. The exact steps depend on the engagement and may follow recognized guidance such as NIST or OWASP testing resources. Testing must remain within the approved boundaries.",
+            example: "For an authorized web application assessment, the tester agrees on scope, reviews the application's architecture, examines access controls, validates suspected weaknesses safely, and delivers a report with recommended fixes.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Why Should Penetration Testing Be Practiced in Intentionally Vulnerable Labs?",
+            answer: "Intentionally vulnerable labs provide systems designed for safe security learning and experimentation. They let learners understand vulnerabilities, testing workflows, and defensive controls without putting real organizations or users at risk. Labs may run in isolated virtual machines, local containers, or purpose-built training platforms. Learners should keep the environment separated from production networks and follow the lab's rules.",
+            example: "A student uses a training application such as OWASP Juice Shop on a local lab machine to learn how insecure input handling works and how developers can fix it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "How Do You Validate and Prioritize Penetration Testing Findings?",
+            answer: "Validating a finding means confirming that the reported weakness is present and understanding its real impact. Testers should use minimal, safe, authorized checks and avoid unnecessary access to sensitive information. Prioritization considers technical severity, exploitability, external exposure, asset importance, data sensitivity, existing safeguards, and evidence of active exploitation. This process helps teams focus on the risks that matter most instead of relying only on scanner rankings.",
+            example: "A scanner identifies a potentially serious flaw on an internal test server. The team verifies the affected version, checks whether the server is reachable by untrusted users, and prioritizes the fix based on the confirmed exposure.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are Remediation and Retesting?",
+            answer: "Remediation is the process of fixing or reducing a confirmed security weakness. A fix might involve installing a patch, changing permissions, correcting application logic, rotating credentials, or disabling an unnecessary service. Retesting checks whether the original issue has been resolved and whether the change introduced new problems. If immediate remediation is not possible, temporary mitigations and a documented risk-acceptance decision may be necessary.",
+            example: "Developers correct an API's authorization checks, deploy the change to a test environment, and ask the security tester to verify that one user can no longer access another user's records.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Should a Penetration Testing Report Include?",
+            answer: "A penetration testing report should explain what was tested, how it was tested, what was discovered, and what the organization should do next. It commonly includes an executive summary, scope, methodology, limitations, findings, severity and impact, sanitized evidence, remediation guidance, and retesting status. Technical details should be clear enough for engineers to reproduce and fix issues, while the executive summary should help decision-makers understand business risks and priorities.",
+            example: "A report lists an exposed administrative interface as a high-priority finding, explains the potential consequences, provides sanitized evidence, recommends restricting access, and records the target date for remediation.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 13,
+        heading: "Security Monitoring and Incident Response",
+        slug: "security-monitoring-and-incident-response",
+        qa: [
+          {
+            id: 1,
+            question: "What Is a Security Operations Center (SOC)?",
+            answer: "A Security Operations Center (SOC) is a team, function, or facility responsible for monitoring an organization's technology for security threats. SOC analysts review alerts, investigate suspicious activity, coordinate incident response, and help improve defensive controls. A SOC may use security information and event management systems, endpoint detection tools, threat intelligence, and network monitoring. Its goal is to detect and respond to threats before they cause significant harm.",
+            example: "A SOC analyst receives an alert about repeated failed logins followed by a successful login from an unusual location and investigates whether the account has been compromised.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are Security Logs and Events?",
+            answer: "Security logs are records of activities performed by systems, applications, users, and network devices. They may record logins, permission changes, file access, firewall traffic, software errors, and administrative actions. A security event is an observable occurrence that may be relevant to security. Centralizing logs, synchronizing system clocks, restricting log access, and retaining records appropriately help analysts investigate activity and reconstruct incidents.",
+            example: "A server records repeated login failures for an administrator account. An analyst compares those entries with firewall and identity-provider logs to determine whether the attempts are suspicious.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are Indicators of Compromise (IoCs)?",
+            answer: "Indicators of Compromise (IoCs) are observable clues that may suggest a system or account has been compromised. Examples include known malicious file hashes, suspicious domain names, unusual IP addresses, unexpected persistence mechanisms, and abnormal account activity. An IoC is not always proof of an attack because some indicators may also appear during legitimate activity. Analysts combine multiple indicators with context and investigation evidence before making a conclusion.",
+            example: "An endpoint security tool detects a file hash associated with known malware. The analyst checks the file's origin, related process activity, and network connections to assess whether the device is compromised.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are the Basics of Threat Detection?",
+            answer: "Threat detection is the process of identifying activity that may indicate a cyberattack or policy violation. Detection can use rules, behavioral analytics, known threat indicators, anomaly detection, and correlations across multiple data sources. Effective detection requires reliable telemetry, well-tuned alerts, and regular testing to reduce missed threats and false positives. Analysts should investigate unusual activity in the context of normal business behavior.",
+            example: "A detection rule identifies an account downloading an unusually large number of files at an unusual time. An analyst checks whether the activity matches the user's responsibilities or requires escalation.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is SIEM in Cybersecurity?",
+            answer: "Security Information and Event Management (SIEM) is a technology that collects and analyzes security-related logs from multiple systems in one place. A SIEM can normalize events, correlate related activity, generate alerts, support investigations, and help organizations meet logging requirements. Its usefulness depends on the quality of collected data, detection rules, retention settings, and analyst workflows. A SIEM supports security operations but does not automatically identify every attack.",
+            example: "A SIEM correlates a suspicious email sign-in, a new mailbox forwarding rule, and an unusual download event, helping an analyst investigate a possible account takeover.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Are Alert Triage and Prioritization?",
+            answer: "Alert triage is the initial process of reviewing a security alert to determine its credibility, urgency, and next steps. Analysts consider the alert's severity, affected assets, user context, supporting evidence, and possible business impact. They may close a confirmed false positive, continue investigating a suspicious event, or escalate a likely incident. Clear triage procedures help teams respond quickly without treating every alert as equally serious.",
+            example: "An alert about malware on a critical server is prioritized above a low-risk policy warning on a test machine because the potential impact is greater.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is the Incident Response Lifecycle?",
+            answer: "Incident response is a coordinated process for managing cybersecurity incidents. A common lifecycle includes preparation, detection and analysis, containment, eradication, recovery, and post-incident improvement. Different frameworks organize these activities in slightly different ways, and teams may revisit stages as new evidence emerges. An effective response plan assigns responsibilities, defines escalation paths, preserves evidence, and establishes communication procedures.",
+            example: "After detecting a compromised employee account, the response team investigates the activity, limits unauthorized access, removes the cause, restores secure account access, and documents lessons learned.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Containment and Recovery in Incident Response?",
+            answer: "Containment limits the spread or impact of an active security incident, while recovery restores affected systems and services to a trusted operating state. Containment may involve isolating a device, disabling a compromised account, or blocking malicious communication. Recovery may require removing malicious changes, patching weaknesses, restoring verified backups, and monitoring systems closely. Decisions should account for business continuity, evidence preservation, and the risk of further damage.",
+            example: "A company isolates a compromised laptop from its network, investigates the incident, reinstalls the device from a trusted image, and monitors it before returning it to normal use.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Why Is Digital Evidence Preservation Important?",
+            answer: "Digital evidence preservation helps ensure that information relevant to an investigation remains reliable and available. Evidence may include logs, disk images, memory captures, emails, file metadata, and network records. Investigators should document collection methods, timestamps, handling, and access. Where required, they maintain a chain of custody and use integrity checks such as cryptographic hashes. Evidence should be collected by authorized personnel using procedures appropriate to the incident and applicable legal requirements.",
+            example: "During an investigation, an analyst exports relevant authentication logs, records when and how they were collected, calculates an integrity hash, and stores the evidence in a restricted location.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Are Post-Incident Lessons Learned?",
+            answer: "Post-incident lessons learned is a review conducted after a security incident to understand what happened, how the response worked, and what should change. The review may identify root causes, gaps in monitoring, delays in escalation, weaknesses in controls, and opportunities to improve training or procedures. The purpose is to reduce the chance and impact of future incidents rather than assign blame. Action items should have owners, deadlines, and measurable outcomes.",
+            example: "After a phishing incident, a company improves email filtering, adds alerts for suspicious sign-ins, updates its response checklist, and trains employees to report suspicious messages.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 14,
+        heading: "Cloud and Infrastructure Security",
+        slug: "cloud-and-infrastructure-security",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Cloud Security?",
+            answer: "Cloud security refers to the policies, technologies, and practices used to protect cloud-hosted data, applications, identities, and infrastructure. It includes access management, network controls, encryption, secure configuration, logging, backups, and vulnerability management. Cloud security is a shared responsibility between the cloud provider and the customer, with the exact division depending on the service model and contract.",
+            example: "A business protects its cloud-hosted application by requiring multifactor authentication, encrypting sensitive data, restricting network access, and monitoring administrative activity.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Is the Shared Responsibility Model in Cloud Security?",
+            answer: "The shared responsibility model explains which security tasks are handled by a cloud provider and which remain the customer's responsibility. Providers generally protect the underlying facilities and infrastructure, while customers remain responsible for areas such as their data, identities, permissions, and application configurations. In infrastructure services, customers often manage operating systems and more network settings; managed services shift some operational duties to the provider. The exact boundaries depend on the service.",
+            example: "When using a managed database, the provider may maintain the underlying database infrastructure, but the customer still needs to configure user permissions, protect credentials, and manage access to stored data.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is Identity and Access Management (IAM)?",
+            answer: "Identity and Access Management (IAM) controls which people, services, and applications can access cloud resources and what actions they may perform. IAM systems use identities, roles, policies, and authentication mechanisms to grant permissions. Good IAM design uses individual accounts, multifactor authentication, temporary credentials where possible, and regular access reviews. Avoiding shared administrator accounts improves accountability and reduces the impact of compromised credentials.",
+            example: "A developer receives permission to deploy an application but cannot read the finance team's confidential storage because the developer's IAM role does not grant that access.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is the Principle of Least Privilege?",
+            answer: "The principle of least privilege means granting each user, application, or service only the permissions needed to perform its assigned tasks. Permissions should be limited in scope and duration whenever practical, then reviewed as responsibilities change. This principle reduces the damage caused by compromised accounts, accidental actions, and malicious insiders. It applies to cloud resources, operating systems, databases, APIs, and administrative tools.",
+            example: "A reporting service receives read-only access to a specific dataset instead of full administrator access to the entire cloud account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "How Should Cloud Storage Permissions Be Secured?",
+            answer: "Cloud storage permissions determine who can list, read, upload, modify, or delete stored objects. Secure storage should block unintended public access, use narrowly scoped roles, protect sensitive data with encryption, and log important access events. Organizations should periodically review access policies, remove unused permissions, and use approved sharing methods. Public access should be enabled only when it is intentional, necessary, and carefully controlled.",
+            example: "A company discovers that an internal document bucket is publicly accessible. It disables unintended public access, checks access logs, and reviews similar storage resources.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "How Can Virtual Machines Be Secured?",
+            answer: "Virtual machine security involves protecting the operating system, applications, credentials, network access, and stored data inside a virtual server. Important practices include installing security updates, disabling unnecessary services, using strong authentication, restricting administrative ports, enabling endpoint protection, and collecting logs. Teams should use trusted machine images, maintain backups, and monitor configuration changes. Access should be limited to authorized administrators and required application traffic.",
+            example: "A cloud virtual machine hosting a website allows public traffic only to the required web ports while restricting remote administration to an approved access path.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Are the Basics of Container Security?",
+            answer: "Container security protects container images, running containers, orchestration platforms, secrets, and the host environment. Secure practices include using trusted and minimal images, scanning dependencies, avoiding unnecessary root privileges, keeping runtimes updated, and limiting container permissions. Secrets should be stored in appropriate secret-management systems rather than embedded in images. Container isolation is useful but should not be treated as a complete substitute for host and network security.",
+            example: "A development team scans its application image for vulnerable dependencies, runs the container as a non-root user, and restricts its access to only the services it needs.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is Cloud Network Security?",
+            answer: "Cloud network security controls how traffic moves between cloud resources and between cloud resources and external networks. Common controls include virtual networks, subnets, firewalls, security groups, network access lists, private endpoints, and secure remote access. Organizations should expose only necessary services, separate sensitive workloads, and review network rules regularly. Encryption in transit and appropriate monitoring help protect communications and detect suspicious activity.",
+            example: "A company places its database in a private subnet and allows database connections only from the application's approved security group.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Why Are Cloud Logging and Monitoring Important?",
+            answer: "Cloud logging and monitoring provide visibility into administrative actions, resource changes, access events, application behavior, and network activity. Logs help detect suspicious behavior, investigate incidents, and demonstrate compliance with internal or external requirements. Organizations should enable relevant audit logs, centralize them securely, configure useful alerts, synchronize timestamps, and set appropriate retention periods. Logging without review and response procedures may fail to detect important threats.",
+            example: "An alert is generated when an administrator changes a storage policy or disables an audit log. The security team reviews the action and confirms whether it was authorized.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Are Common Cloud Security Misconfigurations?",
+            answer: "Common cloud security misconfigurations include publicly exposed storage, overly permissive IAM roles, unrestricted administrative ports, disabled audit logging, weak authentication, exposed secrets, and unencrypted sensitive data. These issues can arise when teams use insecure defaults, copy configurations without review, or fail to remove temporary access. Prevention involves secure templates, automated configuration checks, regular reviews, least privilege, and clear ownership of cloud resources.",
+            example: "An automated cloud security check identifies an administrative service exposed to the internet. The team restricts access, investigates whether it was accessed unexpectedly, and adds a policy to prevent the configuration from returning.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 15,
+        heading: "Advanced Cyber Threats",
+        slug: "advanced-cyber-threats",
+        qa: [
+          {
+            id: 1,
+            question: "What Are Social Engineering Techniques?",
+            answer: "Social engineering is the use of deception or manipulation to persuade people to reveal information, approve actions, or provide access. Common techniques include phishing emails, fraudulent phone calls, impersonation, baiting, pretexting, and fake support requests. These attacks exploit trust, urgency, curiosity, or fear rather than relying only on technical vulnerabilities. Awareness training, independent verification, multifactor authentication, and clear reporting procedures help reduce the risk.",
+            example: "An employee receives a message pretending to be from the IT department and asking them to share a login code. The employee verifies the request through an official channel instead of sharing the code.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are Identity Theft and Account Takeover?",
+            answer: "Identity theft occurs when someone uses another person's identifying information without authorization, often for fraud or impersonation. Account takeover happens when an attacker gains control of an existing account, such as an email, banking, or social media account. These incidents may involve stolen passwords, phishing, malware, or compromised recovery methods. Protective measures include unique passwords, a password manager, multifactor authentication, secure recovery settings, and prompt review of unusual account activity.",
+            example: "A criminal obtains a person's reused password from a data breach and attempts to access their email account. A unique password and multifactor authentication can help prevent unauthorized access.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is a Denial-of-Service (DoS) Attack?",
+            answer: "A Denial-of-Service (DoS) attack attempts to make a system or service unavailable to legitimate users by overwhelming resources or exploiting a weakness. It may consume network bandwidth, server processing capacity, memory, or application connections. The impact can include slow performance, failed transactions, and service outages. Defensive measures include traffic filtering, rate limiting, resilient architecture, capacity planning, and monitoring for abnormal traffic patterns.",
+            example: "A public website receives a flood of unwanted requests that exhausts its available connections, preventing real customers from loading pages.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is a Distributed Denial-of-Service (DDoS) Attack?",
+            answer: "A Distributed Denial-of-Service (DDoS) attack is a denial-of-service attack launched from many devices or sources at the same time. Attackers may use compromised computers, servers, or internet-connected devices to generate large amounts of traffic or requests. Distributed traffic can be harder to filter than traffic from one source. Defenses may include a content delivery network, specialized DDoS protection, traffic scrubbing, rate limiting, and coordination with internet service providers.",
+            example: "An online store experiences traffic from many unrelated sources that overwhelms its web infrastructure. Its DDoS protection service filters malicious traffic while allowing legitimate shoppers to connect.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is a Man-in-the-Middle (MitM) Attack?",
+            answer: "A Man-in-the-Middle (MitM) attack occurs when an attacker secretly intercepts or interferes with communication between two parties. Depending on the circumstances, the attacker may attempt to observe data or alter messages. Risks can arise from compromised networks, fraudulent access points, or failures in authentication and encryption. Using properly configured HTTPS, validating certificates, securing Wi-Fi, and avoiding untrusted connections helps reduce the risk.",
+            example: "A user connects to a fraudulent Wi-Fi access point that attempts to imitate a legitimate network. Secure HTTPS connections and certificate validation help protect the user's communications.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a Supply Chain Attack?",
+            answer: "A supply chain attack targets an organization through a trusted supplier, software dependency, service provider, or development process. Attackers may compromise an update mechanism, insert malicious code into a dependency, steal a vendor's credentials, or misuse a third-party service. These attacks can affect many downstream organizations that trust the compromised component. Risk reduction includes supplier assessments, dependency scanning, signed updates, build-system protection, software inventories, and monitoring third-party access.",
+            example: "A software library used by many applications is compromised before release. Organizations that track dependencies and verify trusted releases can investigate exposure and update to a safe version.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is a Zero-Day Vulnerability?",
+            answer: "A zero-day vulnerability is a software or hardware weakness for which a fix is not yet available or has not yet been made available to the affected organization. The term is often used when attackers exploit such a weakness before a patch can be applied. Not every zero-day vulnerability is actively exploited. Risk reduction may involve limiting exposure, disabling affected features when practical, applying vendor mitigations, monitoring relevant activity, and installing a verified patch when available.",
+            example: "A vendor learns that attackers are exploiting a previously unknown browser flaw. Until a security update is available, administrators apply the vendor's recommended mitigations and increase monitoring.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Advanced Persistent Threats (APTs)?",
+            answer: "An Advanced Persistent Threat (APT) is a targeted cyber threat involving capable attackers who may seek long-term access to an organization or its sensitive information. Such campaigns can involve reconnaissance, credential theft, exploitation, lateral movement, and attempts to maintain access while avoiding detection. APTs are often associated with espionage or strategically motivated operations, although the term is used in different ways. Defenses include strong identity controls, network segmentation, endpoint monitoring, threat hunting, and incident response planning.",
+            example: "A security team detects repeated attempts to access sensitive research systems using compromised credentials. Investigators correlate authentication and endpoint logs to determine whether the activity is part of a prolonged intrusion.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is Threat Intelligence in Cybersecurity?",
+            answer: "Threat intelligence is analyzed information about cyber threats, attackers, their methods, indicators, targets, and likely objectives. It helps organizations understand which threats are relevant to their environment and make better security decisions. Sources may include vendor reports, trusted information-sharing groups, internal incident data, and public advisories. Intelligence should be assessed for accuracy, freshness, context, and relevance rather than treated as automatically reliable.",
+            example: "A security team receives a trusted advisory about attacks targeting a software product it uses. The team checks its asset inventory, reviews the recommended mitigations, and searches its logs for relevant indicators.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Are Emerging Cybersecurity Risks?",
+            answer: "Emerging cybersecurity risks are new or changing threats caused by evolving technology, attacker methods, and organizational practices. Examples include attacks against AI-enabled systems, deepfake-assisted fraud, insecure connected devices, cloud identity abuse, software supply chain compromise, and weaknesses in emerging computing technologies. The level of risk varies by environment and changes over time. Organizations should monitor credible advisories, evaluate new technologies before deployment, train staff, and regularly update security controls.",
+            example: "A company introduces an AI assistant that can access internal documents. Before launch, the security team evaluates permissions, data leakage risks, prompt-injection scenarios, and logging requirements.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 16,
+        heading: "Cyber Laws, Ethics and Compliance",
+        slug: "cyber-laws-ethics-and-compliance",
+        qa: [
+          {
+            id: 1,
+            question: "Why Do Cyber Laws Matter?",
+            answer: "Cyber laws are legal rules that govern the use of computers, digital devices, networks, online services, electronic records, and digital communications. They help address cybercrime, protect personal information, recognize electronic transactions, and establish responsibilities for individuals and organizations. Cyber laws also provide legal procedures for investigating digital incidents and resolving disputes. Understanding these laws helps technology professionals make responsible decisions and avoid unauthorized or unlawful activities.",
+            example: "A company collects customer information through its website. It must follow applicable privacy and data protection requirements, protect the information appropriately, and use it only for lawful purposes.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are Cybercrime and Legal Responsibility?",
+            answer: "Cybercrime involves unlawful activities carried out using computers, networks, digital devices, or online services. Examples may include unauthorized access, identity theft, online fraud, certain forms of cyberstalking, and unlawful interference with computer systems. Legal responsibility depends on the applicable law, the person's actions and intentions where relevant, and the evidence available. Individuals and organizations may also have responsibilities to protect information, report certain incidents, and cooperate with lawful investigations.",
+            example: "A person obtains another user's password without permission and uses it to access private files. Depending on the circumstances, this activity may violate applicable cybercrime and privacy laws.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are the Basics of India's Information Technology Act?",
+            answer: "India's Information Technology Act, 2000, commonly called the IT Act, provides a legal framework for electronic records and electronic signatures and addresses various computer-related offences and other digital matters. It includes provisions concerning certain unauthorized computer activities, identity-related offences, online impersonation, and the publication or transmission of specified unlawful material. Its application depends on the facts and relevant legal provisions. Section 66A was struck down by the Supreme Court in 2015 and should not be treated as a valid offence provision. Students should consult the current official legislation and relevant judgments for accurate legal interpretation.",
+            example: "If someone fraudulently uses another person's electronic identity to carry out an online transaction, investigators may examine whether relevant provisions of the IT Act and other applicable laws have been violated.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is India's Digital Personal Data Protection Framework?",
+            answer: "India's Digital Personal Data Protection Act, 2023, establishes a framework concerning the processing of digital personal data. It addresses matters such as lawful processing, obligations of data fiduciaries, rights of individuals called Data Principals, and specified responsibilities relating to personal data protection. The precise requirements, exemptions, commencement provisions, and applicable rules depend on the current legal position. Organizations should consult official government publications and obtain appropriate legal advice rather than assuming that every provision applies identically in every situation.",
+            example: "An educational platform collects students' names and contact details. Its team reviews the applicable data protection requirements, explains how the information will be used, and establishes appropriate safeguards for that data.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Are Privacy and Consent in Cybersecurity?",
+            answer: "Privacy concerns how information about people is collected, accessed, used, stored, shared, and deleted. Consent is one legal basis or mechanism for authorizing certain forms of data processing, depending on the applicable law and circumstances. Meaningful consent generally requires clear information about the purpose and relevant choices. Organizations should not assume that consent permits every use of data or replaces other legal obligations. They should collect only necessary information, restrict access, explain relevant practices, and respect applicable rights.",
+            example: "A learning website asks a student or their authorized guardian for the information required to create an account and clearly explains how that information will be used.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is Responsible Security Research?",
+            answer: "Responsible security research involves examining systems for weaknesses while respecting authorization, privacy, applicable laws, and the safety of users and services. Researchers should obtain permission before testing systems, follow the defined scope, avoid unnecessary access to sensitive information, and stop if testing creates unexpected harm. When a vulnerability is discovered, it should be reported through an appropriate security contact or disclosure program. A public bug bounty or disclosure policy does not automatically authorize testing every asset or every technique.",
+            example: "A researcher finds a possible access-control flaw on a website. They confirm that the target is within the program's scope, use minimal safe testing, and submit the finding through the approved reporting channel.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How Should Digital Evidence Be Handled and Reported?",
+            answer: "Digital evidence must be collected, preserved, documented, and handled in a way that supports its reliability and lawful use. Relevant evidence may include system logs, emails, files, network records, and forensic images. Investigators should record when, where, and how evidence was collected, who handled it, and what actions were performed. Cryptographic hashes can help verify that a file has not changed. Evidence collection should follow applicable legal procedures, organizational policies, and authorized investigation requirements.",
+            example: "During a suspected account compromise, an authorized analyst preserves relevant authentication logs, records the collection time and source, calculates an integrity hash, and stores the evidence in a restricted location.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Security Policies and Standards?",
+            answer: "Security policies are organizational rules that define how information and technology must be protected. Standards establish specific mandatory requirements, while procedures describe the steps for carrying out tasks and guidelines provide recommendations. Common policy areas include password management, acceptable technology use, data classification, access control, incident response, backup management, and remote work. Clear policies assign responsibilities, support consistent decisions, and help organizations demonstrate that security risks are being managed.",
+            example: "A company's access-control policy requires multifactor authentication for administrator accounts, while its procedure explains how administrators enroll, recover, and review their authentication methods.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is ISO 27001 and How Does It Relate to Information Security?",
+            answer: "ISO/IEC 27001 is an international standard that specifies requirements for establishing, implementing, maintaining, and continually improving an Information Security Management System (ISMS). It helps organizations manage information security risks through defined processes, risk assessment, security controls, internal audits, management reviews, and continual improvement. Certification, when obtained through an appropriate certification process, demonstrates that an organization's ISMS has been assessed against the standard's requirements. It does not guarantee that the organization will never experience a security incident.",
+            example: "A software company uses ISO/IEC 27001 as a framework for assessing security risks, controlling access to customer data, documenting incident response procedures, and reviewing its security program regularly.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "How Can You Make Ethical Decisions in Cybersecurity?",
+            answer: "Ethical decision-making in cybersecurity means choosing actions that respect authorization, privacy, honesty, safety, confidentiality, and professional responsibility. Before acting, professionals should identify the problem, understand the possible consequences, check applicable laws and policies, consult relevant stakeholders, and consider less harmful alternatives. They should document important decisions, disclose conflicts of interest, and escalate serious concerns through appropriate channels. An action that is technically possible is not automatically ethical or legally permitted.",
+            example: "A security engineer discovers that a proposed test could expose real customer records. They pause the test, notify the responsible team, and request a safer test environment containing synthetic data.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 17,
+        heading: "Digital Forensics",
+        slug: "digital-forensics",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Digital Forensics?",
+            answer: "Digital forensics is the systematic process of identifying, collecting, preserving, examining, and reporting digital evidence related to an incident or investigation. It can involve computers, mobile devices, servers, cloud services, removable storage, and network records. The goal is to understand what happened while preserving the reliability of the evidence. Investigators must follow authorized procedures, document their actions, and avoid unnecessary changes to the original data.",
+            example: "After a company suspects that confidential files were copied without permission, a forensic investigator examines authorized system logs and disk evidence to reconstruct the activity.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are the Different Types of Digital Evidence?",
+            answer: "Digital evidence includes electronic information that may help explain an incident or establish relevant facts. Examples include documents, photographs, emails, chat records, browser history, authentication logs, file metadata, memory captures, disk images, and network traffic. Evidence may be stored locally, on mobile devices, in cloud services, or with third-party providers. Investigators must consider its source, authenticity, relevance, privacy implications, and the conditions under which it was collected.",
+            example: "In a suspected phishing incident, investigators may examine the original email, message headers, authentication logs, browser records, and endpoint alerts to determine how the event occurred.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are Evidence Integrity and Chain of Custody?",
+            answer: "Evidence integrity means maintaining digital evidence in a reliable state and being able to identify unauthorized or accidental changes. Chain of custody is the documented record of who collected, transferred, accessed, stored, or examined the evidence and when those actions occurred. Investigators may calculate cryptographic hashes, use write-blocking techniques where appropriate, restrict access, and maintain secure records. These practices help establish confidence in the evidence, although the exact legal requirements depend on the investigation and jurisdiction.",
+            example: "An investigator creates a forensic image of an authorized storage device, records its cryptographic hash, documents each transfer, and compares hashes during later verification.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are File Systems and Metadata in Digital Forensics?",
+            answer: "A file system organizes how data is stored and accessed on a storage device. Common file systems include NTFS, FAT32, exFAT, ext4, and APFS. Metadata describes information about a file, such as its name, size, timestamps, ownership, and permissions. Depending on the file system and application, additional records may reveal creation, modification, access, or deletion activity. Metadata must be interpreted carefully because timestamps can be changed, affected by time zones, or altered by copying and software behavior.",
+            example: "An investigator reviews file metadata and file-system records to determine when a document may have been modified, then compares those details with relevant application logs.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is Log Analysis in Digital Forensics?",
+            answer: "Log analysis is the examination of recorded events from operating systems, applications, networks, security tools, and cloud services. Logs can reveal authentication attempts, configuration changes, application errors, file access, and network connections. Investigators normalize timestamps, correlate events across sources, and distinguish ordinary activity from suspicious behavior. Logs may be incomplete, overwritten, or affected by incorrect system clocks, so conclusions should consider these limitations and use corroborating evidence whenever possible.",
+            example: "An analyst compares VPN logs, application sign-in records, and endpoint alerts to determine whether an account was used to access a system at an unusual time.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Are the Basics of Disk Forensics?",
+            answer: "Disk forensics examines data stored on hard drives, solid-state drives, removable media, and forensic images of those devices. Investigators may analyze partitions, file-system structures, existing files, deleted-file remnants, metadata, and operating-system artifacts. A forensic image is a bit-by-bit or otherwise appropriately defined copy used for examination while preserving the original source as much as possible. Modern storage features, encryption, solid-state drive behavior, and overwritten data can limit recovery, so results must be interpreted cautiously.",
+            example: "With proper authorization, an investigator creates a forensic image of a company laptop's storage and examines the image for documents and system records relevant to a reported data leak.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is Memory Forensics?",
+            answer: "Memory forensics examines volatile data captured from a computer's RAM. Memory can contain running processes, active network connections, loaded modules, command history remnants, and other information that may disappear when the device is powered off. Investigators may use specialized tools to analyze a memory capture and identify suspicious processes or malware behavior. Because memory acquisition can change system state and may expose sensitive information, it should be performed by authorized personnel using documented procedures.",
+            example: "During a malware investigation, an authorized responder captures a workstation's memory and examines running processes to identify an unexpected program that is not obvious from files on disk.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Are Browser and Email Forensics?",
+            answer: "Browser forensics examines relevant browser artifacts, such as browsing history, downloads, cached resources, cookies, and session records, subject to available data and privacy rules. Email forensics examines message content, headers, attachments, delivery information, and related server logs. These artifacts can help investigators understand communications, possible phishing attempts, or account misuse. Investigators must consider synchronization, retention settings, private browsing, encryption, and other factors that can limit what is available.",
+            example: "A security analyst investigates a suspicious email by reviewing its headers, sender authentication results, attachment details, and relevant browser records collected through an authorized process.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is Timeline Reconstruction in Digital Forensics?",
+            answer: "Timeline reconstruction arranges relevant digital events in chronological order to help explain how an incident unfolded. Investigators correlate timestamps from file metadata, system logs, authentication records, emails, and network events. They must account for time zones, clock drift, daylight-saving differences, timestamp precision, and changes caused by copying or system processes. A timeline can support a hypothesis, but each event should be evaluated for reliability and corroborated where possible.",
+            example: "An investigator builds a timeline showing a suspicious login, access to a sensitive folder, and a large file transfer, then checks other evidence to determine whether the events are connected.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "How Do You Write a Digital Forensics Report?",
+            answer: "A digital forensics report documents the investigation in a clear, structured, and evidence-based manner. It commonly includes the objective, authorization, scope, evidence sources, collection methods, tools and versions, analysis steps, findings, limitations, and conclusions. The report should distinguish observed facts from interpretations and clearly explain uncertainty. It should also document evidence identifiers, integrity checks, and chain-of-custody information when relevant, while protecting sensitive information from unnecessary disclosure.",
+            example: "A report describes the authorized examination of a company laptop, identifies the evidence image by its recorded hash, summarizes relevant login and file events, explains the limitations, and presents conclusions supported by the collected evidence.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 18,
+        heading: "Cyber Security Programming and Automation",
+        slug: "cyber-security-programming-and-automation",
+        qa: [
+          {
+            id: 1,
+            question: "How Is Python Used in Cybersecurity?",
+            answer: "Python is a programming language commonly used to automate defensive security tasks, analyze logs, process security reports, verify file integrity, communicate with APIs, and summarize incident data. Its readable syntax and extensive libraries make it useful for building small security tools. Python scripts should validate inputs, handle errors safely, protect credentials, and operate only on authorized data and systems. Automation supports security professionals but does not replace careful analysis.",
+            example: "A Python script reads a sample authentication log, counts failed login attempts, and reports accounts that exceed a defined threshold for further review.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are Command-Line Fundamentals in Cybersecurity?",
+            answer: "The command line is a text-based interface for interacting with an operating system and running programs. Security professionals use it to inspect files, review logs, check system configuration, manage permissions, and run approved diagnostic tools. Common commands differ between Linux, macOS, and Windows. Before executing a command, users should understand its purpose, required permissions, input paths, and possible effects, especially when a command modifies or deletes data.",
+            example: "On Linux, a learner can use `pwd` to display the current directory, `ls` to list files, and `less` to inspect a sample log without editing the original file.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is Linux Shell Scripting?",
+            answer: "Linux shell scripting is the practice of combining command-line instructions into a script that automates repeated tasks. Shell scripts can check system settings, process text files, organize reports, and run scheduled defensive checks. Reliable scripts should validate arguments, quote variables, handle errors, use appropriate permissions, and avoid exposing secrets. Scripts that change system configuration should be tested in a lab and include safeguards against unintended effects.",
+            example: "A shell script checks whether a required security log exists, records its size and last modification time, and prints a warning if the log is missing.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "How Can Log Analysis Be Automated?",
+            answer: "Automated log analysis uses scripts or tools to extract useful information from event records and identify patterns that may require investigation. Common tasks include parsing timestamps, counting events, grouping by account or IP address, detecting missing fields, and identifying unusual frequencies. Automated results need context because legitimate activity can resemble suspicious behavior. Good workflows preserve source logs, record processing steps, and allow analysts to verify the original evidence.",
+            example: "A Python program processes a training log file, counts failed authentication attempts by username, and generates a summary for a security analyst to review.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "How Can Security Reports Be Parsed Automatically?",
+            answer: "Parsing security reports means extracting structured information from data such as CSV files, JSON documents, XML reports, or text output. A parser can organize asset names, finding descriptions, severity levels, timestamps, and remediation status into a consistent format. Automation reduces repetitive manual work, but scripts should handle malformed input, missing fields, encoding differences, and unexpected values. Results should be validated before being used for decisions or shared with other systems.",
+            example: "A Python script reads a JSON vulnerability report, extracts findings marked High or Critical, and creates a summary table containing the affected asset and recommended next action.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "How Can Hashing Be Used to Verify File Integrity?",
+            answer: "A cryptographic hash function converts input data into a fixed-length digest. Hashes such as SHA-256 are commonly used to check whether a file's contents have changed. If the file changes, its digest will normally change as well. Hashing can support file integrity monitoring, software verification, and evidence handling, but a hash alone does not prove that a file is trustworthy. The reference hash must come from a trusted source, and the file must be handled securely.",
+            example: "A learner calculates the SHA-256 hash of a sample report, recalculates it after copying the file, and compares the results to check whether the contents match.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How Can Python Work with Security APIs?",
+            answer: "Security APIs allow programs to request or exchange data with security products and services. Depending on the API, Python can retrieve alert summaries, look up asset information, submit approved scan results, or create incident records. Developers should read the official documentation, authenticate securely, respect rate limits, validate responses, and handle network errors. API tokens should be stored in environment variables or a secret manager rather than committed to source control.",
+            example: "A Python script uses an authorized security platform's API to retrieve recent alerts and produce a local summary for the security team.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "How Can Defensive Security Checks Be Automated?",
+            answer: "Defensive security checks can be automated to identify missing updates, weak configuration settings, unexpected file changes, expired certificates, and incomplete backups. Automation helps teams perform consistent checks at regular intervals and quickly highlight issues that need attention. Checks should use approved access, minimize operational impact, log their results, and avoid making disruptive changes without authorization. Important findings should be reviewed by a responsible person before significant remediation actions are taken.",
+            example: "A scheduled script checks whether a test server's TLS certificate is nearing expiration and sends an alert to the administrator before it expires.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "How Do You Write Safe Security Scripts?",
+            answer: "Safe security scripts are designed to protect systems and data while performing a clearly defined task. They validate inputs, limit permissions, use secure credential handling, set reasonable timeouts, record errors, and avoid destructive actions by default. Developers should test scripts using sample data, document their expected behavior, and include dry-run options for changes where practical. Scripts must not access systems outside their authorization or transmit sensitive data unnecessarily.",
+            example: "A file cleanup script first lists the files it proposes to remove and asks for explicit confirmation before deleting anything. The developer tests it using a temporary directory before wider use.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "How Can You Build a Security Automation Tool?",
+            answer: "Building a security automation tool starts with defining a specific defensive problem, the permitted data sources, expected inputs, and desired outputs. The developer then designs a small workflow, implements validation and error handling, tests with safe sample data, and documents setup and usage. Useful features may include structured logs, configuration files, clear reports, and unit tests. The tool should have narrowly scoped permissions, protect secrets, and be evaluated regularly to ensure its results remain accurate.",
+            example: "A beginner builds a file integrity checker that calculates SHA-256 hashes for selected files, stores a trusted baseline, and reports when later checks detect changes.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 19,
+        heading: "Cyber Security Tools and Labs",
+        slug: "cyber-security-tools-and-labs",
+        qa: [
+          {
+            id: 1,
+            question: "How Do You Set Up a Safe Cybersecurity Lab?",
+            answer: "A safe cybersecurity lab is an isolated environment for learning, testing, and investigating security behavior without affecting real users or production systems. It may include virtual machines, a private virtual network, sample logs, and intentionally vulnerable applications. Learners should use authorized software, take backups or snapshots, avoid exposing vulnerable services to the public internet, and use synthetic data whenever possible. Lab activities should have clear boundaries and documented goals.",
+            example: "A learner creates a private virtual network containing a Linux machine and a deliberately vulnerable practice application, then performs basic defensive tests only inside that environment.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Are Virtual Machines and Snapshots?",
+            answer: "A virtual machine is a software-based computer that runs its own operating system using resources provided by a physical host. Virtual machines allow learners to build separate environments for different security exercises. A snapshot records a virtual machine's state at a particular point, depending on the virtualization platform's capabilities, and can help restore a known starting condition. Snapshots are useful for labs but are not a substitute for independent backups or secure evidence preservation.",
+            example: "Before installing a practice application with known vulnerabilities, a learner takes a virtual machine snapshot so the lab can be returned to its original state afterward.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is Wireshark Used for in Network Analysis?",
+            answer: "Wireshark is a network protocol analyzer that captures or examines network packets and displays their protocols, fields, and communication details. It helps analysts troubleshoot connectivity, understand protocol behavior, and investigate suspicious network activity. Packet captures may contain personal information, credentials, or other sensitive data, so they should be collected only with proper authorization and stored securely. Encrypted traffic may reveal metadata even when the content cannot be read directly.",
+            example: "A student captures traffic from their own lab network and uses Wireshark to identify DNS queries and observe the sequence of a normal web connection.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is Nmap Used for in Authorized Network Discovery?",
+            answer: "Nmap is a network discovery and security auditing tool that can identify hosts, discover accessible network services, and gather information about ports and service versions. Administrators use it to maintain asset inventories and verify that systems expose only intended services. Scans can generate traffic or trigger security alerts, so targets and permitted methods should be agreed upon beforehand. Learners should practice against their own lab systems or other explicitly authorized targets.",
+            example: "A learner scans a private lab virtual machine to determine which services are accessible, then compares the results with the services the machine is expected to provide.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is Burp Suite Used for in Web Security Testing?",
+            answer: "Burp Suite is a toolkit for examining and testing web application security. It can help testers inspect HTTP requests and responses, understand application behavior, and assess issues such as access-control weaknesses and insecure input handling. Some features actively modify requests or perform automated testing, so they must be used only against authorized applications within the approved scope. Beginners should start with training environments and learn how to interpret findings before relying on automated results.",
+            example: "A student uses Burp Suite with an intentionally vulnerable local web application to inspect how a form sends data and understand how the server responds to different valid test inputs.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is OWASP ZAP Used for in Web Testing?",
+            answer: "OWASP ZAP, or Zed Attack Proxy, is an open-source tool that helps developers and security testers find potential vulnerabilities in web applications. It can inspect HTTP traffic, explore application pages, and run passive or active security checks. Passive checks examine observed traffic, while active testing sends additional requests that may affect the target. Active scans should be restricted to authorized test systems, and results should be validated because scanners can produce false positives and miss some issues.",
+            example: "A developer runs OWASP ZAP against a local test application to identify missing security headers and then reviews the results before changing the application's configuration.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Linux Security Utilities Should Beginners Learn?",
+            answer: "Linux provides utilities that help administrators inspect users, permissions, running processes, network connections, installed packages, and system logs. Tools such as `id`, `ps`, `ss`, `journalctl`, and package-manager security features can support routine defensive checks. The available commands and options vary by distribution and system configuration. Users should understand command effects, apply the minimum necessary privileges, and avoid running unfamiliar commands copied from untrusted sources.",
+            example: "On a Linux lab machine, a learner uses `id` to inspect the current account, `ps` to review running processes, and `journalctl` to examine relevant system events.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Which Tools Can Be Used for Security Log Analysis?",
+            answer: "Security log analysis can use basic text-processing utilities, dedicated log viewers, SIEM platforms, and programming libraries. Tools such as `grep`, `awk`, and Python can help filter and summarize sample logs, while centralized platforms correlate events from many systems. Tool choice depends on data volume, log format, retention requirements, and investigation goals. Analysts should preserve original logs, validate parsing rules, and protect any sensitive information contained in the records.",
+            example: "A learner filters a sample authentication log for failed login events and then groups the results by account to identify patterns that may deserve investigation.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are Vulnerable Practice Applications?",
+            answer: "Vulnerable practice applications are intentionally designed with security weaknesses so learners can study how those weaknesses occur and how to fix them. Examples include OWASP Juice Shop, WebGoat, and other purpose-built training environments. They help students explore issues such as broken access control, insecure input handling, and configuration errors in a controlled setting. These applications should be kept isolated and should never be exposed publicly without appropriate safeguards.",
+            example: "A learner uses OWASP Juice Shop in a local lab to study an access-control weakness, document the behavior, and implement or describe the corresponding defensive fix.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "How Should You Document Cybersecurity Lab Results?",
+            answer: "Lab documentation records the exercise objective, environment, tools and versions, authorized target, test steps, observations, findings, and lessons learned. It should distinguish expected behavior from unexpected results and include sanitized screenshots or logs when useful. Clear documentation makes experiments reproducible and helps learners communicate technical findings. Reports should avoid exposing passwords, tokens, personal data, or details about systems that were not part of the authorized exercise.",
+            example: "After a local web security exercise, a student records the application's version, the observed weakness, the evidence, its potential impact, and the recommended fix in a short report.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 20,
+        heading: "Enterprise Security and Risk Management",
+        slug: "enterprise-security-and-risk-management",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Information Security Risk?",
+            answer: "Information security risk is the possibility that a threat will exploit a weakness and cause harm to information, systems, operations, or an organization. Risk can affect confidentiality, integrity, availability, legal obligations, finances, and reputation. It depends on factors such as the likelihood of an event, the impact it could cause, the value of the affected asset, and the effectiveness of existing controls. Organizations use risk assessment to decide where protection and resources are most needed.",
+            example: "A company stores customer records in a database with weak access controls. Unauthorized disclosure is a potential risk because the weakness could expose sensitive information and create financial or legal consequences.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "How Is Information Security Risk Identified and Assessed?",
+            answer: "Risk identification involves finding important assets, possible threats, vulnerabilities, existing controls, and events that could cause harm. Risk assessment then estimates likelihood and impact using a consistent method, which may be qualitative, quantitative, or a combination of both. The results help organizations prioritize treatment options such as reducing, avoiding, transferring, or accepting a risk. Assessments should be updated when systems, threats, business needs, or legal requirements change.",
+            example: "A business identifies that a critical service depends on one server without a tested backup. It evaluates the impact of server failure and prioritizes a recovery solution based on business needs.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Are Security Controls?",
+            answer: "Security controls are safeguards designed to prevent, detect, or respond to threats and reduce information security risk. Administrative controls include policies, training, and procedures. Technical controls include multifactor authentication, encryption, firewalls, and endpoint protection. Physical controls include locks, access badges, and secure equipment rooms. Organizations often combine several types of controls because no single safeguard can prevent every incident. Controls should be monitored and tested to confirm they work as intended.",
+            example: "A company protects administrator accounts using multifactor authentication, limits permissions through access policies, and reviews login alerts to detect suspicious activity.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Are Identity Governance and Access Reviews?",
+            answer: "Identity governance is the set of processes used to manage digital identities, access rights, and accountability across an organization. Access reviews check whether users and services still need the permissions they have been granted. Effective governance includes timely account creation and removal, role-based permissions, separation of duties, approval workflows, and periodic reviews. Removing unnecessary privileges reduces the risk of accidental misuse, insider threats, and damage from compromised accounts.",
+            example: "During a quarterly access review, a manager confirms that employees still need their assigned application roles and requests removal of access for a former team member.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is Endpoint Detection and Response (EDR)?",
+            answer: "Endpoint Detection and Response (EDR) is a security capability that monitors endpoint devices such as laptops, desktops, and servers to detect suspicious activity and support investigation and response. EDR tools may collect process information, file activity, network connections, and security events. Depending on the product and configuration, they may alert analysts, isolate a device, or support other response actions. EDR complements rather than replaces patching, access controls, backups, and user awareness.",
+            example: "An EDR system detects an unusual process launching on a company laptop, alerts the security team, and helps an authorized responder investigate and isolate the device if necessary.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Why Is Security Awareness Training Important?",
+            answer: "Security awareness training helps employees recognize threats and follow safe practices when using organizational technology. Training may cover phishing, password security, multifactor authentication, data handling, device protection, social engineering, and incident reporting. Effective programs use relevant examples, reinforce learning over time, and make it easy to report suspicious activity without fear of unfair blame. Training should be evaluated and updated as risks and working practices change.",
+            example: "Employees learn how to recognize a suspicious email, verify unusual payment requests through a trusted channel, and report potential phishing messages to the security team.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is Business Continuity Planning?",
+            answer: "Business continuity planning prepares an organization to maintain or restore critical business activities during disruptions. Disruptions may result from cyberattacks, power failures, natural disasters, supplier problems, or human error. A continuity plan identifies essential services, dependencies, responsibilities, communication channels, and alternative operating arrangements. Organizations should define recovery priorities, test the plan, and update it as their systems and business requirements change.",
+            example: "If an office loses access to its primary location, a business continuity plan helps staff continue essential customer support using approved remote-work arrangements and alternative systems.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is Disaster Recovery in Information Technology?",
+            answer: "Disaster recovery is the process of restoring technology systems, data, and services after a major disruption. It commonly includes backup strategies, recovery procedures, alternate infrastructure, system dependencies, and recovery testing. Two important measures are the Recovery Time Objective (RTO), which defines the target time to restore a service, and the Recovery Point Objective (RPO), which defines the acceptable amount of data loss measured in time. Recovery plans should be tested rather than assumed to work.",
+            example: "An online store defines a four-hour recovery time objective for a critical service and a fifteen-minute recovery point objective for its transaction data, then tests whether its backup and restoration process meets those targets.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Are Security Audits and Assessments?",
+            answer: "Security audits and assessments evaluate whether an organization's security controls, processes, and practices meet defined requirements or manage identified risks effectively. An audit often examines evidence against specified criteria, while an assessment may focus more broadly on weaknesses, exposure, or control effectiveness. Activities may include reviewing policies, inspecting configurations, interviewing staff, analyzing logs, and testing selected controls. Findings should be documented, prioritized, assigned to responsible owners, and followed through to completion.",
+            example: "An internal security audit checks whether administrator access is approved and reviewed regularly, then records missing approvals and recommends corrective actions.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "How Do You Create an Enterprise Security Plan?",
+            answer: "An enterprise security plan is a coordinated roadmap for protecting an organization's information, systems, people, and operations. It should align with business goals and include asset identification, risk assessment, security policies, technical controls, staff responsibilities, incident response, continuity planning, compliance needs, and ongoing measurement. The plan should establish priorities, budgets, owners, milestones, and review schedules. Senior leadership support and regular evaluation help ensure that security remains an ongoing organizational responsibility.",
+            example: "A company develops a security plan that prioritizes multifactor authentication, patch management, tested backups, employee training, centralized logging, and quarterly progress reviews based on its most significant risks.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 21,
+        heading: "Cyber Security Projects and Career Readiness",
+        slug: "cyber-security-projects-and-career-readiness",
+        qa: [
+          {
+            id: 1,
+            question: "How Do You Build a Password Strength Checker?",
+            answer: "A password strength checker estimates how resistant a password may be to guessing based on characteristics such as length, variety, common patterns, and whether it appears in a list of known compromised passwords. A useful project should avoid storing or transmitting real passwords and should explain that simple character rules alone cannot guarantee security. Passwords should be unique, long, and generated or stored with a trusted password manager. Authentication systems must store passwords using appropriate salted password-hashing algorithms rather than plain text.",
+            example: "A beginner creates a local password-strength checker that gives feedback about password length and common patterns without saving the password or sending it to a server.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "How Do You Create a Phishing Awareness Quiz?",
+            answer: "A phishing awareness quiz teaches people to recognize suspicious messages, misleading links, unexpected attachments, impersonation, and urgent requests for sensitive information. The project can present fictional email examples and ask learners to identify warning signs and choose a safe response. Feedback should explain why each answer is correct and how to report suspicious messages. A training quiz should avoid collecting real passwords or exposing learners to active malicious content.",
+            example: "A learner builds a quiz containing a fictional delivery notification and a fake password-reset email, then explains how to verify the sender and navigate to the official website independently.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "How Do You Build a File Integrity Checker?",
+            answer: "A file integrity checker calculates cryptographic hashes for selected files and compares them with a trusted baseline recorded earlier. If a later hash differs, the tool reports that the file's contents may have changed. Such changes are not automatically malicious, so users should investigate the reason. A good implementation uses a reliable algorithm such as SHA-256, handles file-reading errors, protects its baseline, and records when checks were performed.",
+            example: "A Python project stores SHA-256 hashes for selected sample files and later reports which files have changed since the baseline was created.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "How Can You Analyze Sample Security Logs?",
+            answer: "A security log analysis project processes sample event records to identify patterns such as repeated login failures, unusual activity times, or unexpected configuration changes. It should parse timestamps and relevant fields, handle incomplete records, and generate a clear summary. Findings are clues rather than automatic proof of an attack, so the tool should preserve source data and explain its detection rules. Using synthetic or sanitized logs protects real user information.",
+            example: "A student writes a Python script that counts failed logins in a sample authentication file and flags accounts with unusually high counts for manual review.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "How Do You Create a Home Network Security Checklist?",
+            answer: "A home network security checklist helps users review the configuration of their router, Wi-Fi, connected devices, and internet-facing services. It may cover changing default administrator credentials, enabling modern Wi-Fi encryption, updating firmware, disabling unnecessary remote administration, creating a guest network, and checking connected devices. The checklist should be adapted to the router model and household needs. Users should avoid changing settings they do not understand without consulting reliable instructions.",
+            example: "A student creates a checklist that reminds family members to update router firmware, use a unique Wi-Fi password, review connected devices, and disable unused features.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "How Do You Perform a Safe Website Security Review?",
+            answer: "A safe website security review checks a website for common defensive issues within a clearly authorized scope. It may include reviewing HTTPS configuration, security headers, access controls, dependency versions, error handling, authentication settings, and privacy practices. Testers should use a staging environment where possible, avoid destructive tests, and protect any data encountered. Automated scan results should be verified, and findings should include evidence, impact, and practical remediation advice.",
+            example: "A developer reviews their own staging website, confirms that HTTPS works correctly, checks security headers, and verifies that users cannot access another user's private records.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How Do You Write a Mock Incident Response Report?",
+            answer: "A mock incident response report documents a simulated security incident for training or portfolio purposes. It should describe the scenario, timeline, affected systems, detection method, investigation steps, containment actions, recovery activities, and lessons learned. The report should distinguish assumed scenario details from observed test evidence. It can also include severity, communications, outstanding risks, and recommendations for improving security controls without using real confidential information.",
+            example: "A student simulates a phishing-related account compromise and writes a report explaining the detection, account containment, credential reset, log review, and improvements to multifactor authentication.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "How Do You Build a Basic Cybersecurity Dashboard?",
+            answer: "A cybersecurity dashboard presents important security information in a clear visual format to help users monitor trends and investigate issues. It may show failed logins, open findings by severity, patch status, endpoint alerts, backup status, or incident response times. A good dashboard uses clearly defined metrics, reliable data sources, access controls, and appropriate refresh intervals. It should avoid exposing sensitive details to unauthorized users and should distinguish confirmed incidents from unverified alerts.",
+            example: "A beginner builds a dashboard from synthetic security data showing alert counts, unresolved high-severity findings, and the number of systems with overdue updates.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "How Do You Create a Cybersecurity Portfolio?",
+            answer: "A cybersecurity portfolio demonstrates practical skills, problem-solving ability, documentation quality, and an understanding of responsible security practices. It can include lab reports, defensive scripts, log-analysis projects, security checklists, incident simulations, and lessons learned from authorized practice environments. Each project should explain the problem, tools used, methodology, results, limitations, and improvements. Never publish real credentials, confidential evidence, personal data, or information about systems tested without permission.",
+            example: "A job seeker publishes a repository containing a file integrity checker, sanitized screenshots from a local lab, a sample incident report, and clear instructions for reproducing the results safely.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Are Common Cybersecurity Careers and Certifications?",
+            answer: "Cybersecurity offers career paths such as Security Operations Center (SOC) analyst, security engineer, incident responder, digital forensics analyst, penetration tester, cloud security specialist, governance-risk-compliance analyst, and security architect. Relevant skills depend on the role and may include networking, Linux, scripting, identity management, log analysis, incident response, and risk assessment. Certifications can help demonstrate structured learning, but practical skills, communication, ethical judgment, and project evidence are also important. Learners should compare certification requirements, costs, and employer expectations before choosing a path.",
+            example: "A beginner interested in defensive security studies networking and Linux, practices analyzing sample logs in a lab, builds a small portfolio, and then considers an entry-level security certification aligned with SOC analyst roles.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 5,
+    topic: "Cyber Safety",
+    slug: "cyber-safety",
+    emoji: "🔒",
+    color: "orange",
+    level: "Level 5",
+    classes: "Class 9+",
+    description: "Learn how to protect your data, create strong passwords, avoid online scams, and stay safe online.",
+    topics: [
+      {
+        id: 1,
+        heading: "Cybersecurity Fundamentals",
+        slug: "cybersecurity-fundamentals",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Cybersecurity?",
+            answer: "Cybersecurity is the practice of protecting computers, networks, and data from hackers, viruses, and other digital dangers.",
+            example: "Using antivirus software to protect your computer from harmful programs.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Why Is Cybersecurity Important?",
+            answer: "Cybersecurity is important because it protects our personal information, money, devices, and online accounts from digital attacks.",
+            example: "A strong password helps protect your email account from unauthorized access.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is Online Safety?",
+            answer: "Online safety means using the internet carefully to protect yourself from scams, strangers, harmful websites, and privacy risks.",
+            example: "Never share your home address with an unknown person online.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Cybersecurity vs. Online Safety",
+            answer: "Cybersecurity focuses on protecting devices, networks, and data, while online safety focuses on protecting people and their information when using the internet.",
+            example: "Installing antivirus is cybersecurity, while avoiding suspicious messages is online safety.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is Digital Security?",
+            answer: "Digital security means protecting digital devices, accounts, files, and information from unauthorized access, loss, or misuse.",
+            example: "Using two-factor authentication to add extra protection to your account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is Data?",
+            answer: "Data is information stored or used by a computer. It can include text, numbers, pictures, videos, and sounds.",
+            example: "A student's name, roll number, marks, and photograph are examples of data.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is Personal Information?",
+            answer: "Personal information is information that identifies you or reveals details about your life, such as your full name, address, phone number, or passwords.",
+            example: "Your home address and phone number are personal information that you should protect online.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is a Cyber Threat?",
+            answer: "A cyber threat is anything that could harm a computer, network, account, or digital information.",
+            example: "A fake email containing a dangerous link is a possible cyber threat.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is a Cyberattack?",
+            answer: "A cyberattack is an attempt to access, damage, disrupt, or steal information from a computer, network, or online account without permission.",
+            example: "Someone trying to break into a school's computer system to steal student records is carrying out a cyberattack.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Who Is a Hacker?",
+            answer: "A hacker is a person who uses technical skills to explore computer systems and networks. Hackers may work legally to improve security or illegally to cause harm.",
+            example: "A security expert tests a company's website with permission to find weaknesses.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "Types of Hackers: White Hat, Black Hat, Grey Hat",
+            answer: "White hat hackers work with permission to improve security. Black hat hackers break into systems for harmful or illegal purposes. Grey hat hackers may find weaknesses without permission but do not always intend harm.",
+            example: "A white hat hacker tests a company's website with permission, while a black hat hacker steals its data. A grey hat hacker may discover a weakness without authorization.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "What Is Ethical Hacking?",
+            answer: "Ethical hacking is the authorized testing of computers, networks, or websites to find security weaknesses and help fix them.",
+            example: "A company hires an ethical hacker to test its website and report security problems before criminals can exploit them.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 2,
+        heading: "Passwords and Account Security",
+        slug: "passwords-account-security",
+        qa: [
+          {
+            id: 1,
+            question: "What Is a Password?",
+            answer: "A password is a secret combination of letters, numbers, and symbols used to protect an account, device, or file.",
+            example: "You enter your password to sign in to your email account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Makes a Password Strong?",
+            answer: "A strong password is long, unique, and difficult to guess. It should not contain easily guessed details like your name or birthday.",
+            example: "A long, unique password such as `River!Cloud7Maple#29` is harder to guess than `12345678`.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Strong vs. Weak Passwords",
+            answer: "A weak password is short, common, or easy to guess. A strong password is long, unique, and difficult for others to discover.",
+            example: "Weak: `password123`. Strong: a long, randomly generated password that you do not use anywhere else.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Why Should Passwords Be Secret?",
+            answer: "Passwords should be secret because anyone who knows your password may be able to access your account and personal information.",
+            example: "Do not tell your social media password to strangers or share it in public chats.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Why Should We Not Reuse Passwords?",
+            answer: "Using the same password for many accounts is risky. If one account is hacked, criminals may try that password on your other accounts.",
+            example: "Use different passwords for your email, gaming account, and school account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a Passphrase?",
+            answer: "A passphrase is a password made from several words. A long, unusual passphrase can be easier to remember and difficult to guess.",
+            example: "A phrase made from several unrelated words, such as `Mango-Rocket-Library!84`, can be used as a memorable passphrase.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is a Password Manager?",
+            answer: "A password manager is a tool that securely stores passwords and helps create strong, unique passwords for different accounts.",
+            example: "A password manager can save your website passwords so you do not need to remember each one.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is Two-Factor Authentication (2FA)?",
+            answer: "Two-factor authentication adds a second verification step after your password. It helps protect your account even if someone learns your password.",
+            example: "You enter your password and then approve a sign-in using an authenticator app.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is Multi-Factor Authentication (MFA)?",
+            answer: "Multi-factor authentication uses two or more different types of verification to confirm your identity, such as something you know, something you have, or something you are.",
+            example: "Signing in with a password and a fingerprint uses two different types of verification.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Is a One-Time Password (OTP)?",
+            answer: "A one-time password (OTP) is a temporary code used to verify your identity. It usually works once or for a short period.",
+            example: "A banking app may send a temporary code to verify a transaction.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "Why Must We Never Share an OTP?",
+            answer: "You should never share an OTP with another person because a scammer may use it to access your account or approve an action. Only enter it in the official service when you initiated the request.",
+            example: "If a caller asks for your bank OTP, do not tell them the code, even if they claim to be a bank employee.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "What Is Biometric Authentication?",
+            answer: "Biometric authentication uses a person's physical or behavioral characteristics to verify their identity.",
+            example: "A phone may use your fingerprint or face to unlock the screen.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 13,
+            question: "Fingerprint and Face Unlock",
+            answer: "Fingerprint unlock checks the pattern of your fingerprint, while face unlock checks features of your face to help verify your identity.",
+            example: "You can unlock a supported smartphone by placing your registered finger on its sensor or using its face recognition feature.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 14,
+            question: "How to Secure an Online Account",
+            answer: "Secure an online account by using a unique, strong password, enabling two-factor authentication, keeping recovery details updated, and avoiding suspicious links.",
+            example: "Protect your email with a unique password and an authenticator app, and review the devices signed in to your account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 15,
+            question: "What to Do if an Account Is Hacked",
+            answer: "If your account is hacked, use the official website or app to change your password, secure your recovery email and phone, sign out unknown devices, and enable two-factor authentication. Contact the service's official support if you cannot sign in.",
+            example: "If someone takes over your social media account, use its official account recovery page and warn your contacts not to trust suspicious messages from it.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 3,
+        heading: "Phishing, Scams and Social Engineering",
+        slug: "phishing-scams-social-engineering",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Phishing?",
+            answer: "Phishing is a type of online scam in which criminals pretend to be trusted people or organizations to steal passwords, money, or personal information.",
+            example: "You receive a message pretending to be from your bank that asks you to click a link and enter your password.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Is Email Phishing?",
+            answer: "Email phishing happens when scammers send fake emails that look like they come from trusted companies, banks, or people to trick you into sharing information or clicking harmful links.",
+            example: "You receive an email claiming your account will be blocked unless you verify your password through an unfamiliar link.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is SMS Phishing (Smishing)?",
+            answer: "Smishing is a scam carried out through text messages or SMS. Scammers use fake messages to steal personal information, money, or account details.",
+            example: "You receive a text saying your parcel is delayed and asking you to pay a small fee through a suspicious link.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is Voice Phishing (Vishing)?",
+            answer: "Vishing is a scam in which criminals use phone calls or voice messages to trick people into revealing private information or sending money.",
+            example: "A caller pretends to be a bank employee and asks you to share your OTP. You should never share it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is a Fake Website?",
+            answer: "A fake website is a website designed to deceive visitors. It may copy a real website to steal passwords, payment details, or personal information.",
+            example: "A shopping website offers a very expensive phone at an unbelievable price and asks you to pay before checking its authenticity.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a Suspicious Link?",
+            answer: "A suspicious link is a web link that may lead to a scam, a fake website, or a harmful download. Unusual spellings, unexpected messages, and unfamiliar domains can be warning signs.",
+            example: "A message claims to be from a popular website but contains a misspelled domain name.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How to Identify Scam Messages",
+            answer: "Scam messages may contain unexpected requests for money, urgent warnings, suspicious links, spelling mistakes, or promises that seem too good to be true. Always verify the message through an official channel.",
+            example: "A message says you must pay immediately to avoid losing a prize you never entered to win.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Fake Prize and Lottery Scams",
+            answer: "A fake prize or lottery scam tells you that you have won something you never entered to win. The scammer may ask for money, bank details, or personal information to claim the prize.",
+            example: "You receive a message saying you won ₹10 lakh but must first pay a processing fee. Do not pay or share your details.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Fake Job and Scholarship Scams",
+            answer: "Fake job and scholarship scams use false offers to trick people into paying fees or sharing personal information. Be careful of guaranteed jobs, scholarships, or selection without a proper process.",
+            example: "A fake recruiter promises a job but asks you to pay a large registration fee to receive an offer letter.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Online Shopping Scams",
+            answer: "Online shopping scams involve fake sellers, misleading product listings, counterfeit goods, or payment tricks that cause buyers to lose money or receive nothing.",
+            example: "An unknown online store advertises a laptop at an extremely low price and disappears after receiving payment.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "Impersonation and Fake Profiles",
+            answer: "Impersonation happens when someone pretends to be another person or organization. Fake profiles may use stolen photos or copied information to deceive people.",
+            example: "A fake social media account copies your friend's photo and asks you to send money urgently. Contact your friend through another trusted method to verify.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "What Is Social Engineering?",
+            answer: "Social engineering is a trick used to manipulate people into revealing confidential information, giving access, or performing unsafe actions.",
+            example: "Someone pretends to be a technical support worker and asks for your password to supposedly fix your computer.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 13,
+            question: "Why Do Scammers Create Urgency?",
+            answer: "Scammers create urgency to make people feel afraid or excited and act without checking the facts. They may claim that an account will close or an offer will expire soon.",
+            example: "A message says, 'Your account will be blocked in five minutes!' Instead of clicking its link, check your account through the official app or website.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 14,
+            question: "How to Verify a Message",
+            answer: "To verify a message, check the sender carefully, examine the website address, avoid unexpected links, and contact the organization using its official app, website, or phone number. Never share passwords or OTPs to verify a message.",
+            example: "If you receive a bank alert, open your bank's official app directly instead of clicking the link in the message.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 15,
+            question: "What to Do After Clicking a Suspicious Link",
+            answer: "Close the suspicious page and do not enter personal details or download anything. If you entered a password, change it immediately using the official website and secure affected accounts. If you installed a file, run a security scan. Contact your bank immediately if payment details or money may be at risk.",
+            example: "If you entered your email password on a fake website, use the official email service to change it, sign out unknown sessions, and enable two-factor authentication.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 4,
+        heading: "Passwords and Account Security",
+        slug: "passwords-account-security",
+        qa: [
+          {
+            id: 1,
+            question: "What Is a Password?",
+            answer: "A password is a secret combination of letters, numbers, and symbols used to protect an account, device, or file.",
+            example: "You enter your password to sign in to your email account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Makes a Password Strong?",
+            answer: "A strong password is long, unique, and difficult to guess. Avoid using your name, birthday, or common words.",
+            example: "A long, unique password such as `River!Cloud7Maple#29` is harder to guess than `12345678`.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Strong vs. Weak Passwords",
+            answer: "A weak password is short, common, or easy to guess. A strong password is long, unique, and difficult for others to discover.",
+            example: "Weak: `password123`. Strong: a long, randomly generated password that you do not use on other accounts.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Why Should Passwords Be Secret?",
+            answer: "Passwords should be kept secret because anyone who knows your password may be able to access your account and personal information.",
+            example: "Never share your email password with strangers or post it in a public chat.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Why Should We Not Reuse Passwords?",
+            answer: "Using the same password for many accounts is risky. If one account is hacked, criminals may try that password on your other accounts.",
+            example: "Use different passwords for your email, gaming account, and school account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a Passphrase?",
+            answer: "A passphrase is a password made from several words. A long, unusual passphrase can be easier to remember and harder to guess.",
+            example: "A phrase such as `Mango-Rocket-Library!84` can be used as a memorable passphrase. Choose your own unique phrase.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is a Password Manager?",
+            answer: "A password manager is a tool that securely stores passwords and can generate strong, unique passwords for different accounts.",
+            example: "A password manager can save your website passwords so you do not have to remember each one.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is Two-Factor Authentication (2FA)?",
+            answer: "Two-factor authentication adds a second verification step after your password. It helps protect your account even if someone learns your password.",
+            example: "You enter your password and then approve the sign-in using an authenticator app.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is Multi-Factor Authentication (MFA)?",
+            answer: "Multi-factor authentication uses two or more different types of verification to confirm your identity, such as something you know, something you have, or something you are.",
+            example: "Signing in with a password and verifying your identity with a fingerprint uses two different types of verification.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Is a One-Time Password (OTP)?",
+            answer: "A one-time password (OTP) is a temporary code used to verify your identity. It usually works once or for a short time.",
+            example: "A banking app may send a temporary code to verify a transaction.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "Why Must We Never Share an OTP?",
+            answer: "You should never share an OTP with another person because a scammer may use it to access your account or approve an action. Enter it only on the official service when you initiated the request.",
+            example: "If a caller claims to be from your bank and asks for your OTP, do not reveal it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "What Is Biometric Authentication?",
+            answer: "Biometric authentication uses a person's physical or behavioral characteristics to verify their identity.",
+            example: "A smartphone may use your fingerprint or face to unlock the screen.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 13,
+            question: "Fingerprint and Face Unlock",
+            answer: "Fingerprint unlock checks the pattern of your fingerprint, while face unlock checks features of your face to help verify your identity.",
+            example: "You can unlock a supported smartphone using your registered fingerprint or its face recognition feature.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 14,
+            question: "How to Secure an Online Account",
+            answer: "Secure an online account by using a strong, unique password, enabling two-factor authentication, updating recovery details, and avoiding suspicious links.",
+            example: "Protect your email with a unique password and an authenticator app, and review the devices signed in to your account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 15,
+            question: "What to Do if an Account Is Hacked",
+            answer: "If your account is hacked, change your password using the official website, secure your recovery email and phone, sign out unknown devices, and enable two-factor authentication. Contact official support if you cannot sign in.",
+            example: "If someone takes over your social media account, use its official recovery page and warn your contacts about suspicious messages from that account.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 5,
+        heading: "Phishing, Scams and Social Engineering",
+        slug: "phishing-scams-social-engineering",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Phishing?",
+            answer: "Phishing is an online scam in which criminals pretend to be trusted people or organizations to steal passwords, money, or personal information.",
+            example: "You receive a fake bank message asking you to click a link and enter your password.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Is Email Phishing?",
+            answer: "Email phishing happens when scammers send fake emails that look like they come from trusted companies, banks, or people to steal information or trick you into clicking harmful links.",
+            example: "You receive an email claiming your account will be blocked unless you verify your password through an unfamiliar link.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is SMS Phishing (Smishing)?",
+            answer: "Smishing is a scam carried out through text messages. Scammers use fake messages to steal personal information, money, or account details.",
+            example: "You receive a text saying your parcel is delayed and asking you to pay a fee through a suspicious link.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is Voice Phishing (Vishing)?",
+            answer: "Vishing is a scam in which criminals use phone calls or voice messages to trick people into sharing private information or sending money.",
+            example: "A caller pretends to be a bank employee and asks you to reveal your OTP.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is a Fake Website?",
+            answer: "A fake website is designed to deceive visitors. It may copy a real website to steal passwords, payment details, or personal information.",
+            example: "A fake shopping website offers an expensive phone at an unbelievable price and asks you to pay immediately.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a Suspicious Link?",
+            answer: "A suspicious link is a web link that may lead to a scam, a fake website, or a harmful download. Unusual spellings, unfamiliar domains, and unexpected messages can be warning signs.",
+            example: "You receive a message claiming to be from a popular website, but the link contains a misspelled website name.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How to Identify Scam Messages",
+            answer: "Scam messages may contain urgent warnings, suspicious links, unexpected requests for money, or promises that seem too good to be true. Verify the message through an official channel before taking action.",
+            example: "A message says you must pay immediately to claim a prize you never entered to win.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Fake Prize and Lottery Scams",
+            answer: "A fake prize or lottery scam claims you have won something you never entered to win. The scammer may ask for money or personal information to release the prize.",
+            example: "You receive a message saying you won ₹10 lakh but must first pay a processing fee. Do not pay or share your details.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Fake Job and Scholarship Scams",
+            answer: "Fake job and scholarship scams use false offers to trick people into paying fees or sharing personal information. Be careful of guaranteed jobs, scholarships, or selection without a genuine process.",
+            example: "A fake recruiter promises you a job but demands a large registration fee before sending an offer letter.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Online Shopping Scams",
+            answer: "Online shopping scams involve fake sellers, misleading product listings, or payment tricks that cause buyers to lose money or receive nothing.",
+            example: "An unknown online store advertises a laptop at an extremely low price and disappears after receiving payment.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "Impersonation and Fake Profiles",
+            answer: "Impersonation happens when someone pretends to be another person or organization. Fake profiles may use stolen photos or copied details to deceive people.",
+            example: "A fake social media account copies your friend's photo and asks you to send money urgently. Verify the request directly with your friend.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "What Is Social Engineering?",
+            answer: "Social engineering is a technique used to manipulate people into revealing confidential information, giving access, or performing unsafe actions.",
+            example: "Someone pretends to be a technical support worker and asks for your password to supposedly repair your computer.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 13,
+            question: "Why Do Scammers Create Urgency?",
+            answer: "Scammers create urgency to make people feel afraid or excited and act without checking the facts. They may claim that an account will close or an offer will expire soon.",
+            example: "A message says your account will be blocked in five minutes. Instead of clicking its link, check your account through the official app or website.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 14,
+            question: "How to Verify a Message",
+            answer: "To verify a message, check the sender carefully, examine the website address, and contact the organization using its official app, website, or phone number. Never share passwords or OTPs to verify a message.",
+            example: "If you receive a bank alert, open your bank's official app directly instead of clicking the link in the message.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 15,
+            question: "What to Do After Clicking a Suspicious Link",
+            answer: "Close the suspicious page and do not enter personal details or download anything. If you entered a password, change it immediately through the official website and secure your account. If you downloaded a file, run a security scan. Contact your bank immediately if your payment details or money may be at risk.",
+            example: "If you entered your email password on a fake website, change it using the official email service, sign out unknown sessions, and enable two-factor authentication.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 6,
+        heading: "Cyber bullying and Responsible Internet Use",
+        slug: "cyber bullying-responsible-internet-use",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Cyberbullying?",
+            answer: "Cyberbullying is when someone uses the internet or digital devices to bully, hurt, embarrass, or threaten another person repeatedly.",
+            example: "A student repeatedly sends cruel messages to a classmate in a school group chat.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Examples of Cyberbullying",
+            answer: "Cyberbullying can include sending hurtful messages, spreading rumors online, sharing embarrassing photos without permission, or creating fake accounts to insult someone.",
+            example: "A person posts an embarrassing picture of a classmate online to make others laugh at them.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is Online Harassment?",
+            answer: "Online harassment is unwanted behavior on the internet that threatens, insults, frightens, or repeatedly disturbs someone.",
+            example: "Someone repeatedly sends abusive messages to another person even after being asked to stop.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is a Fake Online Identity?",
+            answer: "A fake online identity is when someone uses false information, another person's details, or a made-up identity to mislead people online.",
+            example: "A stranger creates a social media account using another person's photo and a false name.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is a Digital Footprint?",
+            answer: "A digital footprint is the trail of information you leave behind when you use the internet, including posts, comments, photos, searches, and online activities.",
+            example: "A comment you write on a public website may become part of your digital footprint.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a Permanent Online Post?",
+            answer: "A permanent online post is content that may remain accessible or be copied even after you delete it. Screenshots, downloads, and shared copies can make it difficult to remove completely.",
+            example: "You delete a photo from social media, but someone may already have saved a copy.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How to Block and Report Someone",
+            answer: "Blocking prevents or limits someone from contacting you through a platform. Reporting alerts the platform to behavior that may break its rules. Save evidence when safe and ask a trusted adult for help if needed.",
+            example: "If someone sends threatening messages, save screenshots, block the account, and report it using the platform's safety tools.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What to Do if Someone Threatens You Online",
+            answer: "Do not respond with threats or agree to unsafe demands. Save messages or screenshots if it is safe, block and report the person, and tell a trusted adult. If there is immediate danger, contact local emergency services or the appropriate authorities.",
+            example: "If someone threatens to hurt you unless you send a photo, do not send it. Save the messages and tell a trusted adult immediately.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Why Should We Think Before Posting?",
+            answer: "We should think before posting because online content can be copied, shared, misunderstood, or seen by people we did not expect. Posts can affect our privacy, safety, and reputation.",
+            example: "Before posting a group photo, ask the people in it for permission and check that it does not reveal private information.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Is Digital Citizenship?",
+            answer: "Digital citizenship means using technology and the internet responsibly, safely, respectfully, and honestly.",
+            example: "A good digital citizen respects others online, protects personal information, and does not share false information knowingly.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "Respectful Online Communication",
+            answer: "Respectful online communication means using polite language, listening to different opinions, avoiding insults, and treating people fairly in digital spaces.",
+            example: "Instead of insulting someone who disagrees with you in a class discussion, explain your opinion politely.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "Safe Use of Social Media",
+            answer: "Use social media safely by keeping personal details private, choosing strong passwords, enabling two-factor authentication, checking privacy settings, and avoiding unknown links or suspicious accounts.",
+            example: "Set your profile so only approved friends can see your posts, and never publish your home address or passwords.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 13,
+            question: "Online Gaming Safety",
+            answer: "Online gaming safety means protecting your account and personal information, communicating carefully with other players, and avoiding suspicious downloads, links, and purchases.",
+            example: "Use a nickname instead of your full name, never share your password, and tell a trusted adult if another player behaves inappropriately.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 14,
+            question: "Stranger Danger on the Internet",
+            answer: "People online may not be who they claim to be. Avoid sharing private information, meeting online strangers alone, or sending personal photos to people you do not know and trust.",
+            example: "If an online stranger asks for your school name, home address, or a private photo, do not share it and tell a trusted adult.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 15,
+            question: "When to Ask a Trusted Adult for Help",
+            answer: "Ask a trusted adult whenever someone online makes you feel unsafe, threatens you, requests private information or photos, bullies you, or pressures you to do something uncomfortable. You can ask for help even if you have made a mistake online.",
+            example: "If someone sends you a frightening message or asks you to keep an uncomfortable secret, tell a parent, teacher, or another trusted adult.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 7,
+        heading: "Safe Browsing and Downloads",
+        slug: "safe-browsing-downloads",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Secure Browsing?",
+            answer: "Secure browsing means using the internet carefully to protect your device, personal information, and online accounts from scams, harmful downloads, and unsafe websites.",
+            example: "Before entering your password on a website, check its address and make sure you are using the official website.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Does HTTPS Mean?",
+            answer: "HTTPS stands for Hypertext Transfer Protocol Secure. It helps protect information sent between your browser and a website by encrypting the connection.",
+            example: "When you sign in to a website using HTTPS, the connection helps protect your password while it travels between your browser and the website.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "HTTP vs. HTTPS",
+            answer: "HTTP transfers information without the transport encryption provided by HTTPS. HTTPS uses encryption to help protect information exchanged between your browser and the website.",
+            example: "Prefer the HTTPS version of a website when available, especially before entering personal or payment information.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "How to Check a Website's Address",
+            answer: "Check the website address in your browser's address bar. Look for misspellings, unexpected words, and unfamiliar domain names. Remember that a familiar-looking address can still be fake.",
+            example: "If you want to visit your bank's website, use its official address from a trusted source instead of clicking an unexpected message link.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is a Website Certificate?",
+            answer: "A website certificate helps verify a website's identity and enables an encrypted HTTPS connection. Browsers check the certificate to help determine whether the connection can be trusted.",
+            example: "When you open an HTTPS website, your browser checks its certificate as part of establishing a secure connection.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Why Is the Padlock Not a Guarantee That a Website Is Trustworthy?",
+            answer: "The padlock or HTTPS indicator means the connection is encrypted and the certificate checks have passed. It does not prove that the website owner is honest or that the website is safe from scams.",
+            example: "A fake shopping website can use HTTPS and still trick people into paying for products they will never receive.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "How to Identify Fake Websites",
+            answer: "Look for misspelled addresses, unrealistic offers, missing contact information, suspicious payment requests, and copied designs. Check independent reviews and use official links before trusting a website.",
+            example: "A website offering a new laptop for a tiny fraction of its normal price and demanding immediate payment may be a scam.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Safe Downloading Practices",
+            answer: "Download apps and files from official websites or trusted app stores. Check the publisher, avoid unexpected attachments, and do not ignore security warnings.",
+            example: "Download a computer program from its developer's official website instead of an unknown file-sharing page.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Browser Security Warnings",
+            answer: "Browser security warnings alert you when a website or download may be unsafe, when a connection has a problem, or when a certificate cannot be verified. Do not ignore these warnings without understanding the risk.",
+            example: "If your browser warns that a website may be dangerous, leave the page instead of choosing an option to continue.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Pop-ups and Fake Virus Alerts",
+            answer: "Pop-ups are small windows that appear while browsing. Some fake alerts claim your device has a virus to frighten you into clicking a link, installing software, or calling a scam number.",
+            example: "A page suddenly says your computer is infected and asks you to call an unknown number. Close the page without calling or installing anything.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "Safe Use of Browser Extensions",
+            answer: "Browser extensions add features to a web browser, but some may collect data or contain harmful code. Install only extensions you need from trusted sources and review their permissions.",
+            example: "Before installing a spelling checker extension, check its publisher and whether its requested permissions make sense.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "Risks of Pirated Software",
+            answer: "Pirated software is copied or distributed without the required permission or licence. It may contain malware, steal information, lack security updates, and create legal risks.",
+            example: "A cracked version of a paid game downloaded from an unknown website may secretly install harmful software.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 13,
+            question: "Safe Use of Public Computers",
+            answer: "When using a public computer, avoid accessing sensitive accounts when possible. Never save passwords, do not download unknown files, and remember that the device may not be secure.",
+            example: "When using a library computer, avoid saving your password in the browser and close your account after use.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 14,
+            question: "Signing Out on Shared Devices",
+            answer: "Always sign out of your accounts when using a shared or public device. Close private browsing windows and make sure your account is no longer accessible to the next user.",
+            example: "After checking your email on a school computer, sign out and close the browser before leaving.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 15,
+            question: "Safe Online Forms",
+            answer: "Before filling out an online form, check that the website is legitimate and that the requested information is necessary. Avoid sharing passwords, OTPs, or sensitive details through untrusted forms.",
+            example: "A school registration form may reasonably ask for a student's name and class, but a random website should not ask for your email password.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 8,
+        heading: "Wi-Fi, Networks and Device Safety",
+        slug: "wifi-networks-device-safety",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Network Security?",
+            answer: "Network security means protecting computers, phones, and other devices connected to a network from hackers, viruses, and unauthorized access.",
+            example: "A school protects its computer network so that only authorized teachers and students can use it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Is a Secure Wi-Fi Network?",
+            answer: "A secure Wi-Fi network is a wireless network protected with a strong password and security settings. It helps prevent unknown people from connecting without permission.",
+            example: "Your home Wi-Fi uses a strong password so that only your family and permitted guests can connect.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Why Should We Protect Wi-Fi with a Password?",
+            answer: "A Wi-Fi password helps stop strangers from using your internet connection and accessing devices on your network.",
+            example: "You set a strong password on your home router so that nearby strangers cannot easily connect to your Wi-Fi.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is Public Wi-Fi?",
+            answer: "Public Wi-Fi is a wireless internet connection available for people to use in places such as airports, libraries, hotels, and cafes.",
+            example: "You connect your phone to the free Wi-Fi available at a public library.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Risks of Public Wi-Fi",
+            answer: "Public Wi-Fi may be unsafe if it is not properly protected. Criminals may create fake networks or try to steal information sent over an insecure connection.",
+            example: "A stranger creates a fake Wi-Fi network named 'Free Airport Wi-Fi' to trick people into connecting. Always verify the network name with staff.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is a VPN?",
+            answer: "VPN stands for Virtual Private Network. It creates an encrypted connection between your device and a VPN server, helping protect your internet traffic from some forms of spying.",
+            example: "A person uses a trusted VPN while connecting to public Wi-Fi to add protection to their internet connection.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Does a Router Firewall Do?",
+            answer: "A router firewall checks network traffic and blocks connections that do not meet its security rules. It helps protect devices on a home network from unwanted connections.",
+            example: "A router firewall blocks an unexpected incoming connection from reaching your home computer.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is Unauthorized Network Access?",
+            answer: "Unauthorized network access happens when someone connects to or uses a network without permission.",
+            example: "A person guesses a neighbor's Wi-Fi password and connects without permission.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "How to Secure a Home Router",
+            answer: "To secure a home router, change its default administrator password, use strong Wi-Fi encryption, set a strong Wi-Fi password, install updates, and disable features you do not need.",
+            example: "Your family changes the router's default password and enables WPA2 or WPA3 security to help protect the home network.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Why Should Router Passwords Be Changed?",
+            answer: "Changing a router's default administrator password helps prevent others from guessing it and changing important network settings. A strong Wi-Fi password also helps keep unknown users off the network.",
+            example: "Instead of keeping the password printed on the router, your family sets a unique, strong administrator password.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "What Is Bluetooth Security?",
+            answer: "Bluetooth security means protecting devices that connect wirelessly over Bluetooth. It includes pairing only with trusted devices and turning Bluetooth off when it is not needed.",
+            example: "You pair your phone with your own headphones and reject an unexpected pairing request from an unknown device.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "Safe USB Drive Usage",
+            answer: "Safe USB drive usage means using USB drives carefully to avoid viruses and data theft. Do not plug in unknown USB drives, and scan trusted drives with security software when appropriate.",
+            example: "You find a USB drive outside your classroom. Instead of plugging it into a computer, you give it to your teacher.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 13,
+            question: "What Is Device Locking?",
+            answer: "Device locking protects a computer, phone, or tablet by requiring a PIN, password, fingerprint, or face recognition to unlock it.",
+            example: "You lock your computer before leaving the classroom so another person cannot easily open your files.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 14,
+            question: "Why Should We Enable Automatic Updates?",
+            answer: "Automatic updates help keep devices and apps up to date with security fixes, bug fixes, and improvements. They reduce the risk of attackers using known security weaknesses.",
+            example: "Your laptop automatically installs a security update that fixes a weakness in its operating system.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 15,
+            question: "What Is Remote Access?",
+            answer: "Remote access allows someone to use or connect to a computer or network from another location through a network or the internet. It should be protected with strong authentication and only enabled when needed.",
+            example: "A school IT technician securely connects to a teacher's computer from another room to help fix a problem.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 9,
+        heading: "Backup, Recovery and Data Safety",
+        slug: "backup-recovery-data-safety",
+        qa: [
+          {
+            id: 1,
+            question: "What Is a Data Backup?",
+            answer: "A data backup is an extra copy of important files, photos, videos, or other information. It helps us recover our data if the original files are lost or damaged.",
+            example: "You save a copy of your school project on a USB drive so you can use it if your computer stops working.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Why Is Backup Important?",
+            answer: "A backup is important because it helps protect information from accidental deletion, device damage, theft, and some cyberattacks.",
+            example: "Your laptop breaks, but you can still access your homework because you saved a backup in cloud storage.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Local vs. Cloud Backup",
+            answer: "A local backup stores copies on devices such as external hard drives or USB drives. A cloud backup stores copies on remote servers that you access through the internet.",
+            example: "Saving your photos on an external hard drive is a local backup, while saving them to a trusted online storage service is a cloud backup.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "What Is Data Recovery?",
+            answer: "Data recovery is the process of getting back lost, deleted, damaged, or inaccessible files. Recovery may be possible through backups or special recovery tools.",
+            example: "You accidentally delete a school assignment and restore it from your computer's backup.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is a Restore Point?",
+            answer: "A restore point is a saved record of certain system settings and files at a particular time. It can help return a computer's system settings to an earlier state if a problem occurs.",
+            example: "After a software update causes a problem, you use a restore point to return your computer's system settings to an earlier state.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Happens When Files Are Deleted?",
+            answer: "When a file is deleted, it may first move to the Recycle Bin or Trash. After permanent deletion, its storage space may become available for reuse, so recovery is not always possible.",
+            example: "You delete a picture and find it in the Recycle Bin, where you can restore it. If you permanently delete it, recovery may be harder.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is Secure File Sharing?",
+            answer: "Secure file sharing means sending or giving access to files in a way that protects them from people who should not see them. It includes using trusted services and setting suitable access permissions.",
+            example: "You share a school project with your teacher using a trusted cloud service and allow only the teacher to view it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "How to Protect Important Documents",
+            answer: "Protect important documents by keeping backup copies, using strong passwords, limiting access, and storing them in safe locations. Sensitive digital documents can also be encrypted.",
+            example: "You keep a backup of your school certificates in secure cloud storage and another copy on a protected external drive.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is File Encryption?",
+            answer: "File encryption changes readable information into a protected form that can usually be understood only with the correct key or password. It helps keep private information safe.",
+            example: "You encrypt a file containing personal documents so that someone who gets the file cannot easily read its contents.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Is Secure File Deletion?",
+            answer: "Secure file deletion is a method of making deleted information difficult or impossible to recover. Simply moving a file to the Recycle Bin may not permanently remove its contents.",
+            example: "Before giving away an old computer, you use a trusted data-erasing method to remove personal files securely.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "What Is Ransomware Recovery?",
+            answer: "Ransomware recovery is the process of restoring files and computer systems after ransomware locks or encrypts data. It may involve removing the malware, fixing the system, and restoring clean backups.",
+            example: "After ransomware affects a school computer, the IT team removes the threat and restores the school's files from a clean backup.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "Why Should Backups Be Tested?",
+            answer: "Backups should be tested to make sure the files are complete, usable, and can be restored when needed. A backup that cannot be restored may not help during an emergency.",
+            example: "Every month, your teacher checks whether the backed-up school documents can be opened and restored correctly.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 10,
+        heading: "Cyber crime and Digital Law",
+        slug: "cyber crime-digital-law",
+        qa: [
+          {
+            id: 1,
+            question: "What Is Cybercrime?",
+            answer: "Cybercrime is an illegal activity carried out using computers, mobile phones, networks, or the internet. It can involve stealing information, cheating people, or damaging computer systems.",
+            example: "A criminal creates a fake website to steal people's banking details.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Types of Cybercrime",
+            answer: "Cybercrime includes online fraud, identity theft, hacking, cyberstalking, phishing, spreading malware, and stealing digital information. These activities can harm people, businesses, and organizations.",
+            example: "Someone sends a fake bank message to trick a person into sharing their password.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Online Fraud and Financial Scams",
+            answer: "Online fraud happens when someone uses the internet to trick people into giving away money or financial information. Scammers may use fake shopping websites, payment requests, or false prize messages.",
+            example: "A fake online seller takes your payment for a phone but never delivers the phone.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Identity Theft and Account Theft",
+            answer: "Identity theft happens when someone uses another person's personal information without permission. Account theft occurs when someone gains control of another person's online account.",
+            example: "A criminal steals someone's login details and uses their social media account to send fake messages.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Unauthorized Access to Computers",
+            answer: "Unauthorized access means entering or using a computer, account, or network without permission. It may involve guessing passwords, exploiting security weaknesses, or using stolen login details.",
+            example: "A student secretly logs in to a teacher's computer account without permission.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Online Impersonation",
+            answer: "Online impersonation happens when someone pretends to be another person or organization on the internet without permission, often to deceive or harm others.",
+            example: "Someone creates a fake profile using a classmate's photo and name to send misleading messages.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Cyber stalking",
+            answer: "Cybers talking is the repeated use of digital tools to follow, monitor, threaten, or harass someone. It can make the person feel unsafe or frightened.",
+            example: "A person repeatedly sends threatening messages and tracks someone's online activity after being asked to stop.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Copyright and Software Piracy",
+            answer: "Copyright protects original work, such as software, music, videos, and books. Software piracy means copying, sharing, or using software illegally without the required permission or licence.",
+            example: "Downloading a paid computer program from an unauthorized website instead of obtaining a legal copy may be software piracy.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Responsible Use of Other People's Data",
+            answer: "Responsible data use means respecting other people's privacy and using their personal information only with proper permission and for legitimate purposes. Never share private information without authorization.",
+            example: "You ask your friend before posting their photograph online and avoid sharing their phone number publicly.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "How to Preserve Evidence of Online Abuse",
+            answer: "To preserve evidence of online abuse, save screenshots, messages, usernames, profile links, dates, and times. Do not edit the evidence, and keep copies somewhere safe. Tell a trusted adult or report the incident to the appropriate authority.",
+            example: "If someone sends threatening messages, you save screenshots showing the messages, username, and date before reporting the account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "How to Report Cyber crime in India",
+            answer: "In India, cyber crime can be reported through the official National Cyber Crime Reporting Portal at https://cybercrime.gov.in. For cyber financial fraud, call helpline 1930 as soon as possible. Keep relevant evidence and transaction details ready. For immediate danger, contact local police or emergency services.",
+            example: "If money is stolen through an online payment scam, you promptly call 1930, report the incident on the official portal, and inform your bank.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "Why Should We Never Retaliate Against a Hacker?",
+            answer: "Retaliating against a hacker by threatening them, breaking into their accounts, or damaging their devices can put you at risk and may itself be illegal. The safer approach is to protect your accounts, preserve evidence, and report the incident to the proper authorities.",
+            example: "If someone hacks your game account, you change your password, enable two-factor authentication, and report the account instead of trying to hack them back.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 11,
+        heading: "Advanced Cybersecurity Concepts",
+        slug: "advanced-cybersecurity-concepts",
+        qa: [
+          {
+            id: 1,
+            question: "What Is the CIA Triad: Confidentiality, Integrity and Availability?",
+            answer: "The CIA Triad is a basic model of cybersecurity with three important goals: Confidentiality keeps information private, Integrity keeps information accurate and unchanged without permission, and Availability ensures information and systems are accessible when needed.",
+            example: "A school protects student records with passwords (Confidentiality), prevents unauthorized changes to marks (Integrity), and keeps its computer system working (Availability).",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "What Is Authentication?",
+            answer: "Authentication is the process of checking whether someone is really who they claim to be. It may use a password, PIN, fingerprint, face recognition, or security code.",
+            example: "You enter your password to prove that you are the owner of your email account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "What Is Authorization?",
+            answer: "Authorization determines what an authenticated user is allowed to view, change, or use in a system. Different users may have different permissions.",
+            example: "A student can view their marks, but only an authorized teacher can change those marks.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Authentication vs. Authorization",
+            answer: "Authentication checks who you are, while authorization checks what you are allowed to do. Authentication usually happens before authorization.",
+            example: "You log in to a school website using your password (authentication). The website then allows you to view your own results but not edit the teacher's records (authorization).",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "What Is Access Control?",
+            answer: "Access control is a security method that decides who can access particular files, devices, applications, or information. It uses permissions and rules to prevent unauthorized access.",
+            example: "A school computer allows teachers to open the marks-management system but prevents students from changing official marks.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "What Is the Principle of Least Privilege?",
+            answer: "The principle of least privilege means giving each user or program only the minimum access needed to perform its job. This reduces the damage that can happen if an account or program is misused.",
+            example: "A student account can open learning materials but cannot install software or change important computer settings.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "What Is Encryption and Decryption?",
+            answer: "Encryption changes readable information into an encoded form to protect it from unauthorized readers. Decryption changes the encoded information back into readable form using the required key.",
+            example: "A messaging application encrypts a message so that only the intended recipient with the correct key can read it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "What Is Public-Key Cryptography?",
+            answer: "Public-key cryptography uses a pair of mathematically related keys: a public key that can be shared and a private key that must be kept secret. It supports secure communication and digital signatures.",
+            example: "Someone uses your public key to encrypt information for you, and you use your matching private key to decrypt it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "What Is a Digital Signature?",
+            answer: "A digital signature is a cryptographic method used to help verify who signed digital information and whether it has been changed since it was signed. It is created using the signer's private key and verified using the corresponding public key.",
+            example: "A company digitally signs an electronic document so the recipient can verify its signature and check whether the signed content has changed.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "What Is a Hash Function?",
+            answer: "A hash function converts input data into a fixed-length value called a hash. A small change in the input usually produces a different hash. Secure hash functions help check data integrity and support password security.",
+            example: "A software website provides a file's hash so you can compare it with the hash of your downloaded file to check whether the file may have changed.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "What Is a Security Vulnerability?",
+            answer: "A security vulnerability is a weakness in software, hardware, or a system that an attacker might use to cause harm or gain unauthorized access.",
+            example: "An outdated application has a security weakness that could allow an attacker to access information without permission.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "What Is an Exploit?",
+            answer: "An exploit is a method, piece of code, or technique that takes advantage of a security vulnerability. Attackers may use exploits to access systems, steal data, or disrupt services.",
+            example: "A criminal uses a known weakness in an outdated application to gain access that should not be allowed.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 13,
+            question: "What Is a Zero-Day Vulnerability?",
+            answer: "A zero-day vulnerability is a security weakness that is unknown to the responsible developer or has no available fix when it is discovered or exploited. It can be especially dangerous because defenders may not have a patch ready.",
+            example: "Attackers discover and exploit a weakness in a browser before its developer has released a security update.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 14,
+            question: "What Is a Denial-of-Service (DoS) Attack?",
+            answer: "A Denial-of-Service attack attempts to make a website, server, or network unavailable by overwhelming it with requests or disrupting its normal operation.",
+            example: "An attacker sends excessive traffic to a website, making it too slow or unavailable for genuine visitors.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 15,
+            question: "What Is a Distributed Denial-of-Service (DDoS) Attack?",
+            answer: "A Distributed Denial-of-Service attack uses many devices or systems to send large amounts of traffic toward a target, making its services difficult or impossible for genuine users to access.",
+            example: "A website receives overwhelming traffic from many compromised devices at once, causing it to stop responding to customers.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 16,
+            question: "What Is a Man-in-the-Middle Attack?",
+            answer: "A Man-in-the-Middle attack happens when an attacker secretly intercepts or possibly changes communication between two parties who believe they are communicating directly.",
+            example: "On an unsafe network, an attacker tries to intercept information exchanged between a user's device and an online service.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 17,
+            question: "What Is SQL Injection?",
+            answer: "SQL injection is a security attack in which harmful SQL commands are inserted into an application's database queries through improperly handled input. It may expose, change, or delete database information.",
+            example: "A poorly protected login form handles user input incorrectly, allowing an attacker to interfere with the database query. Developers prevent this with parameterized queries and input validation.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 18,
+            question: "What Is Cross-Site Scripting (XSS)?",
+            answer: "Cross-Site Scripting (XSS) is a web security vulnerability that allows an attacker to make a website run unwanted scripts in another user's browser. It can be prevented with safe output handling, input validation, and other security controls.",
+            example: "A comment section displays untrusted content as executable code instead of harmless text, potentially affecting visitors who view the comment.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 19,
+            question: "What Is Penetration Testing?",
+            answer: "Penetration testing is an authorized security assessment in which trained professionals safely test a system for weaknesses by simulating certain attacks. The goal is to identify and fix security problems.",
+            example: "A company hires a security professional to test its website with written permission and report vulnerabilities before criminals find them.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 20,
+            question: "What Is Security Monitoring?",
+            answer: "Security monitoring is the continuous or regular observation of computers, networks, and applications to identify suspicious activity, security threats, and possible attacks.",
+            example: "A school's IT team receives an alert when an account has many failed login attempts and investigates whether someone is trying to break in.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      },
+      {
+        id: 12,
+        heading: "Practical Safety Skills",
+        slug: "practical-safety-skills",
+        qa: [
+          {
+            id: 1,
+            question: "Identify a Strong and Weak Password",
+            answer: "A strong password is long, unique, and difficult to guess. A weak password is short, common, or based on easily guessed information, such as your name or birthday. Never share your real passwords with others.",
+            example: "A password like \"12345678\" is weak. A long, unique passphrase such as \"Mango-River-Cloud-Train-47!\" is harder to guess. Use a different password for each important account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 2,
+            question: "Recognize a Phishing Email",
+            answer: "A phishing email is a fake message designed to trick you into sharing private information, sending money, or opening harmful links or attachments. Look for unusual sender addresses, unexpected attachments, spelling mistakes, and urgent demands.",
+            example: "You receive an email saying your account will be closed unless you click a link immediately. Instead of clicking it, visit the official website directly to check your account.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 3,
+            question: "Compare a Genuine and Suspicious URL",
+            answer: "A genuine URL belongs to the website you intend to visit, while a suspicious URL may use misspellings, extra words, misleading subdomains, or unfamiliar domains to imitate a trusted website. Check the domain carefully before opening a link. HTTPS alone does not guarantee that a website is trustworthy.",
+            example: "If a bank's official domain is examplebank.com, a link to examplebank-login.example.net is not the same domain. Do not enter your details until you verify the correct address independently.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 4,
+            question: "Identify Safe and Unsafe Downloads",
+            answer: "Safe downloads come from official websites or trusted app stores and are checked for security risks. Unsafe downloads may come from unknown websites, fake buttons, unexpected attachments, or pirated software. Check the source and scan files with trusted security software.",
+            example: "Download a video editor from its official website instead of clicking a pop-up that claims you must install an unknown program.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 5,
+            question: "Review App Permissions",
+            answer: "App permissions control which features and information an application can access, such as your camera, microphone, contacts, location, and photos. Review permissions regularly and allow only those needed for the app's purpose.",
+            example: "A calculator app usually does not need access to your microphone or contacts, so you can deny those permissions.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 6,
+            question: "Configure Privacy Settings",
+            answer: "Privacy settings help control who can see your information, contact you, or view your online activity. Review settings on social media, browsers, devices, and apps to limit unnecessary sharing.",
+            example: "You set your social media profile so only approved friends can see your posts and personal details.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 7,
+            question: "Enable Two-Factor Authentication",
+            answer: "Two-factor authentication (2FA) adds a second security step after your password. This may be an authenticator app code, a security key, or another approved verification method. It helps protect your account if your password is stolen.",
+            example: "After entering your email password, you approve the login using your authenticator app. Never share verification codes with anyone.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 8,
+            question: "Update a Computer or Mobile Device",
+            answer: "Updating a computer or mobile device installs improvements and security fixes for its operating system and apps. Install updates from official settings or trusted app stores, and enable automatic updates when practical.",
+            example: "Your phone shows a system update. You connect to a trusted Wi-Fi network, check that the update is official, and install it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 9,
+            question: "Run a Security Scan Using Trusted Software",
+            answer: "A security scan checks a device or its files for malware and other potential threats. Use reputable, updated security software and follow its instructions if it finds something suspicious.",
+            example: "You run a scan using the built-in security tool on your computer and follow its recommendations when it detects a suspicious file.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 10,
+            question: "Back Up Important Files",
+            answer: "Backing up important files means keeping extra copies so you can recover them if your device is lost, damaged, or affected by malware. Use a trusted cloud service or an external drive, and keep backups protected from unauthorized access.",
+            example: "You save copies of your school projects to a trusted cloud account and an external drive, then check that the files can be restored.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 11,
+            question: "Block and Report a Suspicious Account",
+            answer: "Blocking prevents or limits an account from contacting you, while reporting sends information about suspected abuse or suspicious activity to the platform for review. Preserve useful evidence before blocking when it is safe to do so.",
+            example: "An unknown account repeatedly sends suspicious links. You save relevant screenshots, report the account, and block it.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 12,
+            question: "Create a Cyber Incident Response Checklist",
+            answer: "A cyber incident response checklist is a set of steps to follow when a security problem occurs. It can include staying calm, disconnecting an affected device from the network when appropriate, notifying a trusted adult or IT professional, securing accounts from a clean device, preserving evidence, and reporting the incident.",
+            example: "If a school computer may be infected, you stop using it, tell the IT team, avoid deleting evidence, and follow their instructions.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 13,
+            question: "Practice Safe Online Shopping",
+            answer: "Safe online shopping means using trusted websites, checking the seller and product details, reading return policies, and choosing secure payment methods. Avoid suspicious offers and never share your passwords or one-time passwords (OTPs) with a seller.",
+            example: "Before buying a school bag online, you check the website address, seller reviews, delivery details, and return policy. You never tell anyone your banking OTP.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 14,
+            question: "Respond to a Compromised Account",
+            answer: "If an account is compromised, use a trusted device to change its password, secure the linked email account, enable two-factor authentication, sign out unknown sessions, and review recovery details. Contact the service provider or bank if needed, and report any financial fraud promptly.",
+            example: "If someone takes control of your email account, you use the official account recovery process, change the password from a safe device, and remove unfamiliar sessions.",
+            image: "",
+            video: "",
+            example_image: ""
+          },
+          {
+            id: 15,
+            question: "Complete a Cyber Safety Challenge",
+            answer: "A cyber safety challenge is an activity that helps you practise safe online habits, such as identifying phishing messages, checking website addresses, choosing strong passwords, and protecting personal information.",
+            example: "You review five sample messages and decide which are genuine and which may be scams by checking the sender, links, and requests for private information.",
+            image: "",
+            video: "",
+            example_image: ""
+          }
+        ]
+      }
+    ],
+  },
+  {
+    id: 4,
     topic: "Internet and Web",
     slug: "internet-and-web",
     emoji: "🌐",
@@ -42283,1686 +48430,6 @@ This is an example of typing because you use a keyboard to enter words and sente
             question: "Internet and Networking Quiz",
             answer: "An internet and networking quiz tests your understanding of networks, IP addresses, routers, browsers, protocols, and online safety.",
             example: "Question: Which device commonly connects your home network to other networks? Answer: A router.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      }
-    ],
-  },
-  {
-    id: 5,
-    topic: "Cyber Safety",
-    slug: "cyber-safety",
-    emoji: "🔒",
-    color: "orange",
-    level: "Level 5",
-    classes: "Class 9+",
-    description: "Learn how to protect your data, create strong passwords, avoid online scams, and stay safe online.",
-    topics: [
-      {
-        id: 1,
-        heading: "Cybersecurity Fundamentals",
-        slug: "cybersecurity-fundamentals",
-        qa: [
-          {
-            id: 1,
-            question: "What Is Cybersecurity?",
-            answer: "Cybersecurity is the practice of protecting computers, networks, and data from hackers, viruses, and other digital dangers.",
-            example: "Using antivirus software to protect your computer from harmful programs.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "Why Is Cybersecurity Important?",
-            answer: "Cybersecurity is important because it protects our personal information, money, devices, and online accounts from digital attacks.",
-            example: "A strong password helps protect your email account from unauthorized access.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "What Is Online Safety?",
-            answer: "Online safety means using the internet carefully to protect yourself from scams, strangers, harmful websites, and privacy risks.",
-            example: "Never share your home address with an unknown person online.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "Cybersecurity vs. Online Safety",
-            answer: "Cybersecurity focuses on protecting devices, networks, and data, while online safety focuses on protecting people and their information when using the internet.",
-            example: "Installing antivirus is cybersecurity, while avoiding suspicious messages is online safety.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "What Is Digital Security?",
-            answer: "Digital security means protecting digital devices, accounts, files, and information from unauthorized access, loss, or misuse.",
-            example: "Using two-factor authentication to add extra protection to your account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "What Is Data?",
-            answer: "Data is information stored or used by a computer. It can include text, numbers, pictures, videos, and sounds.",
-            example: "A student's name, roll number, marks, and photograph are examples of data.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "What Is Personal Information?",
-            answer: "Personal information is information that identifies you or reveals details about your life, such as your full name, address, phone number, or passwords.",
-            example: "Your home address and phone number are personal information that you should protect online.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "What Is a Cyber Threat?",
-            answer: "A cyber threat is anything that could harm a computer, network, account, or digital information.",
-            example: "A fake email containing a dangerous link is a possible cyber threat.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "What Is a Cyberattack?",
-            answer: "A cyberattack is an attempt to access, damage, disrupt, or steal information from a computer, network, or online account without permission.",
-            example: "Someone trying to break into a school's computer system to steal student records is carrying out a cyberattack.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "Who Is a Hacker?",
-            answer: "A hacker is a person who uses technical skills to explore computer systems and networks. Hackers may work legally to improve security or illegally to cause harm.",
-            example: "A security expert tests a company's website with permission to find weaknesses.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "Types of Hackers: White Hat, Black Hat, Grey Hat",
-            answer: "White hat hackers work with permission to improve security. Black hat hackers break into systems for harmful or illegal purposes. Grey hat hackers may find weaknesses without permission but do not always intend harm.",
-            example: "A white hat hacker tests a company's website with permission, while a black hat hacker steals its data. A grey hat hacker may discover a weakness without authorization.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "What Is Ethical Hacking?",
-            answer: "Ethical hacking is the authorized testing of computers, networks, or websites to find security weaknesses and help fix them.",
-            example: "A company hires an ethical hacker to test its website and report security problems before criminals can exploit them.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 2,
-        heading: "Passwords and Account Security",
-        slug: "passwords-account-security",
-        qa: [
-          {
-            id: 1,
-            question: "What Is a Password?",
-            answer: "A password is a secret combination of letters, numbers, and symbols used to protect an account, device, or file.",
-            example: "You enter your password to sign in to your email account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "What Makes a Password Strong?",
-            answer: "A strong password is long, unique, and difficult to guess. It should not contain easily guessed details like your name or birthday.",
-            example: "A long, unique password such as `River!Cloud7Maple#29` is harder to guess than `12345678`.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "Strong vs. Weak Passwords",
-            answer: "A weak password is short, common, or easy to guess. A strong password is long, unique, and difficult for others to discover.",
-            example: "Weak: `password123`. Strong: a long, randomly generated password that you do not use anywhere else.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "Why Should Passwords Be Secret?",
-            answer: "Passwords should be secret because anyone who knows your password may be able to access your account and personal information.",
-            example: "Do not tell your social media password to strangers or share it in public chats.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "Why Should We Not Reuse Passwords?",
-            answer: "Using the same password for many accounts is risky. If one account is hacked, criminals may try that password on your other accounts.",
-            example: "Use different passwords for your email, gaming account, and school account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "What Is a Passphrase?",
-            answer: "A passphrase is a password made from several words. A long, unusual passphrase can be easier to remember and difficult to guess.",
-            example: "A phrase made from several unrelated words, such as `Mango-Rocket-Library!84`, can be used as a memorable passphrase.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "What Is a Password Manager?",
-            answer: "A password manager is a tool that securely stores passwords and helps create strong, unique passwords for different accounts.",
-            example: "A password manager can save your website passwords so you do not need to remember each one.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "What Is Two-Factor Authentication (2FA)?",
-            answer: "Two-factor authentication adds a second verification step after your password. It helps protect your account even if someone learns your password.",
-            example: "You enter your password and then approve a sign-in using an authenticator app.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "What Is Multi-Factor Authentication (MFA)?",
-            answer: "Multi-factor authentication uses two or more different types of verification to confirm your identity, such as something you know, something you have, or something you are.",
-            example: "Signing in with a password and a fingerprint uses two different types of verification.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "What Is a One-Time Password (OTP)?",
-            answer: "A one-time password (OTP) is a temporary code used to verify your identity. It usually works once or for a short period.",
-            example: "A banking app may send a temporary code to verify a transaction.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "Why Must We Never Share an OTP?",
-            answer: "You should never share an OTP with another person because a scammer may use it to access your account or approve an action. Only enter it in the official service when you initiated the request.",
-            example: "If a caller asks for your bank OTP, do not tell them the code, even if they claim to be a bank employee.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "What Is Biometric Authentication?",
-            answer: "Biometric authentication uses a person's physical or behavioral characteristics to verify their identity.",
-            example: "A phone may use your fingerprint or face to unlock the screen.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 13,
-            question: "Fingerprint and Face Unlock",
-            answer: "Fingerprint unlock checks the pattern of your fingerprint, while face unlock checks features of your face to help verify your identity.",
-            example: "You can unlock a supported smartphone by placing your registered finger on its sensor or using its face recognition feature.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 14,
-            question: "How to Secure an Online Account",
-            answer: "Secure an online account by using a unique, strong password, enabling two-factor authentication, keeping recovery details updated, and avoiding suspicious links.",
-            example: "Protect your email with a unique password and an authenticator app, and review the devices signed in to your account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 15,
-            question: "What to Do if an Account Is Hacked",
-            answer: "If your account is hacked, use the official website or app to change your password, secure your recovery email and phone, sign out unknown devices, and enable two-factor authentication. Contact the service's official support if you cannot sign in.",
-            example: "If someone takes over your social media account, use its official account recovery page and warn your contacts not to trust suspicious messages from it.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 3,
-        heading: "Phishing, Scams and Social Engineering",
-        slug: "phishing-scams-social-engineering",
-        qa: [
-          {
-            id: 1,
-            question: "What Is Phishing?",
-            answer: "Phishing is a type of online scam in which criminals pretend to be trusted people or organizations to steal passwords, money, or personal information.",
-            example: "You receive a message pretending to be from your bank that asks you to click a link and enter your password.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "What Is Email Phishing?",
-            answer: "Email phishing happens when scammers send fake emails that look like they come from trusted companies, banks, or people to trick you into sharing information or clicking harmful links.",
-            example: "You receive an email claiming your account will be blocked unless you verify your password through an unfamiliar link.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "What Is SMS Phishing (Smishing)?",
-            answer: "Smishing is a scam carried out through text messages or SMS. Scammers use fake messages to steal personal information, money, or account details.",
-            example: "You receive a text saying your parcel is delayed and asking you to pay a small fee through a suspicious link.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "What Is Voice Phishing (Vishing)?",
-            answer: "Vishing is a scam in which criminals use phone calls or voice messages to trick people into revealing private information or sending money.",
-            example: "A caller pretends to be a bank employee and asks you to share your OTP. You should never share it.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "What Is a Fake Website?",
-            answer: "A fake website is a website designed to deceive visitors. It may copy a real website to steal passwords, payment details, or personal information.",
-            example: "A shopping website offers a very expensive phone at an unbelievable price and asks you to pay before checking its authenticity.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "What Is a Suspicious Link?",
-            answer: "A suspicious link is a web link that may lead to a scam, a fake website, or a harmful download. Unusual spellings, unexpected messages, and unfamiliar domains can be warning signs.",
-            example: "A message claims to be from a popular website but contains a misspelled domain name.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "How to Identify Scam Messages",
-            answer: "Scam messages may contain unexpected requests for money, urgent warnings, suspicious links, spelling mistakes, or promises that seem too good to be true. Always verify the message through an official channel.",
-            example: "A message says you must pay immediately to avoid losing a prize you never entered to win.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "Fake Prize and Lottery Scams",
-            answer: "A fake prize or lottery scam tells you that you have won something you never entered to win. The scammer may ask for money, bank details, or personal information to claim the prize.",
-            example: "You receive a message saying you won ₹10 lakh but must first pay a processing fee. Do not pay or share your details.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "Fake Job and Scholarship Scams",
-            answer: "Fake job and scholarship scams use false offers to trick people into paying fees or sharing personal information. Be careful of guaranteed jobs, scholarships, or selection without a proper process.",
-            example: "A fake recruiter promises a job but asks you to pay a large registration fee to receive an offer letter.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "Online Shopping Scams",
-            answer: "Online shopping scams involve fake sellers, misleading product listings, counterfeit goods, or payment tricks that cause buyers to lose money or receive nothing.",
-            example: "An unknown online store advertises a laptop at an extremely low price and disappears after receiving payment.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "Impersonation and Fake Profiles",
-            answer: "Impersonation happens when someone pretends to be another person or organization. Fake profiles may use stolen photos or copied information to deceive people.",
-            example: "A fake social media account copies your friend's photo and asks you to send money urgently. Contact your friend through another trusted method to verify.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "What Is Social Engineering?",
-            answer: "Social engineering is a trick used to manipulate people into revealing confidential information, giving access, or performing unsafe actions.",
-            example: "Someone pretends to be a technical support worker and asks for your password to supposedly fix your computer.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 13,
-            question: "Why Do Scammers Create Urgency?",
-            answer: "Scammers create urgency to make people feel afraid or excited and act without checking the facts. They may claim that an account will close or an offer will expire soon.",
-            example: "A message says, 'Your account will be blocked in five minutes!' Instead of clicking its link, check your account through the official app or website.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 14,
-            question: "How to Verify a Message",
-            answer: "To verify a message, check the sender carefully, examine the website address, avoid unexpected links, and contact the organization using its official app, website, or phone number. Never share passwords or OTPs to verify a message.",
-            example: "If you receive a bank alert, open your bank's official app directly instead of clicking the link in the message.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 15,
-            question: "What to Do After Clicking a Suspicious Link",
-            answer: "Close the suspicious page and do not enter personal details or download anything. If you entered a password, change it immediately using the official website and secure affected accounts. If you installed a file, run a security scan. Contact your bank immediately if payment details or money may be at risk.",
-            example: "If you entered your email password on a fake website, use the official email service to change it, sign out unknown sessions, and enable two-factor authentication.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 4,
-        heading: "Passwords and Account Security",
-        slug: "passwords-account-security",
-        qa: [
-          {
-            id: 1,
-            question: "What Is a Password?",
-            answer: "A password is a secret combination of letters, numbers, and symbols used to protect an account, device, or file.",
-            example: "You enter your password to sign in to your email account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "What Makes a Password Strong?",
-            answer: "A strong password is long, unique, and difficult to guess. Avoid using your name, birthday, or common words.",
-            example: "A long, unique password such as `River!Cloud7Maple#29` is harder to guess than `12345678`.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "Strong vs. Weak Passwords",
-            answer: "A weak password is short, common, or easy to guess. A strong password is long, unique, and difficult for others to discover.",
-            example: "Weak: `password123`. Strong: a long, randomly generated password that you do not use on other accounts.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "Why Should Passwords Be Secret?",
-            answer: "Passwords should be kept secret because anyone who knows your password may be able to access your account and personal information.",
-            example: "Never share your email password with strangers or post it in a public chat.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "Why Should We Not Reuse Passwords?",
-            answer: "Using the same password for many accounts is risky. If one account is hacked, criminals may try that password on your other accounts.",
-            example: "Use different passwords for your email, gaming account, and school account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "What Is a Passphrase?",
-            answer: "A passphrase is a password made from several words. A long, unusual passphrase can be easier to remember and harder to guess.",
-            example: "A phrase such as `Mango-Rocket-Library!84` can be used as a memorable passphrase. Choose your own unique phrase.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "What Is a Password Manager?",
-            answer: "A password manager is a tool that securely stores passwords and can generate strong, unique passwords for different accounts.",
-            example: "A password manager can save your website passwords so you do not have to remember each one.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "What Is Two-Factor Authentication (2FA)?",
-            answer: "Two-factor authentication adds a second verification step after your password. It helps protect your account even if someone learns your password.",
-            example: "You enter your password and then approve the sign-in using an authenticator app.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "What Is Multi-Factor Authentication (MFA)?",
-            answer: "Multi-factor authentication uses two or more different types of verification to confirm your identity, such as something you know, something you have, or something you are.",
-            example: "Signing in with a password and verifying your identity with a fingerprint uses two different types of verification.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "What Is a One-Time Password (OTP)?",
-            answer: "A one-time password (OTP) is a temporary code used to verify your identity. It usually works once or for a short time.",
-            example: "A banking app may send a temporary code to verify a transaction.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "Why Must We Never Share an OTP?",
-            answer: "You should never share an OTP with another person because a scammer may use it to access your account or approve an action. Enter it only on the official service when you initiated the request.",
-            example: "If a caller claims to be from your bank and asks for your OTP, do not reveal it.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "What Is Biometric Authentication?",
-            answer: "Biometric authentication uses a person's physical or behavioral characteristics to verify their identity.",
-            example: "A smartphone may use your fingerprint or face to unlock the screen.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 13,
-            question: "Fingerprint and Face Unlock",
-            answer: "Fingerprint unlock checks the pattern of your fingerprint, while face unlock checks features of your face to help verify your identity.",
-            example: "You can unlock a supported smartphone using your registered fingerprint or its face recognition feature.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 14,
-            question: "How to Secure an Online Account",
-            answer: "Secure an online account by using a strong, unique password, enabling two-factor authentication, updating recovery details, and avoiding suspicious links.",
-            example: "Protect your email with a unique password and an authenticator app, and review the devices signed in to your account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 15,
-            question: "What to Do if an Account Is Hacked",
-            answer: "If your account is hacked, change your password using the official website, secure your recovery email and phone, sign out unknown devices, and enable two-factor authentication. Contact official support if you cannot sign in.",
-            example: "If someone takes over your social media account, use its official recovery page and warn your contacts about suspicious messages from that account.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 5,
-        heading: "Phishing, Scams and Social Engineering",
-        slug: "phishing-scams-social-engineering",
-        qa: [
-          {
-            id: 1,
-            question: "What Is Phishing?",
-            answer: "Phishing is an online scam in which criminals pretend to be trusted people or organizations to steal passwords, money, or personal information.",
-            example: "You receive a fake bank message asking you to click a link and enter your password.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "What Is Email Phishing?",
-            answer: "Email phishing happens when scammers send fake emails that look like they come from trusted companies, banks, or people to steal information or trick you into clicking harmful links.",
-            example: "You receive an email claiming your account will be blocked unless you verify your password through an unfamiliar link.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "What Is SMS Phishing (Smishing)?",
-            answer: "Smishing is a scam carried out through text messages. Scammers use fake messages to steal personal information, money, or account details.",
-            example: "You receive a text saying your parcel is delayed and asking you to pay a fee through a suspicious link.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "What Is Voice Phishing (Vishing)?",
-            answer: "Vishing is a scam in which criminals use phone calls or voice messages to trick people into sharing private information or sending money.",
-            example: "A caller pretends to be a bank employee and asks you to reveal your OTP.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "What Is a Fake Website?",
-            answer: "A fake website is designed to deceive visitors. It may copy a real website to steal passwords, payment details, or personal information.",
-            example: "A fake shopping website offers an expensive phone at an unbelievable price and asks you to pay immediately.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "What Is a Suspicious Link?",
-            answer: "A suspicious link is a web link that may lead to a scam, a fake website, or a harmful download. Unusual spellings, unfamiliar domains, and unexpected messages can be warning signs.",
-            example: "You receive a message claiming to be from a popular website, but the link contains a misspelled website name.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "How to Identify Scam Messages",
-            answer: "Scam messages may contain urgent warnings, suspicious links, unexpected requests for money, or promises that seem too good to be true. Verify the message through an official channel before taking action.",
-            example: "A message says you must pay immediately to claim a prize you never entered to win.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "Fake Prize and Lottery Scams",
-            answer: "A fake prize or lottery scam claims you have won something you never entered to win. The scammer may ask for money or personal information to release the prize.",
-            example: "You receive a message saying you won ₹10 lakh but must first pay a processing fee. Do not pay or share your details.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "Fake Job and Scholarship Scams",
-            answer: "Fake job and scholarship scams use false offers to trick people into paying fees or sharing personal information. Be careful of guaranteed jobs, scholarships, or selection without a genuine process.",
-            example: "A fake recruiter promises you a job but demands a large registration fee before sending an offer letter.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "Online Shopping Scams",
-            answer: "Online shopping scams involve fake sellers, misleading product listings, or payment tricks that cause buyers to lose money or receive nothing.",
-            example: "An unknown online store advertises a laptop at an extremely low price and disappears after receiving payment.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "Impersonation and Fake Profiles",
-            answer: "Impersonation happens when someone pretends to be another person or organization. Fake profiles may use stolen photos or copied details to deceive people.",
-            example: "A fake social media account copies your friend's photo and asks you to send money urgently. Verify the request directly with your friend.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "What Is Social Engineering?",
-            answer: "Social engineering is a technique used to manipulate people into revealing confidential information, giving access, or performing unsafe actions.",
-            example: "Someone pretends to be a technical support worker and asks for your password to supposedly repair your computer.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 13,
-            question: "Why Do Scammers Create Urgency?",
-            answer: "Scammers create urgency to make people feel afraid or excited and act without checking the facts. They may claim that an account will close or an offer will expire soon.",
-            example: "A message says your account will be blocked in five minutes. Instead of clicking its link, check your account through the official app or website.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 14,
-            question: "How to Verify a Message",
-            answer: "To verify a message, check the sender carefully, examine the website address, and contact the organization using its official app, website, or phone number. Never share passwords or OTPs to verify a message.",
-            example: "If you receive a bank alert, open your bank's official app directly instead of clicking the link in the message.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 15,
-            question: "What to Do After Clicking a Suspicious Link",
-            answer: "Close the suspicious page and do not enter personal details or download anything. If you entered a password, change it immediately through the official website and secure your account. If you downloaded a file, run a security scan. Contact your bank immediately if your payment details or money may be at risk.",
-            example: "If you entered your email password on a fake website, change it using the official email service, sign out unknown sessions, and enable two-factor authentication.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 6,
-        heading: "Cyber bullying and Responsible Internet Use",
-        slug: "cyber bullying-responsible-internet-use",
-        qa: [
-          {
-            id: 1,
-            question: "What Is Cyberbullying?",
-            answer: "Cyberbullying is when someone uses the internet or digital devices to bully, hurt, embarrass, or threaten another person repeatedly.",
-            example: "A student repeatedly sends cruel messages to a classmate in a school group chat.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "Examples of Cyberbullying",
-            answer: "Cyberbullying can include sending hurtful messages, spreading rumors online, sharing embarrassing photos without permission, or creating fake accounts to insult someone.",
-            example: "A person posts an embarrassing picture of a classmate online to make others laugh at them.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "What Is Online Harassment?",
-            answer: "Online harassment is unwanted behavior on the internet that threatens, insults, frightens, or repeatedly disturbs someone.",
-            example: "Someone repeatedly sends abusive messages to another person even after being asked to stop.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "What Is a Fake Online Identity?",
-            answer: "A fake online identity is when someone uses false information, another person's details, or a made-up identity to mislead people online.",
-            example: "A stranger creates a social media account using another person's photo and a false name.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "What Is a Digital Footprint?",
-            answer: "A digital footprint is the trail of information you leave behind when you use the internet, including posts, comments, photos, searches, and online activities.",
-            example: "A comment you write on a public website may become part of your digital footprint.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "What Is a Permanent Online Post?",
-            answer: "A permanent online post is content that may remain accessible or be copied even after you delete it. Screenshots, downloads, and shared copies can make it difficult to remove completely.",
-            example: "You delete a photo from social media, but someone may already have saved a copy.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "How to Block and Report Someone",
-            answer: "Blocking prevents or limits someone from contacting you through a platform. Reporting alerts the platform to behavior that may break its rules. Save evidence when safe and ask a trusted adult for help if needed.",
-            example: "If someone sends threatening messages, save screenshots, block the account, and report it using the platform's safety tools.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "What to Do if Someone Threatens You Online",
-            answer: "Do not respond with threats or agree to unsafe demands. Save messages or screenshots if it is safe, block and report the person, and tell a trusted adult. If there is immediate danger, contact local emergency services or the appropriate authorities.",
-            example: "If someone threatens to hurt you unless you send a photo, do not send it. Save the messages and tell a trusted adult immediately.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "Why Should We Think Before Posting?",
-            answer: "We should think before posting because online content can be copied, shared, misunderstood, or seen by people we did not expect. Posts can affect our privacy, safety, and reputation.",
-            example: "Before posting a group photo, ask the people in it for permission and check that it does not reveal private information.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "What Is Digital Citizenship?",
-            answer: "Digital citizenship means using technology and the internet responsibly, safely, respectfully, and honestly.",
-            example: "A good digital citizen respects others online, protects personal information, and does not share false information knowingly.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "Respectful Online Communication",
-            answer: "Respectful online communication means using polite language, listening to different opinions, avoiding insults, and treating people fairly in digital spaces.",
-            example: "Instead of insulting someone who disagrees with you in a class discussion, explain your opinion politely.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "Safe Use of Social Media",
-            answer: "Use social media safely by keeping personal details private, choosing strong passwords, enabling two-factor authentication, checking privacy settings, and avoiding unknown links or suspicious accounts.",
-            example: "Set your profile so only approved friends can see your posts, and never publish your home address or passwords.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 13,
-            question: "Online Gaming Safety",
-            answer: "Online gaming safety means protecting your account and personal information, communicating carefully with other players, and avoiding suspicious downloads, links, and purchases.",
-            example: "Use a nickname instead of your full name, never share your password, and tell a trusted adult if another player behaves inappropriately.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 14,
-            question: "Stranger Danger on the Internet",
-            answer: "People online may not be who they claim to be. Avoid sharing private information, meeting online strangers alone, or sending personal photos to people you do not know and trust.",
-            example: "If an online stranger asks for your school name, home address, or a private photo, do not share it and tell a trusted adult.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 15,
-            question: "When to Ask a Trusted Adult for Help",
-            answer: "Ask a trusted adult whenever someone online makes you feel unsafe, threatens you, requests private information or photos, bullies you, or pressures you to do something uncomfortable. You can ask for help even if you have made a mistake online.",
-            example: "If someone sends you a frightening message or asks you to keep an uncomfortable secret, tell a parent, teacher, or another trusted adult.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 7,
-        heading: "Safe Browsing and Downloads",
-        slug: "safe-browsing-downloads",
-        qa: [
-          {
-            id: 1,
-            question: "What Is Secure Browsing?",
-            answer: "Secure browsing means using the internet carefully to protect your device, personal information, and online accounts from scams, harmful downloads, and unsafe websites.",
-            example: "Before entering your password on a website, check its address and make sure you are using the official website.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "What Does HTTPS Mean?",
-            answer: "HTTPS stands for Hypertext Transfer Protocol Secure. It helps protect information sent between your browser and a website by encrypting the connection.",
-            example: "When you sign in to a website using HTTPS, the connection helps protect your password while it travels between your browser and the website.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "HTTP vs. HTTPS",
-            answer: "HTTP transfers information without the transport encryption provided by HTTPS. HTTPS uses encryption to help protect information exchanged between your browser and the website.",
-            example: "Prefer the HTTPS version of a website when available, especially before entering personal or payment information.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "How to Check a Website's Address",
-            answer: "Check the website address in your browser's address bar. Look for misspellings, unexpected words, and unfamiliar domain names. Remember that a familiar-looking address can still be fake.",
-            example: "If you want to visit your bank's website, use its official address from a trusted source instead of clicking an unexpected message link.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "What Is a Website Certificate?",
-            answer: "A website certificate helps verify a website's identity and enables an encrypted HTTPS connection. Browsers check the certificate to help determine whether the connection can be trusted.",
-            example: "When you open an HTTPS website, your browser checks its certificate as part of establishing a secure connection.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "Why Is the Padlock Not a Guarantee That a Website Is Trustworthy?",
-            answer: "The padlock or HTTPS indicator means the connection is encrypted and the certificate checks have passed. It does not prove that the website owner is honest or that the website is safe from scams.",
-            example: "A fake shopping website can use HTTPS and still trick people into paying for products they will never receive.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "How to Identify Fake Websites",
-            answer: "Look for misspelled addresses, unrealistic offers, missing contact information, suspicious payment requests, and copied designs. Check independent reviews and use official links before trusting a website.",
-            example: "A website offering a new laptop for a tiny fraction of its normal price and demanding immediate payment may be a scam.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "Safe Downloading Practices",
-            answer: "Download apps and files from official websites or trusted app stores. Check the publisher, avoid unexpected attachments, and do not ignore security warnings.",
-            example: "Download a computer program from its developer's official website instead of an unknown file-sharing page.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "Browser Security Warnings",
-            answer: "Browser security warnings alert you when a website or download may be unsafe, when a connection has a problem, or when a certificate cannot be verified. Do not ignore these warnings without understanding the risk.",
-            example: "If your browser warns that a website may be dangerous, leave the page instead of choosing an option to continue.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "Pop-ups and Fake Virus Alerts",
-            answer: "Pop-ups are small windows that appear while browsing. Some fake alerts claim your device has a virus to frighten you into clicking a link, installing software, or calling a scam number.",
-            example: "A page suddenly says your computer is infected and asks you to call an unknown number. Close the page without calling or installing anything.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "Safe Use of Browser Extensions",
-            answer: "Browser extensions add features to a web browser, but some may collect data or contain harmful code. Install only extensions you need from trusted sources and review their permissions.",
-            example: "Before installing a spelling checker extension, check its publisher and whether its requested permissions make sense.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "Risks of Pirated Software",
-            answer: "Pirated software is copied or distributed without the required permission or licence. It may contain malware, steal information, lack security updates, and create legal risks.",
-            example: "A cracked version of a paid game downloaded from an unknown website may secretly install harmful software.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 13,
-            question: "Safe Use of Public Computers",
-            answer: "When using a public computer, avoid accessing sensitive accounts when possible. Never save passwords, do not download unknown files, and remember that the device may not be secure.",
-            example: "When using a library computer, avoid saving your password in the browser and close your account after use.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 14,
-            question: "Signing Out on Shared Devices",
-            answer: "Always sign out of your accounts when using a shared or public device. Close private browsing windows and make sure your account is no longer accessible to the next user.",
-            example: "After checking your email on a school computer, sign out and close the browser before leaving.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 15,
-            question: "Safe Online Forms",
-            answer: "Before filling out an online form, check that the website is legitimate and that the requested information is necessary. Avoid sharing passwords, OTPs, or sensitive details through untrusted forms.",
-            example: "A school registration form may reasonably ask for a student's name and class, but a random website should not ask for your email password.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 8,
-        heading: "Wi-Fi, Networks and Device Safety",
-        slug: "wifi-networks-device-safety",
-        qa: [
-          {
-            id: 1,
-            question: "What Is Network Security?",
-            answer: "Network security means protecting computers, phones, and other devices connected to a network from hackers, viruses, and unauthorized access.",
-            example: "A school protects its computer network so that only authorized teachers and students can use it.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "What Is a Secure Wi-Fi Network?",
-            answer: "A secure Wi-Fi network is a wireless network protected with a strong password and security settings. It helps prevent unknown people from connecting without permission.",
-            example: "Your home Wi-Fi uses a strong password so that only your family and permitted guests can connect.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "Why Should We Protect Wi-Fi with a Password?",
-            answer: "A Wi-Fi password helps stop strangers from using your internet connection and accessing devices on your network.",
-            example: "You set a strong password on your home router so that nearby strangers cannot easily connect to your Wi-Fi.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "What Is Public Wi-Fi?",
-            answer: "Public Wi-Fi is a wireless internet connection available for people to use in places such as airports, libraries, hotels, and cafes.",
-            example: "You connect your phone to the free Wi-Fi available at a public library.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "Risks of Public Wi-Fi",
-            answer: "Public Wi-Fi may be unsafe if it is not properly protected. Criminals may create fake networks or try to steal information sent over an insecure connection.",
-            example: "A stranger creates a fake Wi-Fi network named 'Free Airport Wi-Fi' to trick people into connecting. Always verify the network name with staff.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "What Is a VPN?",
-            answer: "VPN stands for Virtual Private Network. It creates an encrypted connection between your device and a VPN server, helping protect your internet traffic from some forms of spying.",
-            example: "A person uses a trusted VPN while connecting to public Wi-Fi to add protection to their internet connection.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "What Does a Router Firewall Do?",
-            answer: "A router firewall checks network traffic and blocks connections that do not meet its security rules. It helps protect devices on a home network from unwanted connections.",
-            example: "A router firewall blocks an unexpected incoming connection from reaching your home computer.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "What Is Unauthorized Network Access?",
-            answer: "Unauthorized network access happens when someone connects to or uses a network without permission.",
-            example: "A person guesses a neighbor's Wi-Fi password and connects without permission.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "How to Secure a Home Router",
-            answer: "To secure a home router, change its default administrator password, use strong Wi-Fi encryption, set a strong Wi-Fi password, install updates, and disable features you do not need.",
-            example: "Your family changes the router's default password and enables WPA2 or WPA3 security to help protect the home network.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "Why Should Router Passwords Be Changed?",
-            answer: "Changing a router's default administrator password helps prevent others from guessing it and changing important network settings. A strong Wi-Fi password also helps keep unknown users off the network.",
-            example: "Instead of keeping the password printed on the router, your family sets a unique, strong administrator password.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "What Is Bluetooth Security?",
-            answer: "Bluetooth security means protecting devices that connect wirelessly over Bluetooth. It includes pairing only with trusted devices and turning Bluetooth off when it is not needed.",
-            example: "You pair your phone with your own headphones and reject an unexpected pairing request from an unknown device.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "Safe USB Drive Usage",
-            answer: "Safe USB drive usage means using USB drives carefully to avoid viruses and data theft. Do not plug in unknown USB drives, and scan trusted drives with security software when appropriate.",
-            example: "You find a USB drive outside your classroom. Instead of plugging it into a computer, you give it to your teacher.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 13,
-            question: "What Is Device Locking?",
-            answer: "Device locking protects a computer, phone, or tablet by requiring a PIN, password, fingerprint, or face recognition to unlock it.",
-            example: "You lock your computer before leaving the classroom so another person cannot easily open your files.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 14,
-            question: "Why Should We Enable Automatic Updates?",
-            answer: "Automatic updates help keep devices and apps up to date with security fixes, bug fixes, and improvements. They reduce the risk of attackers using known security weaknesses.",
-            example: "Your laptop automatically installs a security update that fixes a weakness in its operating system.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 15,
-            question: "What Is Remote Access?",
-            answer: "Remote access allows someone to use or connect to a computer or network from another location through a network or the internet. It should be protected with strong authentication and only enabled when needed.",
-            example: "A school IT technician securely connects to a teacher's computer from another room to help fix a problem.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 9,
-        heading: "Backup, Recovery and Data Safety",
-        slug: "backup-recovery-data-safety",
-        qa: [
-          {
-            id: 1,
-            question: "What Is a Data Backup?",
-            answer: "A data backup is an extra copy of important files, photos, videos, or other information. It helps us recover our data if the original files are lost or damaged.",
-            example: "You save a copy of your school project on a USB drive so you can use it if your computer stops working.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "Why Is Backup Important?",
-            answer: "A backup is important because it helps protect information from accidental deletion, device damage, theft, and some cyberattacks.",
-            example: "Your laptop breaks, but you can still access your homework because you saved a backup in cloud storage.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "Local vs. Cloud Backup",
-            answer: "A local backup stores copies on devices such as external hard drives or USB drives. A cloud backup stores copies on remote servers that you access through the internet.",
-            example: "Saving your photos on an external hard drive is a local backup, while saving them to a trusted online storage service is a cloud backup.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "What Is Data Recovery?",
-            answer: "Data recovery is the process of getting back lost, deleted, damaged, or inaccessible files. Recovery may be possible through backups or special recovery tools.",
-            example: "You accidentally delete a school assignment and restore it from your computer's backup.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "What Is a Restore Point?",
-            answer: "A restore point is a saved record of certain system settings and files at a particular time. It can help return a computer's system settings to an earlier state if a problem occurs.",
-            example: "After a software update causes a problem, you use a restore point to return your computer's system settings to an earlier state.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "What Happens When Files Are Deleted?",
-            answer: "When a file is deleted, it may first move to the Recycle Bin or Trash. After permanent deletion, its storage space may become available for reuse, so recovery is not always possible.",
-            example: "You delete a picture and find it in the Recycle Bin, where you can restore it. If you permanently delete it, recovery may be harder.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "What Is Secure File Sharing?",
-            answer: "Secure file sharing means sending or giving access to files in a way that protects them from people who should not see them. It includes using trusted services and setting suitable access permissions.",
-            example: "You share a school project with your teacher using a trusted cloud service and allow only the teacher to view it.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "How to Protect Important Documents",
-            answer: "Protect important documents by keeping backup copies, using strong passwords, limiting access, and storing them in safe locations. Sensitive digital documents can also be encrypted.",
-            example: "You keep a backup of your school certificates in secure cloud storage and another copy on a protected external drive.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "What Is File Encryption?",
-            answer: "File encryption changes readable information into a protected form that can usually be understood only with the correct key or password. It helps keep private information safe.",
-            example: "You encrypt a file containing personal documents so that someone who gets the file cannot easily read its contents.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "What Is Secure File Deletion?",
-            answer: "Secure file deletion is a method of making deleted information difficult or impossible to recover. Simply moving a file to the Recycle Bin may not permanently remove its contents.",
-            example: "Before giving away an old computer, you use a trusted data-erasing method to remove personal files securely.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "What Is Ransomware Recovery?",
-            answer: "Ransomware recovery is the process of restoring files and computer systems after ransomware locks or encrypts data. It may involve removing the malware, fixing the system, and restoring clean backups.",
-            example: "After ransomware affects a school computer, the IT team removes the threat and restores the school's files from a clean backup.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "Why Should Backups Be Tested?",
-            answer: "Backups should be tested to make sure the files are complete, usable, and can be restored when needed. A backup that cannot be restored may not help during an emergency.",
-            example: "Every month, your teacher checks whether the backed-up school documents can be opened and restored correctly.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 10,
-        heading: "Cyber crime and Digital Law",
-        slug: "cyber crime-digital-law",
-        qa: [
-          {
-            id: 1,
-            question: "What Is Cybercrime?",
-            answer: "Cybercrime is an illegal activity carried out using computers, mobile phones, networks, or the internet. It can involve stealing information, cheating people, or damaging computer systems.",
-            example: "A criminal creates a fake website to steal people's banking details.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "Types of Cybercrime",
-            answer: "Cybercrime includes online fraud, identity theft, hacking, cyberstalking, phishing, spreading malware, and stealing digital information. These activities can harm people, businesses, and organizations.",
-            example: "Someone sends a fake bank message to trick a person into sharing their password.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "Online Fraud and Financial Scams",
-            answer: "Online fraud happens when someone uses the internet to trick people into giving away money or financial information. Scammers may use fake shopping websites, payment requests, or false prize messages.",
-            example: "A fake online seller takes your payment for a phone but never delivers the phone.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "Identity Theft and Account Theft",
-            answer: "Identity theft happens when someone uses another person's personal information without permission. Account theft occurs when someone gains control of another person's online account.",
-            example: "A criminal steals someone's login details and uses their social media account to send fake messages.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "Unauthorized Access to Computers",
-            answer: "Unauthorized access means entering or using a computer, account, or network without permission. It may involve guessing passwords, exploiting security weaknesses, or using stolen login details.",
-            example: "A student secretly logs in to a teacher's computer account without permission.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "Online Impersonation",
-            answer: "Online impersonation happens when someone pretends to be another person or organization on the internet without permission, often to deceive or harm others.",
-            example: "Someone creates a fake profile using a classmate's photo and name to send misleading messages.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "Cyber stalking",
-            answer: "Cybers talking is the repeated use of digital tools to follow, monitor, threaten, or harass someone. It can make the person feel unsafe or frightened.",
-            example: "A person repeatedly sends threatening messages and tracks someone's online activity after being asked to stop.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "Copyright and Software Piracy",
-            answer: "Copyright protects original work, such as software, music, videos, and books. Software piracy means copying, sharing, or using software illegally without the required permission or licence.",
-            example: "Downloading a paid computer program from an unauthorized website instead of obtaining a legal copy may be software piracy.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "Responsible Use of Other People's Data",
-            answer: "Responsible data use means respecting other people's privacy and using their personal information only with proper permission and for legitimate purposes. Never share private information without authorization.",
-            example: "You ask your friend before posting their photograph online and avoid sharing their phone number publicly.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "How to Preserve Evidence of Online Abuse",
-            answer: "To preserve evidence of online abuse, save screenshots, messages, usernames, profile links, dates, and times. Do not edit the evidence, and keep copies somewhere safe. Tell a trusted adult or report the incident to the appropriate authority.",
-            example: "If someone sends threatening messages, you save screenshots showing the messages, username, and date before reporting the account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "How to Report Cyber crime in India",
-            answer: "In India, cyber crime can be reported through the official National Cyber Crime Reporting Portal at https://cybercrime.gov.in. For cyber financial fraud, call helpline 1930 as soon as possible. Keep relevant evidence and transaction details ready. For immediate danger, contact local police or emergency services.",
-            example: "If money is stolen through an online payment scam, you promptly call 1930, report the incident on the official portal, and inform your bank.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "Why Should We Never Retaliate Against a Hacker?",
-            answer: "Retaliating against a hacker by threatening them, breaking into their accounts, or damaging their devices can put you at risk and may itself be illegal. The safer approach is to protect your accounts, preserve evidence, and report the incident to the proper authorities.",
-            example: "If someone hacks your game account, you change your password, enable two-factor authentication, and report the account instead of trying to hack them back.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 11,
-        heading: "Advanced Cybersecurity Concepts",
-        slug: "advanced-cybersecurity-concepts",
-        qa: [
-          {
-            id: 1,
-            question: "What Is the CIA Triad: Confidentiality, Integrity and Availability?",
-            answer: "The CIA Triad is a basic model of cybersecurity with three important goals: Confidentiality keeps information private, Integrity keeps information accurate and unchanged without permission, and Availability ensures information and systems are accessible when needed.",
-            example: "A school protects student records with passwords (Confidentiality), prevents unauthorized changes to marks (Integrity), and keeps its computer system working (Availability).",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "What Is Authentication?",
-            answer: "Authentication is the process of checking whether someone is really who they claim to be. It may use a password, PIN, fingerprint, face recognition, or security code.",
-            example: "You enter your password to prove that you are the owner of your email account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "What Is Authorization?",
-            answer: "Authorization determines what an authenticated user is allowed to view, change, or use in a system. Different users may have different permissions.",
-            example: "A student can view their marks, but only an authorized teacher can change those marks.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "Authentication vs. Authorization",
-            answer: "Authentication checks who you are, while authorization checks what you are allowed to do. Authentication usually happens before authorization.",
-            example: "You log in to a school website using your password (authentication). The website then allows you to view your own results but not edit the teacher's records (authorization).",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "What Is Access Control?",
-            answer: "Access control is a security method that decides who can access particular files, devices, applications, or information. It uses permissions and rules to prevent unauthorized access.",
-            example: "A school computer allows teachers to open the marks-management system but prevents students from changing official marks.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "What Is the Principle of Least Privilege?",
-            answer: "The principle of least privilege means giving each user or program only the minimum access needed to perform its job. This reduces the damage that can happen if an account or program is misused.",
-            example: "A student account can open learning materials but cannot install software or change important computer settings.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "What Is Encryption and Decryption?",
-            answer: "Encryption changes readable information into an encoded form to protect it from unauthorized readers. Decryption changes the encoded information back into readable form using the required key.",
-            example: "A messaging application encrypts a message so that only the intended recipient with the correct key can read it.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "What Is Public-Key Cryptography?",
-            answer: "Public-key cryptography uses a pair of mathematically related keys: a public key that can be shared and a private key that must be kept secret. It supports secure communication and digital signatures.",
-            example: "Someone uses your public key to encrypt information for you, and you use your matching private key to decrypt it.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "What Is a Digital Signature?",
-            answer: "A digital signature is a cryptographic method used to help verify who signed digital information and whether it has been changed since it was signed. It is created using the signer's private key and verified using the corresponding public key.",
-            example: "A company digitally signs an electronic document so the recipient can verify its signature and check whether the signed content has changed.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "What Is a Hash Function?",
-            answer: "A hash function converts input data into a fixed-length value called a hash. A small change in the input usually produces a different hash. Secure hash functions help check data integrity and support password security.",
-            example: "A software website provides a file's hash so you can compare it with the hash of your downloaded file to check whether the file may have changed.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "What Is a Security Vulnerability?",
-            answer: "A security vulnerability is a weakness in software, hardware, or a system that an attacker might use to cause harm or gain unauthorized access.",
-            example: "An outdated application has a security weakness that could allow an attacker to access information without permission.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "What Is an Exploit?",
-            answer: "An exploit is a method, piece of code, or technique that takes advantage of a security vulnerability. Attackers may use exploits to access systems, steal data, or disrupt services.",
-            example: "A criminal uses a known weakness in an outdated application to gain access that should not be allowed.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 13,
-            question: "What Is a Zero-Day Vulnerability?",
-            answer: "A zero-day vulnerability is a security weakness that is unknown to the responsible developer or has no available fix when it is discovered or exploited. It can be especially dangerous because defenders may not have a patch ready.",
-            example: "Attackers discover and exploit a weakness in a browser before its developer has released a security update.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 14,
-            question: "What Is a Denial-of-Service (DoS) Attack?",
-            answer: "A Denial-of-Service attack attempts to make a website, server, or network unavailable by overwhelming it with requests or disrupting its normal operation.",
-            example: "An attacker sends excessive traffic to a website, making it too slow or unavailable for genuine visitors.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 15,
-            question: "What Is a Distributed Denial-of-Service (DDoS) Attack?",
-            answer: "A Distributed Denial-of-Service attack uses many devices or systems to send large amounts of traffic toward a target, making its services difficult or impossible for genuine users to access.",
-            example: "A website receives overwhelming traffic from many compromised devices at once, causing it to stop responding to customers.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 16,
-            question: "What Is a Man-in-the-Middle Attack?",
-            answer: "A Man-in-the-Middle attack happens when an attacker secretly intercepts or possibly changes communication between two parties who believe they are communicating directly.",
-            example: "On an unsafe network, an attacker tries to intercept information exchanged between a user's device and an online service.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 17,
-            question: "What Is SQL Injection?",
-            answer: "SQL injection is a security attack in which harmful SQL commands are inserted into an application's database queries through improperly handled input. It may expose, change, or delete database information.",
-            example: "A poorly protected login form handles user input incorrectly, allowing an attacker to interfere with the database query. Developers prevent this with parameterized queries and input validation.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 18,
-            question: "What Is Cross-Site Scripting (XSS)?",
-            answer: "Cross-Site Scripting (XSS) is a web security vulnerability that allows an attacker to make a website run unwanted scripts in another user's browser. It can be prevented with safe output handling, input validation, and other security controls.",
-            example: "A comment section displays untrusted content as executable code instead of harmless text, potentially affecting visitors who view the comment.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 19,
-            question: "What Is Penetration Testing?",
-            answer: "Penetration testing is an authorized security assessment in which trained professionals safely test a system for weaknesses by simulating certain attacks. The goal is to identify and fix security problems.",
-            example: "A company hires a security professional to test its website with written permission and report vulnerabilities before criminals find them.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 20,
-            question: "What Is Security Monitoring?",
-            answer: "Security monitoring is the continuous or regular observation of computers, networks, and applications to identify suspicious activity, security threats, and possible attacks.",
-            example: "A school's IT team receives an alert when an account has many failed login attempts and investigates whether someone is trying to break in.",
-            image: "",
-            video: "",
-            example_image: ""
-          }
-        ]
-      },
-      {
-        id: 12,
-        heading: "Practical Safety Skills",
-        slug: "practical-safety-skills",
-        qa: [
-          {
-            id: 1,
-            question: "Identify a Strong and Weak Password",
-            answer: "A strong password is long, unique, and difficult to guess. A weak password is short, common, or based on easily guessed information, such as your name or birthday. Never share your real passwords with others.",
-            example: "A password like \"12345678\" is weak. A long, unique passphrase such as \"Mango-River-Cloud-Train-47!\" is harder to guess. Use a different password for each important account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 2,
-            question: "Recognize a Phishing Email",
-            answer: "A phishing email is a fake message designed to trick you into sharing private information, sending money, or opening harmful links or attachments. Look for unusual sender addresses, unexpected attachments, spelling mistakes, and urgent demands.",
-            example: "You receive an email saying your account will be closed unless you click a link immediately. Instead of clicking it, visit the official website directly to check your account.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 3,
-            question: "Compare a Genuine and Suspicious URL",
-            answer: "A genuine URL belongs to the website you intend to visit, while a suspicious URL may use misspellings, extra words, misleading subdomains, or unfamiliar domains to imitate a trusted website. Check the domain carefully before opening a link. HTTPS alone does not guarantee that a website is trustworthy.",
-            example: "If a bank's official domain is examplebank.com, a link to examplebank-login.example.net is not the same domain. Do not enter your details until you verify the correct address independently.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 4,
-            question: "Identify Safe and Unsafe Downloads",
-            answer: "Safe downloads come from official websites or trusted app stores and are checked for security risks. Unsafe downloads may come from unknown websites, fake buttons, unexpected attachments, or pirated software. Check the source and scan files with trusted security software.",
-            example: "Download a video editor from its official website instead of clicking a pop-up that claims you must install an unknown program.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 5,
-            question: "Review App Permissions",
-            answer: "App permissions control which features and information an application can access, such as your camera, microphone, contacts, location, and photos. Review permissions regularly and allow only those needed for the app's purpose.",
-            example: "A calculator app usually does not need access to your microphone or contacts, so you can deny those permissions.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 6,
-            question: "Configure Privacy Settings",
-            answer: "Privacy settings help control who can see your information, contact you, or view your online activity. Review settings on social media, browsers, devices, and apps to limit unnecessary sharing.",
-            example: "You set your social media profile so only approved friends can see your posts and personal details.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 7,
-            question: "Enable Two-Factor Authentication",
-            answer: "Two-factor authentication (2FA) adds a second security step after your password. This may be an authenticator app code, a security key, or another approved verification method. It helps protect your account if your password is stolen.",
-            example: "After entering your email password, you approve the login using your authenticator app. Never share verification codes with anyone.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 8,
-            question: "Update a Computer or Mobile Device",
-            answer: "Updating a computer or mobile device installs improvements and security fixes for its operating system and apps. Install updates from official settings or trusted app stores, and enable automatic updates when practical.",
-            example: "Your phone shows a system update. You connect to a trusted Wi-Fi network, check that the update is official, and install it.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 9,
-            question: "Run a Security Scan Using Trusted Software",
-            answer: "A security scan checks a device or its files for malware and other potential threats. Use reputable, updated security software and follow its instructions if it finds something suspicious.",
-            example: "You run a scan using the built-in security tool on your computer and follow its recommendations when it detects a suspicious file.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 10,
-            question: "Back Up Important Files",
-            answer: "Backing up important files means keeping extra copies so you can recover them if your device is lost, damaged, or affected by malware. Use a trusted cloud service or an external drive, and keep backups protected from unauthorized access.",
-            example: "You save copies of your school projects to a trusted cloud account and an external drive, then check that the files can be restored.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 11,
-            question: "Block and Report a Suspicious Account",
-            answer: "Blocking prevents or limits an account from contacting you, while reporting sends information about suspected abuse or suspicious activity to the platform for review. Preserve useful evidence before blocking when it is safe to do so.",
-            example: "An unknown account repeatedly sends suspicious links. You save relevant screenshots, report the account, and block it.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 12,
-            question: "Create a Cyber Incident Response Checklist",
-            answer: "A cyber incident response checklist is a set of steps to follow when a security problem occurs. It can include staying calm, disconnecting an affected device from the network when appropriate, notifying a trusted adult or IT professional, securing accounts from a clean device, preserving evidence, and reporting the incident.",
-            example: "If a school computer may be infected, you stop using it, tell the IT team, avoid deleting evidence, and follow their instructions.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 13,
-            question: "Practice Safe Online Shopping",
-            answer: "Safe online shopping means using trusted websites, checking the seller and product details, reading return policies, and choosing secure payment methods. Avoid suspicious offers and never share your passwords or one-time passwords (OTPs) with a seller.",
-            example: "Before buying a school bag online, you check the website address, seller reviews, delivery details, and return policy. You never tell anyone your banking OTP.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 14,
-            question: "Respond to a Compromised Account",
-            answer: "If an account is compromised, use a trusted device to change its password, secure the linked email account, enable two-factor authentication, sign out unknown sessions, and review recovery details. Contact the service provider or bank if needed, and report any financial fraud promptly.",
-            example: "If someone takes control of your email account, you use the official account recovery process, change the password from a safe device, and remove unfamiliar sessions.",
-            image: "",
-            video: "",
-            example_image: ""
-          },
-          {
-            id: 15,
-            question: "Complete a Cyber Safety Challenge",
-            answer: "A cyber safety challenge is an activity that helps you practise safe online habits, such as identifying phishing messages, checking website addresses, choosing strong passwords, and protecting personal information.",
-            example: "You review five sample messages and decide which are genuine and which may be scams by checking the sender, links, and requests for private information.",
             image: "",
             video: "",
             example_image: ""

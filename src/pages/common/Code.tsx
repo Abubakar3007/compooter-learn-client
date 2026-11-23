@@ -28,7 +28,11 @@ export default function Code() {
           <textarea value={code[tab]} onChange={(e) => setCode({ ...code, [tab]: e.target.value })} spellCheck={false} className="h-96 w-full resize-none bg-foreground p-4 font-mono text-sm text-background outline-none" />
         </div>
         <div className="flex flex-col overflow-hidden rounded-3xl border bg-card">
-          <div className="flex items-center justify-between border-b p-2"><span className="px-2 font-bold">Output</span><GradientButton onClick={run} className="py-2"><Play className="h-4 w-4" /> Run</GradientButton></div>
+          <div className="flex items-center justify-between border-b p-2">
+            <span className="px-2 font-bold">Output</span>
+            <GradientButton onClick={run} className="py-2">
+              <Play className="h-4 w-4" /> Run</GradientButton>
+          </div>
           {doc ? <iframe title="Output" sandbox="allow-scripts" srcDoc={doc} className="h-96 w-full flex-1 bg-card" /> : <div className="grid h-96 place-items-center text-muted-foreground">Press ▶ Run to see your code!</div>}
         </div>
       </div>

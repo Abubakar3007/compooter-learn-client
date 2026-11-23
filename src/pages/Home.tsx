@@ -4,6 +4,7 @@ import heroImg from "@/assets/hero.jpg";
 import { SiteLayout } from "@/components/site";
 import { EmojiTile, FunCard } from "@/components/ui-fun";
 import { careers, courses, steps, type Fun } from "@/data/content";
+import useAuthStore from "@/stores/useAuthStore";
 
 const pillars: { e: string; t: string; d: string; c: Fun }[] = [
   { e: "🧠", t: "Learn", d: "Build strong computer and programming fundamentals.", c: "blue" },
@@ -13,16 +14,19 @@ const pillars: { e: string; t: string; d: string; c: Fun }[] = [
 ];
 
 export default function Home() {
+
+  const { isAuthenticated } = useAuthStore();
+
   return (
     <SiteLayout>
       <section className="relative mx-auto grid max-w-7xl items-center gap-10 px-4 py-12 md:grid-cols-2 md:py-20">
         <div className="animate-pop">
-          <span className="inline-flex items-center gap-2 rounded-full bg-secondary px-4 py-1.5 text-sm font-bold text-secondary-foreground"><Sparkles className="h-4 w-4" /> For Class 5 – 12</span>
-          <h1 className="mt-5 text-5xl leading-tight md:text-6xl">Turn Curiosity Into <span className="text-gradient">Skills.</span></h1>
-          <p className="mt-5 max-w-xl text-lg text-muted-foreground">An interactive learning platform where students learn computers, coding, technology and discover the career paths they love.</p>
+          <span className="inline-flex items-center gap-2 rounded-full bg-secondary px-4 py-1.5 text-sm font-semibold text-secondary-foreground"><Sparkles className="h-4 w-4" /> Your journey into the world of technology starts here</span>
+          <h1 className="mt-5 text-5xl leading-tight md:text-6xl font-bold">From Curious Learner to Future Innovator. <span className="text-gradient">Skills.</span></h1>
+          <p className="mt-5 max-w-xl text-lg text-muted-foreground">Discover how computers work, learn to code, explore Artificial Intelligence, build games and create real-world projects. Start with the basics and grow your skills one step at a time.</p>
           <div className="mt-8 flex flex-wrap gap-3">
-            <Link to="/register" className="inline-flex items-center gap-2 rounded-2xl bg-gradient-hero px-6 py-3.5 font-display text-lg font-extrabold text-on-fun shadow-pop transition hover:scale-105">Start Learning Free <ArrowRight className="h-5 w-5" /></Link>
-            <Link to="/paths" className="rounded-2xl border-2 bg-card px-6 py-3.5 font-display text-lg font-extrabold transition hover:bg-secondary">Explore Learning Paths</Link>
+            <Link to={`${isAuthenticated ? '/student/dashboard' : '/login'}`} className="inline-flex items-center gap-2 rounded-2xl bg-gradient-hero px-6 py-3.5 font-display text-lg font-bold text-on-fun shadow-pop transition hover:scale-105">Start Learning Free <ArrowRight className="h-5 w-5" /></Link>
+            <Link to="/paths" className="rounded-2xl border-2 bg-card px-6 py-3.5 font-display text-lg font-bold transition hover:bg-secondary">Explore Learning Paths</Link>
           </div>
           <div className="mt-8 flex gap-6 text-sm font-semibold text-muted-foreground">
             <span>⭐ 50,000+ students</span><span>🏆 200+ lessons</span><span>🛡️ Kid-safe</span>

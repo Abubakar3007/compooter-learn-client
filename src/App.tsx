@@ -14,6 +14,8 @@ import HowItWorks from "./pages/common/HowItWork";
 import Paths from "./pages/common/Paths";
 import Pricing from "./pages/common/Pricing";
 import Showcase from "./pages/common/Showcase";
+import CodeEditor from "./pages/common/Code";
+import Code from "./pages/common/CodeEditor";
 
 import StudentLayout from "./pages/students/StudentLayout";
 import StudentDashboard from "./pages/students/Dashboard";
@@ -28,12 +30,13 @@ import StudentCareerExplorer from "./pages/students/CareerExplore";
 import StudentSkillAssessment from "./pages/students/SkillAssessment";
 import StudentCertificates from "./pages/students/Certificates";
 import StudentProfile from "./pages/students/Profile";
-import StudentCode from "./pages/students/Code";
+import StudentCode from "./pages/common/Code";
 import StudentSettings from "./pages/students/Settings";
 import StudentChallenges from "./pages/students/Challenges";
 import StudentQuizParticipation from "./pages/students/QuizParticipation";
 import StudentGetCertificate from "./pages/students/GetCertificate";
-import StudentMyProgress from "./pages/students/MyProgress"
+import StudentMyProgress from "./pages/students/MyProgress";
+import LogicChallenge from "./pages/students/LogicChallenge"
 
 import ParentLayout from "./pages/parents/ParentLayout";
 import ParentIndex from "./pages/parents/Parent";
@@ -53,6 +56,9 @@ import TeacherStudents from "./pages/teachers/Students";
 import AdminLayout from "./pages/admin/AdminLayout";
 import AdminIndex from "./pages/admin/Admin";
 import AdminSection from "./pages/admin/Section";
+import BinaryChallenge from "./pages/students/BinaryChallenge";
+import DailyQuiz from "./pages/students/DailyQuiz";
+import CodingChallenge from "./pages/students/CodingChallenge";
 
 export const router = createBrowserRouter([
   {
@@ -73,6 +79,8 @@ export const router = createBrowserRouter([
       { path: "paths", element: <Paths /> },
       { path: "pricing", element: <Pricing /> },
       { path: "showcase", element: <Showcase /> },
+      { path: "code-editor", element: <CodeEditor /> },
+      { path: "code", element: <Code /> },
       {
         path: "student",
         element: <StudentLayout />,
@@ -92,7 +100,7 @@ export const router = createBrowserRouter([
                 element: <StudentLearnCourse />,
               },
               {
-                path: ":courseId/questions/:questionId",
+                path: ":topicId/:courseId/:questionId",
                 element: <StudentLesson />,
               },
             ],
@@ -111,7 +119,11 @@ export const router = createBrowserRouter([
           { path: "challenges", element: <StudentChallenges /> },
           { path: "quiz-participation", element: <StudentQuizParticipation /> },
           { path: "get-certificate", element: <StudentGetCertificate /> },
-          { path: "my-progress", element: <StudentMyProgress /> }
+          { path: "my-progress", element: <StudentMyProgress /> },
+          { path: "logic-challenge", element: <LogicChallenge /> },
+          { path: "binary-challenge", element: <BinaryChallenge /> },
+          { path: "daily-quiz", element: <DailyQuiz /> },
+          { path: "coding-challenge", element: <CodingChallenge /> },
         ],
       },
       {

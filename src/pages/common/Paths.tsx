@@ -3,8 +3,11 @@ import { Hero, SiteLayout } from "@/components/site";
 import { EmojiTile, FunCard } from "@/components/ui-fun";
 import { totalCourses } from "@/data/content";
 import { ArrowRight } from "lucide-react";
+import useAuthStore from "@/stores/useAuthStore";
 
 export default function Paths() {
+
+  const { isAuthenticated } = useAuthStore();
   return (
     <SiteLayout>
       <Hero emoji="🧭" title="Learning Paths" subtitle="Four core levels, then pick the adventures you love." />
@@ -27,7 +30,7 @@ export default function Paths() {
               }
             </div>
             <div className="mt-12 flex items-end justify-end">
-              <Link to={`/student/learn/${data.slug}`} className="text-sm text-primary font-semibold flex items-center gap-1">
+              <Link to={`${isAuthenticated ? `/student/learn/${data.slug}` : '/login'}`} className="text-sm text-primary font-semibold flex items-center gap-1">
                 Learn now
                 <ArrowRight size={14} className="mt-1" />
               </Link>

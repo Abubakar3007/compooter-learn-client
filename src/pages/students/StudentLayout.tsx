@@ -1,6 +1,7 @@
 import { Outlet } from "react-router-dom";
 import { Award, BookOpen, Code2, Compass, FolderKanban, Home, ListChecks, Settings, Target, User, ScrollText, School } from "lucide-react";
 import { AppShell, type NavItem } from "@/components/app-shell";
+import useAuthStore from "@/stores/useAuthStore";
 
 const nav: NavItem[] = [
   { to: "/student/dashboard", label: "Home", icon: Home },
@@ -18,5 +19,6 @@ const nav: NavItem[] = [
 ];
 
 export default function StudentLayout() {
-  return <AppShell nav={nav} role="🎒 Student" user="Aarav"><Outlet /></AppShell>;
+  const { user } = useAuthStore();
+  return <AppShell nav={nav} role="🎒 Student" username={user?.name || "Aarav"}><Outlet /></AppShell>;
 }
