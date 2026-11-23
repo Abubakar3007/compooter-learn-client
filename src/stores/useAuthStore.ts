@@ -62,7 +62,8 @@ const initialRegisterData: RegisterData = {
     buildPreference: "",
 };
 
-const API_URL = "http://localhost:5000/api/auth";
+// LIVE BACKEND API URL
+const API_URL = `${import.meta.env.VITE_API_URL}/api/auth`;
 
 const useAuthStore = create<AuthStore>((set, get) => ({
     // Initial State
@@ -168,7 +169,7 @@ const useAuthStore = create<AuthStore>((set, get) => ({
             set({ isLoading: true });
 
             const response = await fetch(
-                "http://localhost:5000/api/auth/me",
+                `${API_URL}/me`,
                 {
                     method: "GET",
                     credentials: "include",

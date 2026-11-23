@@ -1,5 +1,5 @@
 import { create } from "zustand";
-const API_URL = "http://localhost:5000/api/progress";
+const API_URL = `${import.meta.env.VITE_API_URL}/api/progress`;
 
 interface ProgressStore {
     completedLessons: string[];
