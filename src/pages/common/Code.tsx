@@ -3,6 +3,7 @@ import { Play, RotateCcw } from "lucide-react";
 import { toast } from "sonner";
 import { GradientButton, PageTitle } from "@/components/ui-fun";
 import { cn } from "@/lib/utils";
+import { SiteLayout } from "@/components/site";
 
 const starter = {
   html: `<h1>Hello, CodeQuest! 🚀</h1>\n<button id="btn">Click me</button>\n<p id="out"></p>`,
@@ -17,7 +18,7 @@ export default function Code() {
   const [doc, setDoc] = useState("");
   const run = () => { setDoc(`<html><style>${code.css}</style><body>${code.html}<script>${code.js}<\/script></body></html>`); toast.success("Code ran! +10 XP"); };
   return (
-    <div>
+    <SiteLayout>
       <PageTitle emoji="💻" title="Code Playground" subtitle="Edit the code, press Run, and watch it come alive." />
       <div className="grid gap-4 lg:grid-cols-2">
         <div className="overflow-hidden rounded-3xl border bg-card">
@@ -36,6 +37,6 @@ export default function Code() {
           {doc ? <iframe title="Output" sandbox="allow-scripts" srcDoc={doc} className="h-96 w-full flex-1 bg-card" /> : <div className="grid h-96 place-items-center text-muted-foreground">Press ▶ Run to see your code!</div>}
         </div>
       </div>
-    </div>
+    </SiteLayout>
   );
 }
