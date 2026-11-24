@@ -267,4 +267,12 @@
   .paragraph li {
     line-height: 32px;
   }
+
+  .code-editor select {
+    min-height: inherit;
+  }
+
+  select {
+    font-family: inherit;
+  }
 }

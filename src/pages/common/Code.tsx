@@ -19,22 +19,26 @@ export default function Code() {
   const run = () => { setDoc(`<html><style>${code.css}</style><body>${code.html}<script>${code.js}<\/script></body></html>`); toast.success("Code ran! +10 XP"); };
   return (
     <SiteLayout>
-      <PageTitle emoji="💻" title="Code Playground" subtitle="Edit the code, press Run, and watch it come alive." />
-      <div className="grid gap-4 lg:grid-cols-2">
-        <div className="overflow-hidden rounded-3xl border bg-card">
-          <div className="flex items-center gap-1 border-b p-2">
-            {(Object.keys(starter) as Tab[]).map((t) => <button key={t} onClick={() => setTab(t)} className={cn("rounded-xl px-4 py-1.5 text-sm font-bold uppercase", tab === t ? "bg-gradient-hero text-on-fun" : "text-muted-foreground")}>{t}</button>)}
-            <button onClick={() => setCode(starter)} className="ml-auto rounded-xl p-2 text-muted-foreground hover:bg-muted" aria-label="Reset"><RotateCcw className="h-4 w-4" /></button>
+      <div className="min-h-screen bg-[#fffaf1] p-4 md:p-8">
+        <div className="mx-auto max-w-7xl px-4">
+          <PageTitle emoji="💻" title="Code Playground" subtitle="Edit the code, press Run, and watch it come alive." />
+          <div className="grid gap-4 lg:grid-cols-2">
+            <div className="overflow-hidden rounded-3xl border bg-card">
+              <div className="flex items-center gap-1 border-b p-2">
+                {(Object.keys(starter) as Tab[]).map((t) => <button key={t} onClick={() => setTab(t)} className={cn("rounded-xl px-4 py-1.5 text-sm font-bold uppercase", tab === t ? "bg-gradient-hero text-on-fun" : "text-muted-foreground")}>{t}</button>)}
+                <button onClick={() => setCode(starter)} className="ml-auto rounded-xl p-2 text-muted-foreground hover:bg-muted" aria-label="Reset"><RotateCcw className="h-4 w-4" /></button>
+              </div>
+              <textarea value={code[tab]} onChange={(e) => setCode({ ...code, [tab]: e.target.value })} spellCheck={false} className="h-96 w-full resize-none bg-foreground p-4 font-mono text-sm text-background outline-none" />
+            </div>
+            <div className="flex flex-col overflow-hidden rounded-3xl border bg-card">
+              <div className="flex items-center justify-between border-b p-2">
+                <span className="px-2 font-bold">Output</span>
+                <GradientButton onClick={run} className="py-2">
+                  <Play className="h-4 w-4" /> Run</GradientButton>
+              </div>
+              {doc ? <iframe title="Output" sandbox="allow-scripts" srcDoc={doc} className="h-96 w-full flex-1 bg-card" /> : <div className="grid h-96 place-items-center text-muted-foreground">Press ▶ Run to see your code!</div>}
+            </div>
           </div>
-          <textarea value={code[tab]} onChange={(e) => setCode({ ...code, [tab]: e.target.value })} spellCheck={false} className="h-96 w-full resize-none bg-foreground p-4 font-mono text-sm text-background outline-none" />
-        </div>
-        <div className="flex flex-col overflow-hidden rounded-3xl border bg-card">
-          <div className="flex items-center justify-between border-b p-2">
-            <span className="px-2 font-bold">Output</span>
-            <GradientButton onClick={run} className="py-2">
-              <Play className="h-4 w-4" /> Run</GradientButton>
-          </div>
-          {doc ? <iframe title="Output" sandbox="allow-scripts" srcDoc={doc} className="h-96 w-full flex-1 bg-card" /> : <div className="grid h-96 place-items-center text-muted-foreground">Press ▶ Run to see your code!</div>}
         </div>
       </div>
     </SiteLayout>

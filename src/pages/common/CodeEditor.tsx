@@ -1,185 +1,193 @@
 
-import { useRef, useState } from "react";
+import { useState, useEffect } from "react";
 import Editor from "@monaco-editor/react";
+import axios from "axios";
+import { SiteLayout } from "@/components/site";
 
-type Language = "python" | "javascript";
+const API = import.meta.env.VITE_API_URL;
+
+const languageNames = {
+    c: "c",
+    cpp: "c++",
+    csharp: "c#",
+    java: "java",
+    python: "python",
+    javascript: "javascript",
+    go: "go",
+};
+
+const starterCode = {
+    c: '#include <stdio.h>\n\nint main() {\n    printf("Hello World");\n    return 0;\n}',
+    cpp: '#include <iostream>\nusing namespace std;\n\nint main() {\n    cout << "Hello World";\n    return 0;\n}',
+    csharp: 'using System;\n\nclass Program {\n    static void Main() {\n        Console.WriteLine("Hello World");\n    }\n}',
+    java: 'public class Main {\n    public static void main(String[] args) {\n        System.out.println("Hello World");\n    }\n}',
+    python: 'print("Hello World")',
+    javascript: 'console.log("Hello World");',
+    go: 'package main\n\nimport "fmt"\n\nfunc main() {\n    fmt.Println("Hello World")\n}',
+};
+
+interface ProgrammingLanguage {
+    id: number;
+    name: string;
+    version: string;
+    slug: string;
+}
 
 export default function CodeEditor() {
-    const [language, setLanguage] = useState<Language>("python");
-
-    const [code, setCode] = useState(
-        'print("Hello, World!")'
-    );
-
+    const [languages, setLanguages] = useState<ProgrammingLanguage[]>([]);
+    const [language, setLanguage] = useState("python");
+    const [code, setCode] = useState(starterCode.python);
+    const [stdin, setStdin] = useState("");
     const [output, setOutput] = useState("");
     const [loading, setLoading] = useState(false);
 
-    const workerRef = useRef<Worker | null>(null);
-    const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+    useEffect(() => {
+        axios.get("http://localhost:5000/api/code/languages").then((res) => {
+            setLanguages(res.data);
+        }).catch((err) => {
+            console.error("Language loading error:", err);
+        });
+    }, []);
 
-    function runCode() {
-        // Stop previous execution
-        workerRef.current?.terminate();
+    const changeLanguage = (value: any) => {
+        setLanguage(value);
+        setCode(starterCode[value] || "");
+        setOutput("");
+    };
 
-        if (timeoutRef.current) {
-            clearTimeout(timeoutRef.current);
-        }
-
+    const runCode = async () => {
         setLoading(true);
         setOutput("Running...");
 
-        const worker = language === "python"
-            ? new Worker(
-                new URL("../../workers/python.worker.ts", import.meta.url),
-                { type: "module" }
-            )
-            : new Worker(
-                new URL("../../workers/javascript.worker.ts", import.meta.url),
-                { type: "module" }
+        try {
+            const selected = languages.find(item => item.slug === language);
+
+            if (!selected) {
+                throw new Error("Language unavailable");
+            }
+
+            const { data } = await axios.post(`${API}/api/code/run`,
+                {
+                    code,
+                    languageId: selected.id,
+                    stdin,
+                }
             );
 
-        workerRef.current = worker;
+            console.log(data);
 
-        worker.onmessage = (event) => {
-            const result = event.data;
+            let result;
 
-            if (result.type === "status") {
-                setOutput(result.output);
-                return;
+            // Poll Judge0 for completion
+            for (let i = 0; i < 15; i++) {
+                await new Promise(resolve =>
+                    setTimeout(resolve, 1000)
+                );
+
+                const response = await axios.get(
+                    `${API}/api/code/result/${data.token}`
+                );
+
+                result = response.data;
+
+                if (result.status?.id >= 3) break;
             }
 
-            setOutput(result.output);
-            setLoading(false);
-
-            worker.terminate();
-            workerRef.current = null;
-
-            if (timeoutRef.current) {
-                clearTimeout(timeoutRef.current);
-                timeoutRef.current = null;
+            if (!result || result.status?.id < 3) {
+                setOutput("Execution timed out. Try again.");
+            } else {
+                setOutput(
+                    result.stdout ||
+                    result.compile_output ||
+                    result.stderr ||
+                    result.message ||
+                    result.status?.description ||
+                    "No output"
+                );
             }
-        };
-
-        worker.onerror = (event) => {
-            console.error("Worker error:", {
-                message: event.message,
-                filename: event.filename,
-                line: event.lineno,
-                column: event.colno,
-            });
-
+        } catch (error: any) {
             setOutput(
-                `Worker Error: ${event.message || "Unknown error"}\n` +
-                `File: ${event.filename}\n` +
-                `Line: ${event.lineno}`
+                error.response?.data?.message ||
+                error.message ||
+                "Execution failed"
             );
-
+        } finally {
             setLoading(false);
-            worker.terminate();
-            workerRef.current = null;
-
-            if (timeoutRef.current) {
-                clearTimeout(timeoutRef.current);
-                timeoutRef.current = null;
-            }
-        };
-
-        worker.onmessageerror = (event) => {
-            console.error("Worker message error:", event);
-
-            setOutput("Unable to receive data from the worker.");
-            setLoading(false);
-            worker.terminate();
-            workerRef.current = null;
-        };
-
-
-        // Prevent infinite loops from running forever
-        timeoutRef.current = setTimeout(() => {
-            worker.terminate();
-            workerRef.current = null;
-            setOutput("Execution timed out.");
-            setLoading(false);
-        }, 10000);
-
-        worker.postMessage({ code });
-    }
-
-    function changeLanguage(next: Language) {
-        setLanguage(next);
-
-        setCode(
-            next === "python"
-                ? 'print("Hello, World!")'
-                : 'console.log("Hello, World!");'
-        );
-
-        setOutput("");
-    }
+        }
+    };
 
     return (
-        <div className="py-14 bg-card text-white min-h-screen">
-            <div className="max-w-[90%] mx-auto">
-                <h1 className="text-2xl font-bold mb-2">💻Code Playground</h1>
-                <p className="text-muted-foreground mb-8">Edit the code, press Run, and watch it come alive.</p>
-                <div className="grid gap-4 lg:grid-cols-2  px-4">
-                    <div className="overflow-hidden rounded-3xl border bg-card">
+        <SiteLayout>
+            <div className="min-h-[calc(100dvh-60px)] bg-[#0d1117] text-white">
+                <div className="flex min-h-[inherit]">
+                    <div className="flex-1 min-h-[inherit]">
                         {/* Toolbar */}
-                        <div className="flex items-center justify-between bg-slate-900 p-3">
+                        <div className="flex items-center justify-between p-4 bg-[#1f1e1e] border-b-3 border-t-none border-[#353535]">
 
                             <select
                                 value={language}
-                                onChange={(e) =>
-                                    changeLanguage(e.target.value as Language)
-                                }
-                                className="rounded bg-slate-800 p-2 text-white"
+                                onChange={e => changeLanguage(e.target.value)}
+                                className="bg-gray-800 p-2 rounded cursor-pointer text-sm"
                             >
-                                <option value="python">Python</option>
-                                <option value="javascript">JavaScript</option>
+                                {Object.keys(languageNames).map(lang => (
+                                    <option key={lang} value={lang}>
+                                        {lang.toUpperCase()}
+                                    </option>
+                                ))}
                             </select>
 
                             <button
                                 onClick={runCode}
                                 disabled={loading}
-                                className="rounded bg-green-600 px-4 py-2 text-white disabled:opacity-50"
+                                className="bg-green-600 px-5 py-2 rounded-lg disabled:opacity-50 cursor-pointer"
                             >
-                                {loading ? "Running..." : "▶ Run"}
+                                {loading ? "Running..." : "▶ Run Code"}
                             </button>
-
                         </div>
 
                         {/* Editor */}
-                        <Editor
-                            height="350px"
-                            language={language}
-                            value={code}
-                            onChange={(value) => setCode(value ?? "")}
-                            theme="vs-dark"
-                            options={{
-                                minimap: { enabled: false },
-                                fontSize: 15,
-                                automaticLayout: true,
-                                tabSize: 4,
-                                scrollBeyondLastLine: false,
-                                padding: { top: 12 },
-                            }}
-                        />
-                    </div>
-                    {/* Output */}
-                    <div className="flex flex-col overflow-hidden rounded-3xl border bg-card">
-                        <div className="border-b p-4 bg-slate-900 text-white">
-                            <h3 className="font-semibold">
-                                Output
-                            </h3>
+                        <div className="min-h-[inherit] code-editor">
+                            <Editor
+                                theme="vs-dark"
+                                language={languageNames[language]}
+                                className="min-h-[inherit] h-[calc(100dvh-60px)]"
+                                value={code}
+                                onChange={value => setCode(value || "")}
+                                options={{
+                                    fontSize: 15,
+                                    minimap: { enabled: false },
+                                    automaticLayout: true,
+                                    wordWrap: "on",
+                                    suggestOnTriggerCharacters: true,
+                                    scrollBeyondLastLine: false,
+                                }}
+                            />
                         </div>
-                        <div className="flex-1 overflow-auto p-4">
-                            <pre className="whitespace-pre-wrap break-words text-sm">
-                                {output || "Your program output will appear here."}
+                    </div>
+                    {/* Input */}
+                    <div className="flex-1 bg-[#1f1e1e]">
+                        <div className="flex items-center min-h-[72px] justify-between p-4 bg-[#1b1a1a] border-l-3 border-green-600">
+                            <h3>Custom Input (stdin)</h3>
+                        </div>
+                        <div className="px-4 mt-4">
+                            <textarea
+                                value={stdin}
+                                onChange={e => setStdin(e.target.value)}
+                                placeholder="Enter program input..."
+                                className="w-full h-20 bg-gray-800 p-3 rounded outline-none"
+                            />
+                        </div>
+                        <div className="flex items-center min-h-[72px] justify-between p-4 bg-[#1b1a1a] border-l-3 border-green-600 mt-6">
+                            <h3>Output</h3>
+                        </div>
+                        <div className="px-4 mt-4">
+                            <pre className="bg-black p-4 rounded min-h-[380px] whitespace-pre-wrap">
+                                {output || "Output will appear here..."}
                             </pre>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </SiteLayout>
     );
 }

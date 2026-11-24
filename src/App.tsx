@@ -59,6 +59,7 @@ import AdminSection from "./pages/admin/Section";
 import BinaryChallenge from "./pages/students/BinaryChallenge";
 import DailyQuiz from "./pages/students/DailyQuiz";
 import CodingChallenge from "./pages/students/CodingChallenge";
+import Quiz from "./pages/common/Quiz";
 
 export const router = createBrowserRouter([
   {
@@ -81,6 +82,7 @@ export const router = createBrowserRouter([
       { path: "showcase", element: <Showcase /> },
       { path: "code-editor", element: <CodeEditor /> },
       { path: "code", element: <Code /> },
+      { path: "/quiz", element: <Quiz /> },
       {
         path: "student",
         element: <StudentLayout />,

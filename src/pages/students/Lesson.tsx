@@ -12,13 +12,13 @@ import { useProgressStore } from "@/stores/useProgressStore";
 import LessonImagePopup from "@/components/LessonImagePopup";
 
 export default function Lesson() {
-  const { courseId, questionId } = useParams<{
+  const { topicId, courseId, questionId } = useParams<{
     topicId: string;
     courseId: string;
     questionId: string;
   }>();
 
-  console.log(courseId, questionId)
+  console.log(topicId, courseId, questionId)
   const questionNum = Number(questionId);
   console.log(questionNum);
 
@@ -51,6 +51,7 @@ export default function Lesson() {
   const [cid, idxS] = courseId!.split("--");
   const idx = Number(idxS) || 0;
   const course = courses.find((c) => c.id === cid) ?? courses[0];
+  console.log("This is course for", course)
   const lesson = getLesson(course.id, idx);
   const { addXp } = useProgress();
   const [pick, setPick] = useState<number | null>(null);
@@ -64,7 +65,6 @@ export default function Lesson() {
   const handleImage = () => {
     setImageSource(value.image);
     setImageName(heading);
-    console.log("hii");
     setIsOpen(true);
   }
 
@@ -80,15 +80,15 @@ export default function Lesson() {
           <div className="flex gap-8 items-center">
             {
               questionNum > 1 && (
-                <Link to={`/student/learn/${courseId}/questions/${questionNum - 1}`} className="inline-flex items-center gap-1 font-semibold text-primary">
+                <Link to={`/student/learn/${topicId}/${courseId}/${questionNum - 1}`} className="inline-flex items-center gap-1 font-semibold text-primary">
                   <MoveLeft className="h-4 w-4 mt-1" />
                   <span>Previous</span>
                 </Link>
               )
             }
 
-            {idx + 1 < course.topics.length && <Link
-              to={`/student/learn/${courseId}/questions/${questionNum + 1}`}
+            {(idx + 1 <= 1 && idx < questionNum) && <Link
+              to={`/student/learn/${topicId}/${courseId}/${questionNum + 1}`}
               className="inline-flex items-center gap-1 font-semibold text-primary"
             >
               <span>Next lesson</span>
@@ -98,12 +98,14 @@ export default function Lesson() {
         </div>
 
         <div className="rounded-[2rem] bg-gradient-hero p-8 text-on-fun shadow-pop relative">
-          <div className="flex items-center gap-3 mb-4">
-            <h3 className="font-bold text-xl">{heading}</h3>
-            <MoveRight className="mt-1" />
-            <div className="text-sm font-bold opacity-80">Lesson {questionNum} of {qaLength}</div>
+          <div>
+            <div className="flex items-center gap-3 mb-4">
+              <h3 className="font-bold text-2xl">{heading}</h3>
+              <MoveRight className="mt-1" />
+              <div className="text-sm font-bold opacity-80">Lesson {questionNum} of {qaLength}</div>
+            </div>
+            <h4>Chapter - {value.question}</h4>
           </div>
-
           {/* <h1 className="text-4xl font-bold">{course.emoji} {value.question}</h1> */}
           <button title="Add to Bookmark" className="cursor-pointer bg-white w-12 h-12 rounded-full grid place-items-center absolute right-8 text-black top-[50%] -translate-y-1/2">
             <Bookmark />
@@ -194,7 +196,7 @@ export default function Lesson() {
             }
 
             {idx + 1 < course.topics.length && <Link
-              to={`/student/learn/${courseId}/questions/${questionNum + 1}`}
+              to={`/student/learn/${topicId}/${courseId}/${questionNum + 1}`}
               className="inline-flex items-center gap-1 font-semibold text-primary"
             >
               <span>Next lesson</span>

@@ -29,11 +29,34 @@ import ques38 from "../assets/pages/computer/chapter-3/ques8.png";
 import ques39 from "../assets/pages/computer/chapter-3/ques9.png";
 
 
+import ques41 from "../assets/pages/computer/chapter-4/ques1.png";
+import ques42 from "../assets/pages/computer/chapter-4/ques2.png";
+import ques43 from "../assets/pages/computer/chapter-4/ques3.png";
+import ques44 from "../assets/pages/computer/chapter-4/ques4.png";
+import ques45 from "../assets/pages/computer/chapter-4/ques5.png";
+import ques46 from "../assets/pages/computer/chapter-4/ques6.png";
+import ques47 from "../assets/pages/computer/chapter-4/ques7.png";
+import ques48 from "../assets/pages/computer/chapter-4/ques8.png";
+import ques49 from "../assets/pages/computer/chapter-4/ques9.png";
+import ques410 from "../assets/pages/computer/chapter-4/ques10.png";
+import ques411 from "../assets/pages/computer/chapter-4/ques11.png";
+
 import ques51 from "../assets/pages/computer/chapter-5/ques1.png";
 import ques52 from "../assets/pages/computer/chapter-5/ques2.png";
 import ques53 from "../assets/pages/computer/chapter-5/ques3.png";
 import ques54 from "../assets/pages/computer/chapter-5/ques4.png";
 
+import ques61 from "../assets/pages/computer/chapter-6/ques1.png";
+import ques62 from "../assets/pages/computer/chapter-6/ques2.png";
+import ques63 from "../assets/pages/computer/chapter-6/ques3.png";
+import ques64 from "../assets/pages/computer/chapter-6/ques4.png";
+import ques65 from "../assets/pages/computer/chapter-6/ques5.png";
+import ques66 from "../assets/pages/computer/chapter-6/ques6.png";
+import ques67 from "../assets/pages/computer/chapter-6/ques7.png";
+import ques68 from "../assets/pages/computer/chapter-6/ques8.png";
+import ques69 from "../assets/pages/computer/chapter-6/ques9.png";
+import ques610 from "../assets/pages/computer/chapter-6/ques10.png";
+import ques611 from "../assets/pages/computer/chapter-6/ques11.png";
 
 import ques71 from "../assets/pages/computer/chapter-7/ques1.png";
 import ques72 from "../assets/pages/computer/chapter-7/ques2.png";
@@ -2167,12 +2190,12 @@ export const totalCourses = [
             id: 5,
             question: "What Are the Main Parts of a Computer?",
 
-            answer: `A computer is an electronic machine made up of different parts. Each part has a special job, and all the parts work together to help us perform different tasks, such as typing documents, drawing pictures, watching videos, playing games, and studying.
+            answer: `<div><p>A computer is an electronic machine made up of different parts. Each part has a special job, and all the parts work together to help us perform different tasks, such as typing documents, drawing pictures, watching videos, playing games, and studying.</p>
 
-Some parts help us enter information into the computer. Some parts process the information, while others display the results or save information for future use.
+<p>Some parts help us enter information into the computer. Some parts process the information, while others display the results or save information for future use.</p>
 
-A desktop computer has several important external and internal parts. Its common external parts include the monitor, keyboard, and mouse. Inside the system unit, there are components such as the CPU, RAM, motherboard, storage drive, and power supply.
-
+<p>A desktop computer has several important external and internal parts. Its common external parts include the monitor, keyboard, and mouse. Inside the system unit, there are components such as the CPU, RAM, motherboard, storage drive, and power supply.</p></div>
+<div>
 <strong>1. Monitor (Output Device):</strong>
 
 A monitor is a screen that looks similar to a television. It displays the information processed by the computer. We can see text, pictures, videos, games, websites, and other information on the monitor.
@@ -2180,8 +2203,8 @@ A monitor is a screen that looks similar to a television. It displays the inform
 For example, when we type our name using a keyboard, the name appears on the monitor. When we watch an educational video, the monitor displays the video.
 
 The monitor is called an output device because it shows us the results of the computer's work.
-
-<strong>2. Keyboard (Input Device):</strong>
+</div>
+<div><strong>2. Keyboard (Input Device):</strong>
 
 A keyboard is an input device that contains different keys. These keys include letters, numbers, symbols, and special keys.
 
@@ -2190,29 +2213,31 @@ We use the keyboard to type words, sentences, numbers, passwords, and instructio
 For example, when we write a school essay on a computer, we use the keyboard to type the essay. The computer receives the information entered through the keyboard.
 
 The keyboard is called an input device because it helps us enter data and instructions into the computer.
-
-<strong>3. Mouse (Input Device):</strong>
+</div>
+<div><strong>3. Mouse (Input Device):</strong>
 
 A mouse is a pointing device that helps us control the pointer on the computer screen. It usually has two main buttons and a scroll wheel.
 
 We use the mouse to move the pointer, click on icons, select files, open programs, drag objects, and scroll through pages.
 
 Some common mouse actions are:
-
+<div>
 <strong>Click:</strong> Pressing a mouse button once to select an item or perform an action.
-
-<strong>Double-click:</strong> Pressing the mouse button twice quickly to open a file or program in many desktop environments.
-
-<strong>Right-click:</strong> Pressing the right mouse button to open a menu with additional options.
-
-<strong>Scroll:</strong> Moving the scroll wheel to move up or down a page.
-
-<strong>Drag and Drop:</strong> Holding down a mouse button while moving an item to another location.
+</div>
+<div><strong>Double-click:</strong> Pressing the mouse button twice quickly to open a file or program in many desktop environments.
+</div>
+<div><strong>Right-click:</strong> Pressing the right mouse button to open a menu with additional options.
+</div>
+<div><strong>Scroll:</strong> Moving the scroll wheel to move up or down a page.
+</div>
+<div><strong>Drag and Drop:</strong> Holding down a mouse button while moving an item to another location.
 
 For example, when you want to open a drawing program, you can move the pointer to its icon and double-click it.
 
 The mouse is called an input device because it helps us give instructions to the computer.
-
+</div>
+</div>
+<div>
 <strong>4. CPU (Central Processing Unit):</strong>
 
 The CPU is one of the most important components of a computer. CPU stands for Central Processing Unit. It executes program instructions, performs calculations, and processes data.
@@ -2224,7 +2249,8 @@ For example, when you use a calculator application to add 25 and 15, the CPU hel
 The CPU works with other components, such as RAM and storage, to run applications and process information.
 
 <strong>Important:</strong> The CPU is a small electronic component, usually installed on the motherboard. People sometimes call the entire desktop system unit the CPU, but technically, the CPU is only one component inside it.
-
+</div>
+<div>
 <strong>5. RAM (Random Access Memory):</strong>
 
 RAM stands for Random Access Memory. It is the computer's temporary working memory. It holds the data and instructions that the computer needs while programs are running.
@@ -2234,8 +2260,8 @@ For example, when you open a drawing application and start drawing a picture, RA
 RAM allows the computer to access currently needed information quickly. If you open several applications at the same time, they may use more RAM.
 
 RAM is called volatile memory because its contents are normally lost when the computer is switched off. Therefore, you should save your work to a storage drive if you want to keep it.
-
-<strong>6. Storage Drive (HDD or SSD):</strong>
+</div>
+<div><strong>6. Storage Drive (HDD or SSD):</strong>
 
 A storage drive stores information for long-term use. It can keep documents, photographs, videos, music, games, applications, and other files even when the computer is switched off.
 
@@ -2248,7 +2274,7 @@ There are two common types of storage drives:
 For example, when you save your school project, the file is stored on the computer's storage drive. You can open it again later, even after turning the computer off and on.
 
 <strong>Remember:</strong> RAM is temporary working memory, while an HDD or SSD stores information for long-term use.
-
+</div>
 <strong>7. Speakers and Headphones (Output Devices):</strong>
 
 Speakers and headphones allow us to hear sounds produced by a computer.
@@ -4754,7 +4780,7 @@ Another example is a railway reservation system that manages ticket bookings and
 मेनफ्रेम कंप्यूटर बैंक को इन लेन-देन को प्रोसेस करने, ग्राहकों के खाते अपडेट करने और रिकॉर्ड सही बनाए रखने में मदद कर सकता है। इसे बहुत अधिक कार्यभार को भरोसेमंद तरीके से संभालने के लिए बनाया जाता है।
 
 एक अन्य उदाहरण रेलवे आरक्षण प्रणाली है, जो अनेक यात्रियों की टिकट बुकिंग और सीटों की उपलब्धता का रिकॉर्ड संभालती है।`,
-            image: "",
+            image: ques38,
             video: "",
             example_image: ""
           },
@@ -4943,7 +4969,7 @@ In simple words, a computer system is a combination of hardware, software, data,
 सरल शब्दों में, कंप्यूटर सिस्टम हार्डवेयर, सॉफ्टवेयर, डेटा, उपयोगकर्ताओं और प्रक्रियाओं का एक समूह है, जो मिलकर कार्यों को पूरा करता है और उपयोगी परिणाम प्रदान करता है।`,
             example: `Example: When a student types 5 + 3 using a keyboard, the keyboard sends the input to the computer. The CPU processes the numbers and calculates the answer. The monitor displays 8 as the output, and the result can be saved in a file. The hardware, software, data, and user work together as a computer system.`,
             exampleHi: `उदाहरण: जब कोई विद्यार्थी कीबोर्ड से 5 + 3 टाइप करता है, तो कीबोर्ड यह इनपुट कंप्यूटर तक पहुँचाता है। CPU संख्याओं को प्रोसेस करके उत्तर निकालता है। मॉनिटर पर 8 दिखाई देता है और इस परिणाम को किसी फाइल में सुरक्षित भी किया जा सकता है। इस प्रक्रिया में हार्डवेयर, सॉफ्टवेयर, डेटा और उपयोगकर्ता मिलकर कंप्यूटर सिस्टम के रूप में काम करते हैं।`,
-            image: "",
+            image: ques41,
             video: "",
             example_image: ""
           },
@@ -5100,7 +5126,7 @@ In simple words, the system unit is the main case of a desktop computer. It cont
 सरल शब्दों में, सिस्टम यूनिट डेस्कटॉप कंप्यूटर का मुख्य बॉक्स है। इसके अंदर वे महत्वपूर्ण भाग होते हैं जो डेटा को प्रोसेस करते हैं, सॉफ्टवेयर चलाते हैं, जानकारी सुरक्षित रखते हैं और कंप्यूटर को उपयोगी कार्य करने में मदद करते हैं।`,
             example: `Example: When a student opens Paint and draws a picture, the system unit's processor runs the program, RAM holds the information being used, and the graphics system helps display the picture on the monitor. When the student saves the drawing, it is stored on an SSD or hard drive inside the system unit.`,
             exampleHi: `उदाहरण: जब कोई विद्यार्थी Paint खोलकर चित्र बनाता है, तो सिस्टम यूनिट का प्रोसेसर प्रोग्राम चलाता है, RAM उपयोग की जा रही जानकारी को अस्थायी रूप से रखती है और ग्राफिक्स सिस्टम चित्र को मॉनिटर पर दिखाने में मदद करता है। जब विद्यार्थी चित्र को सेव करता है, तो वह सिस्टम यूनिट के अंदर मौजूद SSD या हार्ड ड्राइव में सुरक्षित हो जाता है।`,
-            image: "",
+            image: ques42,
             video: "",
             example_image: ""
           },
@@ -5257,7 +5283,7 @@ In simple words, a monitor is the screen that shows us the computer's output, su
 सरल शब्दों में, मॉनिटर वह स्क्रीन है जो कंप्यूटर का आउटपुट दिखाती है, जैसे शब्द, चित्र, वीडियो और गेम। यह हमें अपने काम के परिणाम देखने और समझने में मदद करती है।`,
             example: `Example: When a student types their name in a document, the words appear on the monitor. When the student opens an educational video, the monitor displays the video. The monitor helps the student see the computer's output.`,
             exampleHi: `उदाहरण: जब कोई विद्यार्थी किसी दस्तावेज़ में अपना नाम टाइप करता है, तो शब्द मॉनिटर पर दिखाई देते हैं। जब वह कोई शैक्षिक वीडियो खोलता है, तो मॉनिटर उस वीडियो को दिखाता है। इस प्रकार मॉनिटर विद्यार्थी को कंप्यूटर का आउटपुट देखने में मदद करता है।`,
-            image: "",
+            image: ques43,
             video: "",
             example_image: ""
           },
@@ -5494,7 +5520,7 @@ In simple words, a keyboard is an input device that helps us communicate with a 
 सरल शब्दों में, कीबोर्ड एक इनपुट डिवाइस है, जो अक्षर, संख्याएँ, प्रतीक और निर्देश कंप्यूटर तक पहुँचाने में मदद करता है। इससे टाइपिंग करना, सीखना, काम करना और कंप्यूटर प्रोग्रामों को नियंत्रित करना आसान हो जाता है।`,
             example: `Example: A student opens a document and uses the keyboard to type, "My name is Rahul." The alphabet keys enter the letters, the spacebar creates spaces between words, and the Enter key can move the cursor to a new line. The typed sentence appears on the monitor.`,
             exampleHi: `उदाहरण: एक विद्यार्थी दस्तावेज़ खोलता है और कीबोर्ड से "My name is Rahul." टाइप करता है। अक्षरों वाली की से अक्षर लिखे जाते हैं, स्पेसबार शब्दों के बीच खाली जगह देता है और Enter की से कर्सर को नई लाइन में ले जाया जा सकता है। टाइप किया गया वाक्य मॉनिटर पर दिखाई देता है।`,
-            image: "",
+            image: ques44,
             video: "",
             example_image: ""
           },
@@ -5707,7 +5733,7 @@ In simple words, a mouse is an input device that helps us control the pointer an
 सरल शब्दों में, माउस एक इनपुट डिवाइस है, जो कंप्यूटर की स्क्रीन पर पॉइंटर को नियंत्रित करने और दिखाई देने वाली वस्तुओं के साथ काम करने में मदद करता है। इससे डिजिटल चीज़ों को चुनना, खोलना, स्थानांतरित करना और व्यवस्थित करना आसान हो जाता है।`,
             example: `Example: A student wants to open a folder named "Homework" on the computer. The student moves the mouse pointer over the folder and double-clicks the left mouse button. The folder opens on the screen. The student can then use the mouse to select a document or scroll through a list of files.`,
             exampleHi: `उदाहरण: एक विद्यार्थी कंप्यूटर पर "Homework" नाम का फोल्डर खोलना चाहता है। वह माउस के पॉइंटर को फोल्डर के ऊपर ले जाता है और बाएँ बटन को दो बार जल्दी-जल्दी दबाता है। फोल्डर स्क्रीन पर खुल जाता है। इसके बाद विद्यार्थी माउस की मदद से कोई दस्तावेज़ चुन सकता है या फाइलों की सूची में ऊपर-नीचे जा सकता है।`,
-            image: "",
+            image: ques45,
             video: "",
             example_image: ""
           },
@@ -5936,7 +5962,7 @@ CPU कैबिनेट और मॉनिटर में अंतर:
 सरल शब्दों में, CPU कैबिनेट वह बॉक्स है जिसमें डेस्कटॉप कंप्यूटर के महत्वपूर्ण भाग रखे और सुरक्षित किए जाते हैं। इसके अंदर CPU, मदरबोर्ड, RAM, स्टोरेज, पावर सप्लाई और अन्य घटक मिलकर कंप्यूटर को अलग-अलग कार्य करने में मदद करते हैं।`,
             example: `Example: When a student switches on a desktop computer, the CPU cabinet supplies a protected place for the motherboard, CPU, RAM, storage drive, and power supply. The computer uses these components to run a learning program, while the monitor displays the lesson and the keyboard and mouse let the student interact with it.`,
             exampleHi: `उदाहरण: जब कोई विद्यार्थी डेस्कटॉप कंप्यूटर चालू करता है, तो CPU कैबिनेट मदरबोर्ड, CPU, RAM, स्टोरेज ड्राइव और पावर सप्लाई को रखने और सुरक्षित रखने का स्थान प्रदान करता है। कंप्यूटर इन घटकों की मदद से पढ़ाई का प्रोग्राम चलाता है। मॉनिटर पर पाठ दिखाई देता है और विद्यार्थी कीबोर्ड तथा माउस से उस प्रोग्राम का उपयोग करता है।`,
-            image: "",
+            image: ques46,
             video: "",
             example_image: ""
           },
@@ -6047,7 +6073,7 @@ Remember: Speakers help us hear sound from a computer. They are output devices, 
 याद रखें: स्पीकर कंप्यूटर की आवाज़ सुनने में हमारी मदद करते हैं। ये आउटपुट डिवाइस हैं, जैसे मॉनिटर स्क्रीन पर जानकारी दिखाता है।`,
             example: `Example: When Riya watches an educational video on her computer, the speakers play the teacher's voice so she can listen to the lesson. She can also use the speakers to listen to music or hear sounds while playing a computer game.`,
             exampleHi: `उदाहरण: जब रिया अपने कंप्यूटर पर शैक्षिक वीडियो देखती है, तो स्पीकर शिक्षक की आवाज़ सुनाते हैं, जिससे वह पाठ सुन सकती है। वह स्पीकर की मदद से संगीत भी सुन सकती है और कंप्यूटर गेम खेलते समय उसकी आवाज़ें भी सुन सकती है।`,
-            image: "",
+            image: ques47,
             video: "",
             example_image: ""
           },
@@ -6174,7 +6200,7 @@ Remember:
 - स्पीकर = आउटपुट डिवाइस (कंप्यूटर की आवाज़ सुनाता है)।`,
             example: `Example: During an online class, Aman speaks into his laptop's microphone to answer his teacher's question. The microphone captures his voice, and the computer sends it to the teacher through the internet. Aman can also use a microphone to record a story for his school project.`,
             exampleHi: `उदाहरण: ऑनलाइन कक्षा के दौरान अमन अपने लैपटॉप के माइक्रोफोन में बोलकर शिक्षक के प्रश्न का उत्तर देता है। माइक्रोफोन उसकी आवाज़ को ग्रहण करता है और कंप्यूटर इंटरनेट के माध्यम से उसे शिक्षक तक पहुँचाता है। अमन अपने स्कूल प्रोजेक्ट के लिए कहानी रिकॉर्ड करने में भी माइक्रोफोन का उपयोग कर सकता है।`,
-            image: "",
+            image: ques48,
             video: "",
             example_image: ""
           },
@@ -6301,7 +6327,7 @@ Remember: A webcam captures pictures and videos and sends them to a computer. It
 याद रखें: वेबकैम तस्वीरें और वीडियो कैप्चर करके कंप्यूटर तक पहुँचाता है। इसलिए यह एक इनपुट डिवाइस है।`,
             example: `Example: During an online class, Priya uses her laptop's webcam so her teacher can see her while she answers a question. She can also use a webcam to make a video for a school project or talk face-to-face with her grandparents who live far away.`,
             exampleHi: `उदाहरण: ऑनलाइन कक्षा के दौरान प्रिया अपने लैपटॉप के वेबकैम का उपयोग करती है, ताकि प्रश्न का उत्तर देते समय उसकी शिक्षक उसे देख सकें। वह वेबकैम की मदद से स्कूल प्रोजेक्ट के लिए वीडियो भी बना सकती है या दूर रहने वाले अपने दादा-दादी से आमने-सामने वीडियो कॉल पर बात कर सकती है।`,
-            image: "",
+            image: ques49,
             video: "",
             example_image: ""
           },
@@ -6438,7 +6464,7 @@ Remember: Headphones help us hear sound privately. They are output devices, and 
 याद रखें: हेडफोन हमें निजी रूप से आवाज़ सुनने में मदद करते हैं। ये आउटपुट डिवाइस हैं और कुछ हेडफोन में बोलने के लिए माइक्रोफोन भी होता है।`,
             example: `Example: During an online class, Rahul wears headphones to hear his teacher clearly without disturbing his family. He uses a headset with a microphone to answer questions. After class, he uses the same headphones to listen to an educational video, keeping the volume at a safe level.`,
             exampleHi: `उदाहरण: ऑनलाइन कक्षा के दौरान राहुल अपने शिक्षक की आवाज़ स्पष्ट रूप से सुनने के लिए हेडफोन पहनता है, ताकि उसके परिवार के लोगों को परेशानी न हो। वह प्रश्नों का उत्तर देने के लिए माइक्रोफोन वाले हेडसेट का उपयोग करता है। कक्षा के बाद वह सुरक्षित आवाज़ के स्तर पर शैक्षिक वीडियो भी सुनता है।`,
-            image: "",
+            image: ques410,
             video: "",
             example_image: ""
           },
@@ -6609,7 +6635,7 @@ UPS बिजली बंद होने पर बैटरी की मद�
 याद रखें: UPS का पूरा नाम Uninterruptible Power Supply है। बिजली जाने पर यह कुछ समय के लिए बैकअप देता है, ताकि हम अपना काम सेव करके कंप्यूटर को सुरक्षित तरीके से बंद कर सकें।`,
             example: `Example: Rahul is doing his school project on a desktop computer when the electricity suddenly goes off. Because the computer is connected to a UPS, it continues running for a short time. Rahul saves his project and shuts down the computer safely before the UPS battery runs out.`,
             exampleHi: `उदाहरण: राहुल डेस्कटॉप कंप्यूटर पर अपना स्कूल प्रोजेक्ट बना रहा होता है, तभी अचानक बिजली चली जाती है। उसका कंप्यूटर UPS से जुड़ा होने के कारण कुछ समय तक चालू रहता है। राहुल अपना प्रोजेक्ट सेव कर लेता है और UPS की बैटरी खत्म होने से पहले कंप्यूटर को सुरक्षित तरीके से बंद कर देता है।`,
-            image: "",
+            image: ques411,
             video: "",
             example_image: ""
           }
@@ -7879,7 +7905,7 @@ Remember: The CPU is often called the brain of the computer because it processes
 उदाहरण 4: जब आप ड्रॉइंग प्रोग्राम खोलते हैं, तो CPU उन निर्देशों को प्रोसेस करता है जो चित्र बनाने और उनमें बदलाव करने में मदद करते हैं।
 
 याद रखें: CPU को अक्सर कंप्यूटर का दिमाग कहा जाता है क्योंकि यह निर्देशों को प्रोसेस करता है और कंप्यूटर की कई गतिविधियों का समन्वय करता है।`,
-            image: "",
+            image: ques61,
             video: "",
             example_image: ""
           },
@@ -8360,7 +8386,7 @@ Remember: A keyboard helps us enter letters, numbers, symbols, and instructions 
 उदाहरण 6: स्मार्टफ़ोन पर आप अपने दोस्त को संदेश भेजने के लिए ऑन-स्क्रीन कीबोर्ड का उपयोग करते हैं।
 
 याद रखें: कीबोर्ड हमें कंप्यूटर में अक्षर, संख्याएँ, प्रतीक और निर्देश दर्ज करने में मदद करता है।`,
-            image: "",
+            image: ques62,
             video: "",
             example_image: ""
           },
@@ -8755,7 +8781,7 @@ Remember: A mouse helps us point, click, select, scroll, and move items on a com
 उदाहरण 5: आप पॉइंटर को Save बटन पर ले जाकर क्लिक करते हैं और अपना काम सहेज लेते हैं।
 
 याद रखें: माउस कंप्यूटर स्क्रीन पर वस्तुओं की ओर संकेत करने, क्लिक करने, चुनने, स्क्रॉल करने और उन्हें हिलाने में मदद करता है।`,
-            image: "",
+            image: ques63,
             video: "",
             example_image: ""
           },
@@ -9004,7 +9030,7 @@ A scanner is an input device that converts printed documents, photographs, and d
 5. **पुस्तकालय:** पुस्तकालय का कर्मचारी किसी उपयुक्त दस्तावेज की डिजिटल कॉपी बनाने के लिए उसे स्कैन करता है।
 
 **याद रखें:** स्कैनर कागज पर मौजूद जानकारी को डिजिटल रूप में बदलता है। यह एक इनपुट डिवाइस है।`,
-            image: "",
+            image: ques64,
             video: "",
             example_image: ""
           },
@@ -9259,7 +9285,7 @@ USB माइक्रोफोन कंप्यूटर के USB पोर
 6. **गेमिंग:** दोस्त ऑनलाइन गेम खेलते समय हेडसेट माइक्रोफोन से एक-दूसरे से बात करते हैं।
 
 **याद रखें:** माइक्रोफोन आवाज़ को कंप्यूटर तक पहुँचाता है, जबकि स्पीकर कंप्यूटर से आवाज़ बाहर निकालता है।`,
-            image: "",
+            image: ques65,
             video: "",
             example_image: ""
           },
@@ -9562,7 +9588,7 @@ Full HD वेबकैम आमतौर पर 1920 × 1080 पिक्स�
 6. **वीडियो ट्यूटोरियल:** वीडियो निर्माता कंप्यूटर के किसी विषय को समझाते हुए ट्यूटोरियल रिकॉर्ड करता है।
 
 **याद रखें:** वेबकैम तस्वीरें और वीडियो कैप्चर करता है, जबकि माइक्रोफोन आवाज़ कैप्चर करता है।`,
-            image: "",
+            image: ques66,
             video: "",
             example_image: ""
           },
@@ -9895,7 +9921,7 @@ A joystick is an input device used to control direction and movement in computer
 6. **मशीन नियंत्रण:** प्रशिक्षित ऑपरेटर औद्योगिक जॉयस्टिक से उपयुक्त मशीन को नियंत्रित करता है।
 
 **याद रखें:** जॉयस्टिक कंप्यूटर को गति और दिशा के निर्देश भेजता है। कंप्यूटर उन निर्देशों के अनुसार किसी वस्तु को चलाता है या कोई क्रिया करता है।`,
-            image: "",
+            image: ques67,
             video: "",
             example_image: ""
           },
@@ -10170,7 +10196,7 @@ A light pen is a pointing input device that was traditionally used with compatib
 5. **ग्राफिक्स संपादन:** उपयोगकर्ता समर्थित सिस्टम पर किसी चित्र के विशेष भाग की ओर इशारा करके उसे चुनता है।
 
 **याद रखें:** पारंपरिक लाइट पेन संगत डिस्प्ले से आने वाली रोशनी को पहचानता है। यह आधुनिक टचस्क्रीन स्टाइलस से अलग होता है।`,
-            image: "",
+            image: ques68,
             video: "",
             example_image: ""
           },
@@ -10547,7 +10573,7 @@ A touchscreen is a display that accepts touch as input and shows information as 
 7. **कार की स्क्रीन:** चालक संगत टचस्क्रीन से नेविगेशन या संगीत का विकल्प चुनता है।
 
 **याद रखें:** टचस्क्रीन इनपुट और आउटपुट दोनों डिवाइस है, क्योंकि यह हमारे स्पर्श को स्वीकार करती है और जानकारी दिखाती है।`,
-            image: "",
+            image: ques69,
             video: "",
             example_image: ""
           },
@@ -10735,7 +10761,7 @@ Remember: A barcode reader reads the code, while a computer or connected system 
 
 याद रखें: बारकोड रीडर कोड पढ़ता है, जबकि कंप्यूटर या उससे जुड़ा सिस्टम उस कोड की मदद से संबंधित जानकारी खोजता है।`,
 
-            image: "",
+            image: ques610,
             video: "",
             example_image: ""
           },
@@ -10987,7 +11013,7 @@ Look at pictures of a fingerprint scanner, a face recognition camera, and an iri
 
 **याद रखें:** बायोमेट्रिक डिवाइस व्यक्ति की विशेषताओं से संबंधित जानकारी एकत्र करके उसकी पहचान करने या पहचान की पुष्टि करने में मदद करता है। बायोमेट्रिक जानकारी निजी होती है और इसे सुरक्षित रखना चाहिए।`,
 
-            image: "",
+            image: ques611,
             video: "",
             example_image: ""
           }
